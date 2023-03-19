@@ -3,7 +3,7 @@ Date: 2023-03-19 16:40
 Author: Unbound Nomad
 Category: Blog
 Tags: Motorcycles, Lifestyle, Rain, Riding, Gear, Skill
-Slug: unbound-nomad
+Slug: stay-safe-ride-hard
 Status: published
 
 Riding a motorcycle in the rain can be challenging and risky, but with the right preparation and safety measures, you can enjoy the ride without compromising your well-being. As motorcycle enthusiasts, we understand the thrill and joy of hitting the open road and feeling the wind in our hair. However, riding in wet weather requires a different set of skills and precautions to keep yourself and others safe.
