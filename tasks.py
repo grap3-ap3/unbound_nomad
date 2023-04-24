@@ -21,6 +21,9 @@ CONFIG = {
     'settings_publish': 'publishconf.py',
     # Output path. Can be absolute or relative to tasks.py. Default: 'output'
     'deploy_path': SETTINGS['OUTPUT_PATH'],
+    # Github Pages configuration
+    'github_pages_branch': 'master',
+    'commit_message': "'Publish site on {}'".format(datetime.date.today().isoformat()),
     # Port for `serve`
     'port': 8000,
 }
@@ -108,3 +111,10 @@ def publish(c):
             CONFIG['deploy_path'].rstrip('/') + '/',
             **CONFIG))
 
+@task
+def gh_pages(c):
+    """Publish to GitHub Pages"""
+    preview(c)
+    c.run('ghp-import -b {github_pages_branch} '
+          '-m {commit_message} '
+          '{deploy_path} -p'.format(**CONFIG))
