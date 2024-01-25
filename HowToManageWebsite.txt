@@ -1,0 +1,12 @@
+Website lives here: D:\Dropbox\UnboundNomad\DevSite\
+
+Make changes in /content
+
+To process changes and test: 
+	cd D:\Dropbox\UnboundNomad\DevSite
+	pelican content
+	cd D:\Dropbox\UnboundNomad\DevSite\output
+	python -m http.server
+	
+	
+CNAME file is a copy of the same file from GitHub.This file lives in the master document root. 
