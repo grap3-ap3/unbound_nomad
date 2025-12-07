@@ -9,4 +9,16 @@ To process changes and test:
 	python -m http.server
 	
 	
-CNAME file is a copy of the same file from GitHub.This file lives in the master document root. 
+CNAME file is a copy of the same file from GitHub.This file lives in the master document root.
+
+To change the color of the sidebar: 
+	aside{background-color:#6B00A1
+		Original: #333
+		Complimentary to purple: #bb9306
+		
+	Aside hover color: #eee
+	
+	
+Color wheel help: https://www.canva.com/colors/color-wheel/
+MY Purple: #750AA8
+Complimentary green: #3DA80A
