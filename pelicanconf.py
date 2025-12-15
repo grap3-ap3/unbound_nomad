@@ -1,6 +1,6 @@
 AUTHOR = 'The Unbound Nomad'
 SITENAME = 'The Unbound Nomad'
-SITEURL = 'http://unboundnomad.com'
+SITEURL = 'https://unboundnomad.com'
 PATH = 'content'
 OUTPUT_PATH = 'output'
 STATIC_PATHS = ['images']
