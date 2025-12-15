@@ -1,25 +1,9 @@
 AUTHOR = 'The Unbound Nomad'
 SITENAME = 'The Unbound Nomad'
-SITEURL = 'https://www.unboundnomad.com'
+SITEURL = 'https://unboundnomad.com'
 PATH = 'content'
 OUTPUT_PATH = 'output'
-STATIC_PATHS = ['images', 'extra']
-
-EXTRA_PATH_METADATA = {
-    'extra/custom.css': {'path': 'static/custom.css'},
-}
-
-# Flex supports loading a custom CSS file via CUSTOM_CSS
-CUSTOM_CSS = 'static/custom.css'  # :contentReference[oaicite:1]{index=1}
-
-# --- Template overrides (so we can replace only the footer without forking Flex) ---
-THEME_TEMPLATES_OVERRIDES = ['theme_overrides/templates']  # :contentReference[oaicite:2]{index=2}
-
-# --- Choose footer style: "biker" or "premium" ---
-FOOTER_STYLE = 'biker'
-FOOTER_TAGLINE = "All-inclusive motorcycle adventures. You show up. We handle the rest."
-FOOTER_CTA_TEXT = "Book a Ride"
-FOOTER_CTA_URL = "/pages/contact.html"   # change if your contact URL differs
+STATIC_PATHS = ['images']
 
 DELETE_OUTPUT_DIRECTORY = True
 
@@ -28,7 +12,6 @@ TIMEZONE = 'UTC'
 DEFAULT_LANG = 'en'
 #THEME = '..\\Flex'
 THEME = 'D:\\Dropbox\\projects\\code\\github\\pelican-themes\\Flex'
-#SITELOGO = 'theme/img/dark.png'
 # Feed generation is usually not desired when developing
 #FEED_ALL_ATOM = None
 #CATEGORY_FEED_ATOM = None
@@ -40,6 +23,7 @@ THEME = 'D:\\Dropbox\\projects\\code\\github\\pelican-themes\\Flex'
 # Added 1/24
 ARTICLE_PATHS = ['articles']
 articles_page = 'articles_page'
+ARTICLE_PATHS = ['articles']
 ARTICLE_URL = 'blog/{slug}.html'
 ARTICLE_SAVE_AS = 'blog/{slug}.html'
 ARTICLE_ORDER_BY = 'date'
@@ -64,8 +48,6 @@ SOCIAL = (('youtube', 'https://www.youtube.com/channel/UCvAAwLc11f4EUAAhSuLK5pw'
           ('facebook', 'https://www.facebook.com/profile.php?id=61554818544356'),
           ('twitter (@unbound_nomad)', 'https://x.com/unbound_nomad/'),
           ('instagram (@unbound_nomad)', 'https://www.instagram.com/unbound_nomad/'),)
-#          ('TikTok', 'https://www.tiktok.com/@unbound_nomad'),)
-
 
 DEFAULT_PAGINATION = 10
 
@@ -78,6 +60,3 @@ RELATIVE_URLS = True
 #    ('Home', '/'),
 #    ('Blog', '/blog/index.html'),
 #)
-
-from datetime import date
-CURRENT_YEAR = str(date.today().year)
