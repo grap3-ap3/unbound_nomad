@@ -1,55 +1,160 @@
 Title: Rides
-Date: 2024-01-13 19:54
-Author: Unbound Nomad
+Date: 2025-12-06 12:10
+Author: The Unbound Nomad
 Category: Page
-Tags: Motorcycles, Lifestyle
+Tags: Motorcycle rides, Guided rides, Micro-adventures
 Slug: rides
 Status: published
 
-In addition to custom vacation packages, available year-round, here is our 2024 ride calendar:
+# 2026 Micro-Adventures & Guided Rides
 
-|Date|Event|Notes|
-| :------: | :------------- | :-------------------------------------|
-| 1/1/2024 | Polar Bear Run | Annual New Year's Day Ride 			|
-|2/28/2024 | Sunshine Run	| Run from Ohio to Daytona Bike Week	|
-|4/16/2024 | Fist City Run	| Run to Motorcycles & Music Revival	|
-|5/24/2024 | Buckeye Run	| Run to Ohio Bike Week					|
-|7/11/2024 | Lincoln Run	| Run to Gettysburg Bike Week			|
-| 8/1/2024 | Connecticut River Byway	| A ride along an All-American Road|
-| 9/1/2024 | Canada	 		| Details TBD							|
+In previous years, The Unbound Nomad focused on a fixed annual ride calendar.  
+For 2026 and beyond, the focus shifts to **flexible, high-quality single-day guided rides** that are built around you.
 
-<div style="text-align: justify">Let us build your custom motorcycle adventure vacation package! The Unbound Nomad offers all-inclusive tours, with guided and unguided options and a wide variety of options to fit your budget. Here is a list of customizable tour packages The Unbound Nomad is offering in 2024:</div>
+Instead of cramming everything into one rigid schedule, Micro-Adventures are offered on select dates throughout the riding season, with options for:
 
-# Colorado 
-[San Juan Mountain Skyway](../san-juan-mountain-skyway-tour.html)
+- **Open group rides** – join other riders on curated routes  
+- **Private group rides** – reserve the day for your club, friends, or organization  
 
-# Idaho 
-[Northwest Passage Scenic Byway](../northwest-passage-scenic-byway-tour.html)
+<p style="margin:1rem 0 1.5rem 0;">
+  <a href="booking.html" class="un-btn">
+    📝 Get 2026 Ride Info
+  </a>
+</p>
 
-# Ohio 
-[The Windy 9](../ohios-windy-9-tour.html#ohios-windy-9-tour)
+---
 
-# South Dakota
-[Badlands Tour](../badlands-tour.html)<br>
-[Devil's Tower](../devils-tower-tour.html)<br>
-[Native American Scenic Byway](../native-american-scenic-byway-tour.html#native-american-scenic-byway-tour)
+---
 
-# Tennessee 
-[Tail of the Dragon](../tail-of-the-dragon-tour.html)<br>
-[Cherohala Skyway](../cherohalaskyway-tour.html)
+## What to Expect on a Micro-Adventure
 
-# Virginia 
-[Skyline Drive](../skyline-drive-tour.html#skyline-drive-tour)
+Every ride is designed to feel intentional — not thrown together the night before.
 
-# Wyoming 
-[Beartooth Highway](../beartooth-highway-tour.html)<br>
-[Yellowstone National Park](../yellowstone-national-park-tour.html)
+- Professionally curated scenic routes  
+- Group ride briefing and safety overview  
+- Smart pacing designed for enjoyment, not punishment  
+- Fuel and food stops built into the plan  
+- Scenic photo stops and storytelling along the way  
 
-# Rallies 
-[Daytona Bike Week](../daytona-bike-week.html)<br>
-[Ohio Bike Week](../ohio-bike-week.html#ohio-bike-week)<br>
-[Sturgis](../sturgis-motorcycle-rally.html)
+You show up with a full tank. I handle the rest.
 
-# Multi-state runs 
-[Natchez Trace](../natchez-trace-tour.html)<br>
-[Blue Ridge Parkway](../blue-ridge-parkway-tour.html)
+---
+
+---
+
+## 2026 Ride Types
+
+### Standard Single-Day Ride — **$119 per rider**
+
+- Guided group ride on a curated route  
+- Pre-ride briefing and expectations  
+- Planned fuel, food, and scenic stops  
+
+Perfect for riders who want to explore new roads without doing any planning.
+
+---
+
+### Premium Single-Day Ride — **$199 per rider**
+
+- Everything in the Standard Single-Day Ride  
+- **Plus:** a short rider highlight video (roughly 15–30 seconds) captured and edited for you  
+
+Ideal if you want both the experience *and* something to share or look back on.
+
+---
+
+### Private Group Ride — **$749 flat + $59 per rider**
+
+Designed for clubs, veteran groups, or just a tight crew of friends.
+
+- Fully custom route built for your group  
+- Flexible schedule (subject to availability)  
+- Group-focused pacing and stops  
+- Extra time built in for photos and memories  
+
+---
+---
+
+<div style="
+  border:1px solid #ddd;
+  background:#fafafa;
+  padding:1.5rem;
+  border-radius:6px;
+  margin:2.5rem 0;
+">
+
+### 🌟 Featured 2026 Ride
+
+Looking for a bucket-list motorcycle adventure in 2026?  
+The **Legends Never Die Tour** runs the full length of Route 66 — from Chicago to Santa Monica — and riders of all levels are welcome to join any portion of the run.
+
+<p style="margin:1rem 0;">
+  <a href="/articles/legends-never-die-tour.html" class="un-btn">
+    🏍️ View the Tour
+  </a>
+</p>
+
+</div>
+
+---
+---
+
+## 2026 Ride Calendar (Tentative)
+
+Dates and locations may shift with weather and demand, but this gives you a sense of how the 2026 season will shape up.
+
+| Month               | Region / Base                    | Sample Ride Focus                                             | Availability                    |
+|--------------------:|----------------------------------|----------------------------------------------------------------|---------------------------------|
+| March               | Daytona Beach, FL                | Daytona Bike Week – meetups, pop-up rides & content filming   | Limited / by request            |
+| April               | Hocking Hills, OH                | Spring Shakedown – first twisties of the year                 | Limited open & private days     |
+| May                 | SE Ohio / Pre-tour prep          | Local shakedown rides + Legends Never Die Tour prep           | Open group & private            |
+| May 25 – June 3     | Multi-state tour (TBD route)     | **Legends Never Die Tour** – multi-day “miles that matter” ride | Tour dates locked; details TBA  |
+| June                | Smoky Mountains (TN/NC)          | Dragon & Skyway – Tail of the Dragon area                     | Open group & private            |
+| July                | Blue Ridge Parkway (VA/NC)       | Ridge Run – scenic sweepers & overlooks                       | Private groups preferred        |
+| August              | Appalachia (WV/KY) & Sturgis, SD | Coal Country Curves + Sturgis Bike Week (select on-location days) | On-location / limited remote    |
+| September           | Hocking Hills / SE Ohio          | Fall Preview – early color & cool temps                       | Open group & private            |
+| October             | Blue Ridge & Skyline Drive       | Peak Color Run – fall foliage focus                           | Very limited dates              |
+| November            | Weather-dependent regions (TBD)  | End-of-Season Ride – where weather allows                     | TBD / announced in season       |
+
+> **Note:** All dates are tentative and subject to weather, travel, and demand.  
+> Additional pop-up rides may be added throughout the season, including during major events like Daytona and Sturgis.
+
+For the latest ride announcements, follow **[@unbound_nomad](https://www.instagram.com/unbound_nomad/)**.
+
+
+---
+
+---
+
+## Where We Ride
+
+These are some of the core areas 2026 Micro-Adventures and guided rides will focus on:
+
+- **Ohio & Appalachia:** Ohio’s Windy 9, Hocking Hills, regional twisties  
+- **Smoky Mountains Region:** Tail of the Dragon, Cherohala Skyway area  
+- **Blue Ridge & Skyline:** Select stretches of the Blue Ridge Parkway and Skyline Drive  
+
+If you have a specific region in mind, mention it when you reach out — if it’s not a place I know well enough to guide, I’ll tell you straight.
+
+---
+
+---
+
+## Book a Ride or Reserve a Date
+
+If you see a month or region that gets your attention — or you want to reserve a **Private Group Ride** before dates fill up:
+
+<p style="margin:1rem 0 1.25rem 0;">
+  <a href="booking.html" class="un-btn">
+    🗓️ Request a 2026 Ride
+  </a>
+</p>
+
+When you reach out, it helps to include:
+
+- Which month(s) and region(s) you’re interested in  
+- Whether you’re looking for an **open ride** or a **private group**  
+- Approximate number of riders  
+- Any must-see roads or general preferences (pace, scenery, mileage)  
+
+From there, I’ll help you dial in the right ride and lock in your spot.

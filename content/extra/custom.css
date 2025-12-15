@@ -1,0 +1,130 @@
+/* =========================================================
+   Unbound Nomad – Custom CSS (Flex-safe baseline)
+   ========================================================= */
+
+/* --- Brand palette --- */
+:root {
+  --unbound-primary: #6b049e;
+  --unbound-secondary: #03fe02;
+
+  /* Flex accent hooks */
+  --accent-color: var(--unbound-primary);
+  --accent-color-secondary: var(--unbound-secondary);
+}
+
+/* --- Global links --- */
+a {
+  color: var(--accent-color);
+}
+
+a:hover {
+  color: var(--accent-color-secondary);
+}
+
+/* --- Subtle readability polish --- */
+body {
+  letter-spacing: 0.1px;
+}
+
+p {
+  line-height: 1.7;
+}
+
+/* =========================================================
+   Unbound Nomad reusable button (footer + homepage)
+   ========================================================= */
+
+.un-btn {
+  display: inline-block;
+  background: var(--unbound-primary);     /* purple */
+  color: var(--unbound-secondary);        /* green text */
+  padding: 0.7rem 1.6rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  margin-top: 0.75rem;
+  transition: color 0.15s ease-in-out;
+}
+
+.un-btn:hover,
+.un-btn:focus {
+  background: var(--unbound-primary);     /* stays purple */
+  color: #ffffff;                         /* white on hover */
+}
+
+/* =========================================================
+   Footer styling (custom override template)
+   ========================================================= */
+
+.un-footer {
+  margin-top: 3rem;
+  padding: 2rem 1rem;
+  border-top: 1px solid rgba(127,127,127,0.25);
+}
+
+.un-footer .un-footer-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: grid;
+  gap: 1.25rem;
+}
+
+.un-footer .un-brand {
+  font-weight: 800;
+  letter-spacing: 0.4px;
+}
+
+.un-footer .un-tagline {
+  opacity: 0.85;
+  margin-top: 0.35rem;
+}
+
+.un-footer .un-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem 1.25rem;
+  margin: 0.75rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.un-footer .un-links a {
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.un-footer .un-links a:hover {
+  border-bottom-color: var(--accent-color-secondary);
+}
+
+/* Footer CTA button – stable background, text-only hover */
+.un-footer .un-cta {
+  display: inline-block;
+  margin-top: 0.75rem;
+  padding: 0.6rem 0.95rem;
+  border-radius: 999px;
+  background: var(--accent-color);            /* purple stays */
+  color: var(--unbound-secondary);            /* green text */
+  text-decoration: none;
+  font-weight: 700;
+  transition: color 0.15s ease-in-out;        /* smooth text change */
+}
+
+.un-footer .un-cta:hover,
+.un-footer .un-cta:focus {
+  background: var(--accent-color);            /* no color change */
+  color: #ffffff;                             /* white on hover */
+}
+
+.un-footer .un-fineprint {
+  margin-top: 1.25rem;
+  opacity: 0.7;
+  font-size: 0.92em;
+}
+
+/* --- Biker mode accents --- */
+.un-footer.biker .un-brand {
+  text-transform: uppercase;
+}
+
+.un-foot

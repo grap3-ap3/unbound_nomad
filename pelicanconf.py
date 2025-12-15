@@ -28,7 +28,7 @@ TIMEZONE = 'UTC'
 DEFAULT_LANG = 'en'
 #THEME = '..\\Flex'
 THEME = 'D:\\Dropbox\\projects\\code\\github\\pelican-themes\\Flex'
-#SITELOGO = 'theme/img/dark.png'
+SITELOGO = 'images/logo.png'
 # Feed generation is usually not desired when developing
 #FEED_ALL_ATOM = None
 #CATEGORY_FEED_ATOM = None

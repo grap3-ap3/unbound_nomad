@@ -1,19 +1,29 @@
-Title: Contact
-Date: 2024-01-21 09:40
-Author: Unbound Nomad
+Title: Plan My Ride
+Date: 2025-12-07
+Author: The Unbound Nomad
 Category: Page
-Tags: Social
 Slug: contact
 Status: published
 
-Welcome to our contact page! We're excited to hear from you. If you have any questions, suggestions, or just want to say hello, feel free to reach out through the following channels:
+For booking rides, trip planning, or events, please use the Booking Form.
 
-- **Email:** [unboundnomad@unboundnomad.com](mailto:unboundnomad@unboundnomad.com)
+<p style="margin-top: 1rem;">
+  <a href="booking.html" class="un-btn">
+    👉 Go to Booking Form
+  </a>
+</p>
 
-- **Twitter:** [@unbound_nomad](https://x.com/unbound_nomad)
+---
+---
 
-- **Facebook:** [The Unbound Nomad](https://www.facebook.com/profile.php?id=61554818544356)
+For booking rides, trip planning, or events, please use the Booking Form.
 
-- **Instagram:** [@unbound_nomad](https://www.instagram.com/unbound_nomad/)
+<p style="margin-top: 1rem;">
+  <a href="booking.html" class="un-btn">
+    👉 Go to Booking Form
+  </a>
+</p>
 
-Feel free to connect with us on any of the platforms above. We value your feedback and look forward to hearing from you!
+If you have general questions outside of ride planning, you can still reach me at:
+
+**unboundnomad@unboundnomad.com**
