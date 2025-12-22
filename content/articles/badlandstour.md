@@ -73,8 +73,6 @@ Status: published
 
 </div>
 
-# Badlands Tour
-
 **Distance:** 182 miles  
 **Ride Time:** ~3.5 hours  
 
@@ -100,7 +98,7 @@ The farther you ride, the more the landscape feels ancient, raw, and unforgettab
 ## Want to Ride the Badlands With Confidence?
 
 <p style="margin:1rem 0 1.25rem 0;">
-  <a href="booking.html"
+  <a href="{filename}/pages/booking.md"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;">

@@ -73,8 +73,6 @@ Status: published
 
 </div>
 
-# Cherohala Skyway Tour
-
 The Cherohala Skyway was completed in the fall of 1996 after planning and construction for some thirty-four years. It was North Carolina’s most expensive scenic highway carrying a price tag of $100,000,000. It winds up and over 5,400 foot mountains for 18 miles in North Carolina and descends another 23 miles into the deeply forested back country of Tennessee. The road crosses through the Cherokee and Nantahala National Forests thus the name “Chero…hala”. The Skyway is becoming well known in motorcycling and sportscar circles for it’s long, sweeping corners, scenic views and cool summer breezes.
  
 This road enthusiast’s dream connects Robbinsville, North Carolina with Tellico Plains, Tennessee. It can be desolate at night and extremely dangerous in the winter months. There are no facilities other than a couple of restrooms for the entire 41 miles so make sure you have enough gas to make the crossing. There is little evidence of civilization from views that rival or surpass any from the Blue Ridge Parkway.
@@ -85,7 +83,7 @@ This road enthusiast’s dream connects Robbinsville, North Carolina with Tellic
 ## Interested in This Ride?
 
 <p style="margin:1rem 0 1.25rem 0;">
-  <a href="booking.html"
+  <a href="{filename}/pages/booking.md"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;">

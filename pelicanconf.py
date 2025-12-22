@@ -7,6 +7,7 @@ STATIC_PATHS = ['images', 'extra']
 
 EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path': 'static/custom.css'},
+    'extra/favicon.png': {'path': 'favicon.png'},
 }
 
 # Flex supports loading a custom CSS file via CUSTOM_CSS
@@ -28,7 +29,8 @@ TIMEZONE = 'UTC'
 DEFAULT_LANG = 'en'
 #THEME = '..\\Flex'
 THEME = 'D:\\Dropbox\\projects\\code\\github\\pelican-themes\\Flex'
-SITELOGO = 'images/logo.png'
+SITELOGO = '/images/logo.png'
+FAVICON = 'favicon.png'
 # Feed generation is usually not desired when developing
 #FEED_ALL_ATOM = None
 #CATEGORY_FEED_ATOM = None
@@ -42,7 +44,7 @@ ARTICLE_PATHS = ['articles']
 articles_page = 'articles_page'
 ARTICLE_URL = 'blog/{slug}.html'
 ARTICLE_SAVE_AS = 'blog/{slug}.html'
-ARTICLE_ORDER_BY = 'date'
+ARTICLE_ORDER_BY = 'reversed-date'
 PAGE_PATHS = ['pages']
 PAGE_URL = 'pages/{slug}.html'
 PAGE_SAVE_AS = 'pages/{slug}.html'
@@ -53,21 +55,21 @@ PAGES_ORDER_BY = 'date'
 # END ADD
 ############
 # Blogroll
-LINKS = (
-    ("Indian Motorcycles", "https://www.indianmotorcycle.com"),
-    ("Lexin Moto", "https://lexin-moto.com"),
-    ("Shoei Helmets", "https://shoei-helmets.com/"),
-)
+#LINKS = (
+#    ("Indian Motorcycles", "https://www.indianmotorcycle.com"),
+#    ("Lexin Moto", "https://lexin-moto.com"),
+#    ("Shoei Helmets", "https://shoei-helmets.com/"),
+#)
 
 # Social widget
-SOCIAL = (('youtube', 'https://www.youtube.com/channel/UCvAAwLc11f4EUAAhSuLK5pw'),
-          ('facebook', 'https://www.facebook.com/profile.php?id=61554818544356'),
-          ('twitter (@unbound_nomad)', 'https://x.com/unbound_nomad/'),
+SOCIAL = (('facebook', 'https://www.facebook.com/profile.php?id=61554818544356'),
+          ('youtube', 'https://www.youtube.com/channel/UCvAAwLc11f4EUAAhSuLK5pw'),
+#          ('twitter (@unbound_nomad)', 'https://x.com/unbound_nomad/'),
           ('instagram (@unbound_nomad)', 'https://www.instagram.com/unbound_nomad/'),)
 #          ('TikTok', 'https://www.tiktok.com/@unbound_nomad'),)
 
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True

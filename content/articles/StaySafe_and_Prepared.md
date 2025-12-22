@@ -6,8 +6,6 @@ Tags: Motorcycles, Lifestyle, Rain, Riding, Gear, Skill
 Slug: stay-safe-ride-hard
 Status: published
 
-# Stay Safe and Prepared: 10 Tips for Riding Your Motorcycle in the Rain
-
 Riding a motorcycle in the rain can be challenging and risky, but with the right preparation and safety measures, you can enjoy the ride without compromising your well-being. As motorcycle enthusiasts, we understand the thrill and joy of hitting the open road and feeling the wind in our hair. However, riding in wet weather requires a different set of skills and precautions to keep yourself and others safe.
 
 In this article, we provide 10 essential tips to help you stay safe and prepared while riding in the rain, from checking your motorcycle before hitting the road to knowing when to pull over. Whether you're a new rider or an experienced one, these tips will give you expert advice and practical recommendations for a safe and enjoyable ride in the rain.
@@ -136,7 +134,7 @@ By incorporating these tips into your rainy day riding routine, you'll be better
 If you have questions about preparing for a ride, gear, or conditions, I’m always happy to help you think it through.
 
 <p style="margin:1rem 0 1.25rem 0;">
-  <a href="booking.html"
+  <a href="{filename}/pages/booking.md"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;">

@@ -73,8 +73,6 @@ Status: published
 
 </div>
 
-# Yellowstone National Park Tour
-
 On March 1, 1872, Yellowstone became the first national park for all to enjoy the unique hydrothermal and geologic features. Within Yellowstone's 2.2 million acres, visitors have unparalleled opportunities to observe wildlife in an intact ecosystem, explore geothermal areas that contain about half the world’s active geysers, and view geologic wonders like the Grand Canyon of the Yellowstone River. The Unbound Nomad tailors custom vacation packages to the park based upon your desired lodging, and sightseeing selections and length of stay. These packages are all-inclusive and cover lodging, food, and any admissions required for the duration of your adventure. There are no predefined routes for this tour as it is one of the most customized packages offered.
 
 
@@ -83,7 +81,7 @@ On March 1, 1872, Yellowstone became the first national park for all to enjoy th
 ## Interested in This Ride?
 
 <p style="margin:1rem 0 1.25rem 0;">
-  <a href="booking.html"
+  <a href="{filename}/pages/booking.md"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;">

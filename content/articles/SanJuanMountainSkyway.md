@@ -73,8 +73,6 @@ Status: published
 
 </div>
 
-# San Juan Mountain Skyway Tour
-
 This loop trip can be done in one day, or divided up into 3 days of adventure in the area. The ride starts in Durango, a well-preserved descendant of the Old West and takes us along the San Juan Mountain Skyway, through Trimble, Hermosa, and insto Silverton. Ride the Million Dollar Highway from Silverton to Ouray, and into Ridgeway. Catch the views of Whipple Mountain, Mt. Sneffels, and Dallas Peak as the adventure takes you through Sams, Placerviller, and into picturesque Telluride, renowned for world-class skiing and film, jazz, and bluegrass festivals. Wind your way along the Delores River into Delores itself before finding your way to the final destination of this adventure in Mesa Verde National Park, home to one of the densest collections of prehistoric ruins in the U.S. - and five million acres of undisturbed national forest where you'll snake through the woods in the shadow of impressive 14,000-foot peaks.
 
 The San Juan Skyway was designated by the U.S. Secretary of Transportation as an All-American Road, the highest level of designation, in 1996. It is one of 13 America's Byways® designated in Colorado.
@@ -85,7 +83,7 @@ The San Juan Skyway was designated by the U.S. Secretary of Transportation as an
 ## Interested in This Ride?
 
 <p style="margin:1rem 0 1.25rem 0;">
-  <a href="booking.html"
+  <a href="/pages//pages/booking.md"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;">

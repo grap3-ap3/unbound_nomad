@@ -73,8 +73,6 @@ Status: published
 
 </div>
 
-# Native American Scenic Byway Tour
-
 Follow the rugged, underdeveloped terrain of the Native American Scenic Byway and experience great views of diverse landscapes and the Missouri River. The route runs north and south through central South Dakota, allowing you to travel through Yankton, Crow Creek, Cheyenne River and land of the Standing Rock Sioux Tribe. Tribal history and culture are showcased on the natural path cut by the Missouri River. Landscapes along the route include mixed-grass prairies, rolling hills and limestone cliffs. An abundance of wildlife may be seen along the byway including prairie dogs, bison and elk.
 
 
@@ -83,7 +81,7 @@ Follow the rugged, underdeveloped terrain of the Native American Scenic Byway an
 ## Interested in This Ride?
 
 <p style="margin:1rem 0 1.25rem 0;">
-  <a href="booking.html"
+  <a href="{filename}/pages/booking.md"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;">

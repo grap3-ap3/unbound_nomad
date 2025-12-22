@@ -73,8 +73,6 @@ Status: published
 
 </div>
 
-# Northwest Passage Scenic Byway Tour
-
 The Northwest Passage Scenic Byway is Idaho’s longest byway. This route follows the route Lewis and Clark navigated through north-central Idaho. It begins at Lewiston, and arrives in Lolo Pass to the east. The traverse winds along the Clearwater River Canyon, parting toward the Camas Prairie on one side while continuing along the Middle Fork of the Clearwater River on the other.
 <br>
 This byway moves through a magnificent wilderness, including the Lochsa Wild and Scenic River, and ends at the Lolo Pass Visitor Center. Following the route along U.S. 12 parallels the history trails of Lewis and Clark and Nez Perce. Before departing, stop to visit Hells Gate State Park, a public recreation area and entrance to Hells Canyon, the deepest canyon in North America, on the southern edge of Lewiston. And be sure to stop to see the Tsceminicum sculpture, a bronze artwork that speaks of Nez Perce legend creatures, located where the Clearwater and Snake Rivers meet in Lewiston.
@@ -93,7 +91,7 @@ Along the Idaho/Montana border is the DeVoto Cedar Grove, where the ashes of con
 ## Interested in This Ride?
 
 <p style="margin:1rem 0 1.25rem 0;">
-  <a href="booking.html"
+  <a href="{filename}/pages/booking.md"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;">

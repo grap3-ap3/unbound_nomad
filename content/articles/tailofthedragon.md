@@ -73,8 +73,6 @@ Status: published
 
 </div>
 
-# Tail of the Dragon Tour
-
 Designated US 129, the road is bordered by the Great Smoky Mountains and the Cherokee National Forest with no intersecting roads or driveways to hamper your travel. It is considered “the destination” for thousands of motorcycle and sports car fans throughout the spring, summer, and fall. Can you brave it? It’s best to be cautious as the turns are tight, but the Tail of the Dragon is guaranteed to be the ride of your life.
 
 
@@ -83,7 +81,7 @@ Designated US 129, the road is bordered by the Great Smoky Mountains and the Che
 ## Interested in This Ride?
 
 <p style="margin:1rem 0 1.25rem 0;">
-  <a href="booking.html"
+  <a href="{filename}/pages/booking.md"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;">

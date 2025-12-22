@@ -14,15 +14,6 @@ For booking rides, trip planning, or events, please use the Booking Form.
 </p>
 
 ---
----
-
-For booking rides, trip planning, or events, please use the Booking Form.
-
-<p style="margin-top: 1rem;">
-  <a href="booking.html" class="un-btn">
-    👉 Go to Booking Form
-  </a>
-</p>
 
 If you have general questions outside of ride planning, you can still reach me at:
 

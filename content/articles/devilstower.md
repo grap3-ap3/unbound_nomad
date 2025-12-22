@@ -73,8 +73,6 @@ Status: published
 
 </div>
 
-# Devil's Tower Tour
-
 Traveling from Sturgis to Devils Tower and back, this route takes you from a great area in South Dakota to a great area in Wyoming. The route is full of long sweeping curves that take you through diverse scenery including mountains, meadows and Devils Tower National Monument. The wide open roads are in good condition with gradual climbs and turns.
 {: width=500 height=531 style="display: block; margin: 0 auto"}
 
@@ -84,7 +82,7 @@ Traveling from Sturgis to Devils Tower and back, this route takes you from a gre
 ## Interested in This Ride?
 
 <p style="margin:1rem 0 1.25rem 0;">
-  <a href="booking.html"
+  <a href="{filename}/pages/booking.md"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;">

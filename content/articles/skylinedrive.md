@@ -73,8 +73,6 @@ Status: published
 
 </div>
 
-# Skyline Drive Tour
-
 Virginia's Skyline Drive is a National Scenic Byway that runs 105 miles along the crest of the Blue Ridge Mountains starting in the north of the Shenandoah Valley at Front Royal to Waynesboro, where it meets the Blue Ridge Parkway. Skyline Drive is Shenandoah National Park’s linear conduit, with 75 overlooks connecting travelers to all the major visitor centers, campgrounds, lodges, picnic areas and most trailheads. Concrete posts numbered every mile keep you apprised of your whereabouts. The Drive is a worthy destination in its own right.
  
 Fall is the most popular time to travel along Skyline Drive, with its colorful foliage from late September to mid-November. But spring offers the most colorful wildflowers along the drive, as well as blooming azaleas and mountain laurel.
@@ -85,7 +83,7 @@ Fall is the most popular time to travel along Skyline Drive, with its colorful f
 ## Interested in This Ride?
 
 <p style="margin:1rem 0 1.25rem 0;">
-  <a href="booking.html"
+  <a href="{filename}/pages/booking.md"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;">

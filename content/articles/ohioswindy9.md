@@ -6,8 +6,6 @@ Tags: Motorcycles, Lifestyle
 Slug: ohios-windy-9-tour
 Status: published
 
-# Ohio's Windy 9 Tour
-
 9 Thrilling Routes, 1 Great Destination. Ohio’s Windy 9 is a motorcycling destination comprised of 9 routes that begin and end in Athens, Ohio. The abundance of curves and elevation change along these roads make this a popular destination for motorcyclists. This route can be customized to fit the time you have available so come for 1, ride all 9, or let The Unbound Nomad create a customized package just for you!
 <br>
 # The Windy 9
@@ -29,7 +27,7 @@ Tripple Nickel|91.5 miles|:|2.25 hours|
 ## Interested in This Ride?
 
 <p style="margin:1rem 0 1.25rem 0;">
-  <a href="booking.html"
+  <a href="{filename}/pages/booking.md"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;">

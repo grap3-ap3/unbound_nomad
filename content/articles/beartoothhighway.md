@@ -73,8 +73,6 @@ Status: published
 
 </div>
 
-# Beartooth Highway Tour
-
 The Beartooth Highway is an All-American Road in the western United States on a section of U.S. Route 212 in Montana and Wyoming between Red Lodge and the Northeast entrance of Yellowstone National Park. Dubbed “the most beautiful roadway in America” by On the Road correspondent Charles Kuralt, the Beartooth Highway climbs to an astounding 10,947 feet above sea level. Since its completion in 1936, the Highway has awed millions of visitors with its astonishing views of one of the most rugged and wild areas in the lower 48 states.
 
 As it winds its way between the northeastern entrance of Yellowstone National Park and Red Lodge, the Highway traverses an impressive range of ecosystems – from lush lodge pole pine forests to alpine tundra. At the highway’s summit, travelers find themselves in a sky-high world of glacial cirques, clear alpine lakes, and snow that lingers through the summer months. The brutal climate at this elevation deters the growth of trees and shrubs, and the plants that do grow here have adapted in remarkable ways. Some convert sunlight to heat, and many conserve water the way desert plants do. In late June and July, the fragile tundra blossoms in a lavish display of wildflowers – shooting stars, columbine, and Indian paintbrush, to name a few.
@@ -87,7 +85,7 @@ With 20 peaks over 12,000 feet in elevation (including Granite Peak, Montana’s
 ## Interested in This Ride?
 
 <p style="margin:1rem 0 1.25rem 0;">
-  <a href="booking.html"
+  <a href="{filename}/pages/booking.md"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;">

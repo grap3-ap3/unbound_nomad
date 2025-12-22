@@ -1,4 +1,4 @@
-Title: Home
+Title: The Unbound Nomad
 Date: 2025-12-07
 Slug: index
 Status: published
