@@ -53,6 +53,20 @@ p {
 }
 
 /* =========================================================
+   Button polish
+   ========================================================= */
+
+.un-btn {
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Optional: slightly firmer presence on hover (no color change) */
+.un-btn:hover {
+  text-decoration: none;
+}
+
+/* =========================================================
    Footer styling (custom override template)
    ========================================================= */
 
@@ -128,3 +142,69 @@ p {
 }
 
 .un-foot
+
+/* =========================================================
+   Typography polish
+   ========================================================= */
+
+/* Titles: slightly heavier + more intentional */
+main article h1,
+main article h2 {
+  font-weight: 400;
+  letter-spacing: 0.2px;
+}
+
+/* Long-form readability */
+main article p {
+  line-height: 1.8;
+}
+
+/* Metadata: smaller + softer */
+main article header p {
+  font-size: 0.8em;
+  opacity: 0.8;
+}
+
+/* =========================================================
+   Index page rhythm
+   ========================================================= */
+
+/* Add breathing room between posts (index + lists) */
+main article {
+  margin-bottom: 3rem;
+}
+
+/* Subtle separator between posts */
+main article:not(:last-child) {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  padding-bottom: 2.5rem;
+}
+
+/* =========================================================
+   Sidebar refinement
+   ========================================================= */
+
+aside div h1 {
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+aside div p {
+  font-size: 0.9em;
+  opacity: 0.85;
+  line-height: 1.4;
+}
+
+/* =========================================================
+   Image treatment
+   ========================================================= */
+
+main article img {
+  border-radius: 6px;
+  margin: 1.5rem 0;
+}
+
+/* Hide tag cloud (optional) */
+.tag-cloud {
+  display: none;
+}
