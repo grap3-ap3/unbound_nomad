@@ -1,5 +1,222 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>The Unbound Nomad</title><link href="https://www.unboundnomad.com/" rel="alternate"></link><link href="https://www.unboundnomad.com/feeds/all.atom.xml" rel="self"></link><id>https://www.unboundnomad.com/</id><updated>2025-12-22T12:00:00+00:00</updated><entry><title>Legends Never Die Tour</title><link href="https://www.unboundnomad.com/blog/legends-never-die-tour.html" rel="alternate"></link><published>2025-12-22T12:00:00+00:00</published><updated>2025-12-22T12:00:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2025-12-22:/blog/legends-never-die-tour.html</id><summary type="html">&lt;!-- Summary: A once-in-a-generation ride across Route 66 honoring the machines, the road, and the riders who built American motorcycling. --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Unbound Nomad</title><link href="https://www.unboundnomad.com/" rel="alternate"></link><link href="https://www.unboundnomad.com/feeds/all.atom.xml" rel="self"></link><id>https://www.unboundnomad.com/</id><updated>2026-01-01T12:00:00+00:00</updated><entry><title>Rider Readiness System (2026 Touring Edition)</title><link href="https://www.unboundnomad.com/blog/rider-readiness-system.html" rel="alternate"></link><published>2026-01-01T12:00:00+00:00</published><updated>2026-01-01T12:00:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2026-01-01:/blog/rider-readiness-system.html</id><summary type="html">&lt;!-- Summary: A premium touring checklist system built to help riders pack smarter, ride safer, and roll out with confidence. --&gt;
+
+&lt;!-- ========================= --&gt;
+&lt;!--      CINEMATIC HERO       --&gt;
+&lt;!-- ========================= --&gt;
+
+&lt;div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+"&gt;
+
+  &lt;!-- Background Image --&gt;
+  &lt;img src="https://www.unboundnomad.com/images/rider-readiness/hero.png"
+       alt="Rider Readiness System Hero"
+       style="
+         width:100%;
+         height:100%;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+       "&gt;
+
+  &lt;!-- Dark Overlay --&gt;
+  &lt;div style="
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.45);
+    backdrop-filter:blur(1px);
+  "&gt;&lt;/div&gt;
+
+  &lt;!-- Title Text --&gt;
+  &lt;div style="
+    position:absolute;
+    bottom:40px;
+    left:50%;
+    transform:translateX(-50%);
+    text-align:center;
+    color:white;
+    padding:0 1rem;
+  "&gt;
+    &lt;h1 style="
+      margin:0;
+      font-size:2.75rem;
+      font-weight:700;
+      text-shadow:0 4px 12px rgba(0,0,0,0.6);
+    "&gt;
+      Rider Readiness System™
+    &lt;/h1&gt;
+
+    &lt;p style="
+      margin:0.8rem 0 0 0;
+      font-size:1.15rem;
+      font-weight:400;
+      opacity:0.9;
+      text-shadow:0 3px 8px rgba(0,0,0,0.5);
+    "&gt;
+      2026 Touring Edition: Pack smarter. Ride safer. Ride unbound.
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Some rides are simple.&lt;br&gt;
+Some rides are serious.&lt;/p&gt;
+&lt;p&gt;But every ride gets better when you roll out prepared.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;Rider Readiness System™ (2026 Touring Edition)&lt;/strong&gt; is the digital toolkit I built after years of real miles, real lessons …&lt;/p&gt;</summary><content type="html">&lt;!-- Summary: A premium touring checklist system built to help riders pack smarter, ride safer, and roll out with confidence. --&gt;
+
+&lt;!-- ========================= --&gt;
+&lt;!--      CINEMATIC HERO       --&gt;
+&lt;!-- ========================= --&gt;
+
+&lt;div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+"&gt;
+
+  &lt;!-- Background Image --&gt;
+  &lt;img src="https://www.unboundnomad.com/images/rider-readiness/hero.png"
+       alt="Rider Readiness System Hero"
+       style="
+         width:100%;
+         height:100%;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+       "&gt;
+
+  &lt;!-- Dark Overlay --&gt;
+  &lt;div style="
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.45);
+    backdrop-filter:blur(1px);
+  "&gt;&lt;/div&gt;
+
+  &lt;!-- Title Text --&gt;
+  &lt;div style="
+    position:absolute;
+    bottom:40px;
+    left:50%;
+    transform:translateX(-50%);
+    text-align:center;
+    color:white;
+    padding:0 1rem;
+  "&gt;
+    &lt;h1 style="
+      margin:0;
+      font-size:2.75rem;
+      font-weight:700;
+      text-shadow:0 4px 12px rgba(0,0,0,0.6);
+    "&gt;
+      Rider Readiness System™
+    &lt;/h1&gt;
+
+    &lt;p style="
+      margin:0.8rem 0 0 0;
+      font-size:1.15rem;
+      font-weight:400;
+      opacity:0.9;
+      text-shadow:0 3px 8px rgba(0,0,0,0.5);
+    "&gt;
+      2026 Touring Edition: Pack smarter. Ride safer. Ride unbound.
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Some rides are simple.&lt;br&gt;
+Some rides are serious.&lt;/p&gt;
+&lt;p&gt;But every ride gets better when you roll out prepared.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;Rider Readiness System™ (2026 Touring Edition)&lt;/strong&gt; is the digital toolkit I built after years of real miles, real lessons, and a hard reminder that preparation is not paranoia. It is freedom.&lt;/p&gt;
+&lt;p&gt;This is not fluff.&lt;br&gt;
+It is a system.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;🧭 What This Is&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="Rider Readiness cover preview" src="https://www.unboundnomad.com/images/rider-readiness/cover.png"&gt;&lt;/p&gt;
+&lt;p&gt;The Rider Readiness System™ is a premium set of touring checklists and rider guides designed to help you:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pack the right gear without overpacking  &lt;/li&gt;
+&lt;li&gt;Reduce avoidable breakdowns and surprises  &lt;/li&gt;
+&lt;li&gt;Prepare for weather, miles, and long days in the saddle  &lt;/li&gt;
+&lt;li&gt;Build a repeatable process before every ride  &lt;/li&gt;
+&lt;li&gt;Ride calmer, sharper, and more confident&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Whether you're headed out for a day rip or a multi-state run, this system keeps you dialed.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;🔥 Why It Matters&lt;/h2&gt;
+&lt;p&gt;Most problems on the road are not "bad luck."&lt;br&gt;
+They are predictable.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A tire that should have been checked  &lt;/li&gt;
+&lt;li&gt;A tool you assumed you had  &lt;/li&gt;
+&lt;li&gt;Rain gear buried under everything else  &lt;/li&gt;
+&lt;li&gt;A dead comms unit when you need it most  &lt;/li&gt;
+&lt;li&gt;Fatigue stacking up quietly until it becomes dangerous&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Prepared riders ride differently.&lt;br&gt;
+They ride farther.&lt;br&gt;
+They ride smarter.&lt;br&gt;
+They ride free.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;📦 What You Get&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="Checklist preview" src="https://www.unboundnomad.com/images/rider-readiness/preview-checklist.png"&gt;&lt;/p&gt;
+&lt;p&gt;When you download the Rider Readiness System™, you get a &lt;strong&gt;bundle&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Master Guide (Color Edition)&lt;/strong&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Master Guide (Black and White Print Edition)&lt;/strong&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Individual Single-Page Checklists (Color)&lt;/strong&gt; for fast phone access and easy printing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can use the full guide at home for planning, then keep the single-page checklists on your phone or in your tank bag.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;🏍️ Who This Is For&lt;/h2&gt;
+&lt;p&gt;This system is for you if:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You ride weekends and want to stop forgetting small things  &lt;/li&gt;
+&lt;li&gt;You tour and want a consistent process for long-haul prep  &lt;/li&gt;
+&lt;li&gt;You travel to rallies and want to pack efficiently  &lt;/li&gt;
+&lt;li&gt;You are getting back into riding and want structure  &lt;/li&gt;
+&lt;li&gt;You want to ride with confidence instead of crossed fingers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You do not need to be an iron-butt rider.&lt;br&gt;
+You just need to care about doing it right.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;✅ How Riders Use It&lt;/h2&gt;
+&lt;p&gt;Use it however you like, but this is the simplest flow:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Before the ride:&lt;/strong&gt; Pre-Ride Safety Checklist  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Packing:&lt;/strong&gt; Choose the list that matches your trip length  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Day-of:&lt;/strong&gt; Weather + Conditions checklist  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Always-on:&lt;/strong&gt; Saddlebag Essentials stays packed  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;If something goes sideways:&lt;/strong&gt; Emergency + Breakdown checklist&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Simple. Repeatable. Reliable.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;📍 Get It Now&lt;/h2&gt;
+&lt;p&gt;👉 &lt;strong&gt;The Rider Readiness System™ is available now.&lt;/strong&gt;&lt;br&gt;
+Access the downloads here:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="/pages/resources.html"&gt;Go to Rider Resources and Downloads →&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Ride unrestricted.&lt;br&gt;
+Ride unencumbered.&lt;br&gt;
+Ride unbound.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;— Phil&lt;/strong&gt;&lt;br&gt;
+The Unbound Nomad&lt;/p&gt;</content><category term="Resources"></category><category term="Motorcycles"></category><category term="Checklists"></category><category term="Touring"></category><category term="Safety"></category><category term="Packing"></category><category term="Rider Readiness"></category><category term="Digital Product"></category></entry><entry><title>Legends Never Die Tour</title><link href="https://www.unboundnomad.com/blog/legends-never-die-tour.html" rel="alternate"></link><published>2025-12-26T12:00:00+00:00</published><updated>2025-12-26T12:00:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2025-12-26:/blog/legends-never-die-tour.html</id><summary type="html">&lt;!-- Summary: A once-in-a-generation ride across Route 66 honoring the machines, the road, and the riders who built American motorcycling. --&gt;
 
 &lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;

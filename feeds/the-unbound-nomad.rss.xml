@@ -1,5 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>The Unbound Nomad - The Unbound Nomad</title><link>https://www.unboundnomad.com/</link><description></description><lastBuildDate>Mon, 22 Dec 2025 12:00:00 +0000</lastBuildDate><item><title>Legends Never Die Tour</title><link>https://www.unboundnomad.com/blog/legends-never-die-tour.html</link><description>&lt;!-- Summary: A once-in-a-generation ride across Route 66 honoring the machines, the road, and the riders who built American motorcycling. --&gt;
+<rss version="2.0"><channel><title>The Unbound Nomad - The Unbound Nomad</title><link>https://www.unboundnomad.com/</link><description></description><lastBuildDate>Thu, 01 Jan 2026 12:00:00 +0000</lastBuildDate><item><title>Rider Readiness System (2026 Touring Edition)</title><link>https://www.unboundnomad.com/blog/rider-readiness-system.html</link><description>&lt;!-- Summary: A premium touring checklist system built to help riders pack smarter, ride safer, and roll out with confidence. --&gt;
+
+&lt;!-- ========================= --&gt;
+&lt;!--      CINEMATIC HERO       --&gt;
+&lt;!-- ========================= --&gt;
+
+&lt;div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+"&gt;
+
+  &lt;!-- Background Image --&gt;
+  &lt;img src="https://www.unboundnomad.com/images/rider-readiness/hero.png"
+       alt="Rider Readiness System Hero"
+       style="
+         width:100%;
+         height:100%;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+       "&gt;
+
+  &lt;!-- Dark Overlay --&gt;
+  &lt;div style="
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.45);
+    backdrop-filter:blur(1px);
+  "&gt;&lt;/div&gt;
+
+  &lt;!-- Title Text --&gt;
+  &lt;div style="
+    position:absolute;
+    bottom:40px;
+    left:50%;
+    transform:translateX(-50%);
+    text-align:center;
+    color:white;
+    padding:0 1rem;
+  "&gt;
+    &lt;h1 style="
+      margin:0;
+      font-size:2.75rem;
+      font-weight:700;
+      text-shadow:0 4px 12px rgba(0,0,0,0.6);
+    "&gt;
+      Rider Readiness System™
+    &lt;/h1&gt;
+
+    &lt;p style="
+      margin:0.8rem 0 0 0;
+      font-size:1.15rem;
+      font-weight:400;
+      opacity:0.9;
+      text-shadow:0 3px 8px rgba(0,0,0,0.5);
+    "&gt;
+      2026 Touring Edition: Pack smarter. Ride safer. Ride unbound.
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Some rides are simple.&lt;br&gt;
+Some rides are serious.&lt;/p&gt;
+&lt;p&gt;But every ride gets better when you roll out prepared.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;Rider Readiness System™ (2026 Touring Edition)&lt;/strong&gt; is the digital toolkit I built after years of real miles, real lessons …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Unbound Nomad</dc:creator><pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate><guid isPermaLink="false">tag:www.unboundnomad.com,2026-01-01:/blog/rider-readiness-system.html</guid><category>Resources</category><category>Motorcycles</category><category>Checklists</category><category>Touring</category><category>Safety</category><category>Packing</category><category>Rider Readiness</category><category>Digital Product</category></item><item><title>Legends Never Die Tour</title><link>https://www.unboundnomad.com/blog/legends-never-die-tour.html</link><description>&lt;!-- Summary: A once-in-a-generation ride across Route 66 honoring the machines, the road, and the riders who built American motorcycling. --&gt;
 
 &lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
@@ -71,7 +143,7 @@
 &lt;p&gt;Some rides are about distance.&lt;br&gt;
 Some are about destinations.&lt;/p&gt;
 &lt;p&gt;This one is about &lt;strong&gt;legacy&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;The &lt;strong&gt;Legends Never Die Tour&lt;/strong&gt; is a cross-country ride along historic Route 66 — a road that helped define American freedom, motorcycle culture, and the idea that the journey …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Unbound Nomad</dc:creator><pubDate>Mon, 22 Dec 2025 12:00:00 +0000</pubDate><guid isPermaLink="false">tag:www.unboundnomad.com,2025-12-22:/blog/legends-never-die-tour.html</guid><category>Rides</category><category>Motorcycles</category><category>Route 66</category><category>Indian Motorcycle</category><category>Tours</category><category>Adventure</category></item><item><title>Blue Ridge Parkway Tour</title><link>https://www.unboundnomad.com/blog/blue-ridge-parkway-tour.html</link><description>&lt;!-- ========================= --&gt;
+&lt;p&gt;The &lt;strong&gt;Legends Never Die Tour&lt;/strong&gt; is a cross-country ride along historic Route 66 — a road that helped define American freedom, motorcycle culture, and the idea that the journey …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Unbound Nomad</dc:creator><pubDate>Fri, 26 Dec 2025 12:00:00 +0000</pubDate><guid isPermaLink="false">tag:www.unboundnomad.com,2025-12-26:/blog/legends-never-die-tour.html</guid><category>Rides</category><category>Motorcycles</category><category>Route 66</category><category>Indian Motorcycle</category><category>Tours</category><category>Adventure</category></item><item><title>Blue Ridge Parkway Tour</title><link>https://www.unboundnomad.com/blog/blue-ridge-parkway-tour.html</link><description>&lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
 &lt;!-- ========================= --&gt;
 
