@@ -5,6 +5,7 @@ Category: Rides
 Tags: Motorcycles, Lifestyle, Adventure, Tours
 Slug: native-american-scenic-byway-tour
 Status: published
+Summary: 351 miles through the Standing Rock and Cheyenne River Sioux reservations across North and South Dakota. Wide open plains, the Missouri River, and landscapes that predate every road ever built.
 
 <!-- ========================= -->
 <!--      CINEMATIC HERO       -->

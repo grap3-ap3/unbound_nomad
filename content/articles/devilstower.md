@@ -5,6 +5,7 @@ Category: Blog
 Tags: Motorcycles, Lifestyle, Adventure, Tours
 Slug: devils-tower-tour
 Status: published
+Summary: Devil's Tower rises 867 feet out of the Wyoming plains and it doesn't make sense until you're standing at the base of it. The ride out here is half the experience.
 
 <!-- ========================= -->
 <!--      CINEMATIC HERO       -->

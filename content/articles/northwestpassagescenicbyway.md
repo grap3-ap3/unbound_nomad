@@ -5,6 +5,7 @@ Category: Rides
 Tags: Motorcycles, Lifestyle, Adventure, Tours
 Slug: northwest-passage-scenic-byway-tour
 Status: published
+Summary: Lewis and Clark followed this corridor through Idaho's Clearwater River Canyon. Today it's a 202-mile byway through steep canyon walls and old-growth forest that rewards riders who make the trip.
 
 <!-- ========================= -->
 <!--      CINEMATIC HERO       -->

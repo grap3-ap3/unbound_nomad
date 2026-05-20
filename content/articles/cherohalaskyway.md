@@ -5,6 +5,7 @@ Category: Rides
 Tags: Motorcycles, Lifestyle, Adventure, Tours
 Slug: cherohalaskyway-tour
 Status: published
+Summary: The Cherohala Skyway runs 51 miles across the Tennessee-North Carolina border at elevations up to 5,400 feet. Less trafficked than the Tail of the Dragon, more dramatic than most people expect.
 
 <!-- ========================= -->
 <!--      CINEMATIC HERO       -->

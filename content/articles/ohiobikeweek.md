@@ -5,6 +5,7 @@ Category: Rides
 Tags: Motorcycles, Lifestyle, Adventure, Tours
 Slug: ohio-bike-week
 Status: published
+Summary: Ohio Bike Week brings 100,000 riders to Sandusky every June. Here's the honest breakdown — what to ride, where to stay, and what makes this one of the Midwest's best annual events for motorcyclists.
 
 <!-- ========================= -->
 <!--      CINEMATIC HERO       -->

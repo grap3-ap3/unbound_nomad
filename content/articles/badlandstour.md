@@ -5,6 +5,7 @@ Category: Rides
 Tags: Motorcycles, Lifestyle, Adventure, Tours
 Slug: badlands-tour
 Status: published
+Summary: The Badlands don't look like anything else in America. Jagged formations, open sky, and roads that cut through terrain that feels more like another planet than South Dakota.
 
 <!-- ========================= -->
 <!--      CINEMATIC HERO       -->

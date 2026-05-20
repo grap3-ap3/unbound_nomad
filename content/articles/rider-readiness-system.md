@@ -5,7 +5,7 @@ Category: Resources
 Tags: Motorcycles, Checklists, Touring, Safety, Packing, Rider Readiness, Digital Product
 Slug: rider-readiness-system
 Status: published
-<!-- Summary: A premium touring checklist system built to help riders pack smarter, ride safer, and roll out with confidence. -->
+Summary: A premium touring checklist system built to help riders pack smarter, ride safer, and roll out with confidence.
 
 <!-- ========================= -->
 <!--      CINEMATIC HERO       -->

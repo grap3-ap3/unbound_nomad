@@ -5,6 +5,7 @@ Category: Rides
 Tags: Motorcycles, Lifestyle, Adventure, Tours
 Slug: natchez-trace-tour
 Status: published
+Summary: 444 miles of American history from Nashville to Natchez, Mississippi. No commercial trucks, no traffic lights, no distractions — just a corridor through some of the oldest roads in the country.
 
 <!-- ========================= -->
 <!--      CINEMATIC HERO       -->
