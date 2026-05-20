@@ -1,7 +1,141 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>The Unbound Nomad - Blog</title><link href="https://www.unboundnomad.com/" rel="alternate"></link><link href="https://www.unboundnomad.com/feeds/blog.atom.xml" rel="self"></link><id>https://www.unboundnomad.com/</id><updated>2026-05-20T00:00:00+00:00</updated><entry><title>I'm Riding Route 66 in Four Days. Here's Why.</title><link href="https://www.unboundnomad.com/blog/legends-never-die-im-riding-it.html" rel="alternate"></link><published>2026-05-20T00:00:00+00:00</published><updated>2026-05-20T00:00:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2026-05-20:/blog/legends-never-die-im-riding-it.html</id><summary type="html">&lt;p&gt;I leave in four days.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Unbound Nomad - Blog</title><link href="https://www.unboundnomad.com/" rel="alternate"></link><link href="https://www.unboundnomad.com/feeds/blog.atom.xml" rel="self"></link><id>https://www.unboundnomad.com/</id><updated>2026-05-20T00:00:00+00:00</updated><entry><title>I'm Riding Route 66 in Four Days. Here's Why.</title><link href="https://www.unboundnomad.com/blog/legends-never-die-im-riding-it.html" rel="alternate"></link><published>2026-05-20T00:00:00+00:00</published><updated>2026-05-20T00:00:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2026-05-20:/blog/legends-never-die-im-riding-it.html</id><summary type="html">&lt;!-- ========================= --&gt;
+&lt;!--      CINEMATIC HERO       --&gt;
+&lt;!-- ========================= --&gt;
+
+&lt;div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+"&gt;
+
+  &lt;!-- Background Image --&gt;
+  &lt;img src="https://www.unboundnomad.com/images/historic-us-route66-vintage-map.jpg"
+       alt="I'm Riding Route 66 in Four Days"
+       style="
+         width:100%;
+         height:100%;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+       "&gt;
+
+  &lt;!-- Dark Overlay --&gt;
+  &lt;div style="
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.45);
+    backdrop-filter:blur(1px);
+  "&gt;&lt;/div&gt;
+
+  &lt;!-- Title Text --&gt;
+  &lt;div style="
+    position:absolute;
+    bottom:40px;
+    left:50%;
+    transform:translateX(-50%);
+    text-align:center;
+    color:white;
+    padding:0 1rem;
+  "&gt;
+    &lt;h1 style="
+      margin:0;
+      font-size:2.75rem;
+      font-weight:700;
+      text-shadow:0 4px 12px rgba(0,0,0,0.6);
+    "&gt;
+      The Legends Never Die Tour
+    &lt;/h1&gt;
+
+    &lt;p style="
+      margin:0.8rem 0 0 0;
+      font-size:1.15rem;
+      font-weight:400;
+      opacity:0.9;
+      text-shadow:0 3px 8px rgba(0,0,0,0.5);
+    "&gt;
+      27 days. 5,587 miles. Chicago to the Pacific and back.
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;I leave in four days.&lt;/p&gt;
 &lt;p&gt;Twenty-seven days on the road. 5,587 miles. Chicago to the Pacific, back through Death Valley, across the Colorado Rockies, and finally home to Ohio in late June.&lt;/p&gt;
-&lt;p&gt;I've been planning longer rides than this my whole riding life. But this one is different. This …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I leave in four days.&lt;/p&gt;
+&lt;p&gt;I've …&lt;/p&gt;</summary><content type="html">&lt;!-- ========================= --&gt;
+&lt;!--      CINEMATIC HERO       --&gt;
+&lt;!-- ========================= --&gt;
+
+&lt;div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+"&gt;
+
+  &lt;!-- Background Image --&gt;
+  &lt;img src="https://www.unboundnomad.com/images/historic-us-route66-vintage-map.jpg"
+       alt="I'm Riding Route 66 in Four Days"
+       style="
+         width:100%;
+         height:100%;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+       "&gt;
+
+  &lt;!-- Dark Overlay --&gt;
+  &lt;div style="
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.45);
+    backdrop-filter:blur(1px);
+  "&gt;&lt;/div&gt;
+
+  &lt;!-- Title Text --&gt;
+  &lt;div style="
+    position:absolute;
+    bottom:40px;
+    left:50%;
+    transform:translateX(-50%);
+    text-align:center;
+    color:white;
+    padding:0 1rem;
+  "&gt;
+    &lt;h1 style="
+      margin:0;
+      font-size:2.75rem;
+      font-weight:700;
+      text-shadow:0 4px 12px rgba(0,0,0,0.6);
+    "&gt;
+      The Legends Never Die Tour
+    &lt;/h1&gt;
+
+    &lt;p style="
+      margin:0.8rem 0 0 0;
+      font-size:1.15rem;
+      font-weight:400;
+      opacity:0.9;
+      text-shadow:0 3px 8px rgba(0,0,0,0.5);
+    "&gt;
+      27 days. 5,587 miles. Chicago to the Pacific and back.
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;I leave in four days.&lt;/p&gt;
 &lt;p&gt;Twenty-seven days on the road. 5,587 miles. Chicago to the Pacific, back through Death Valley, across the Colorado Rockies, and finally home to Ohio in late June.&lt;/p&gt;
 &lt;p&gt;I've been planning longer rides than this my whole riding life. But this one is different. This one has been circling in the back of my head for years, and the timing — this particular year, 2026 — is why it's finally happening.&lt;/p&gt;
 &lt;hr&gt;
