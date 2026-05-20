@@ -3,7 +3,7 @@
 # Copy/paste ready. Adjust photo notes to match what you actually shoot.
 
 ---
-
+<done>
 ## POST 1 — Blog Announcement
 ### Publish: May 20 (today)
 ### Photo: Yourself with the bike, or a Route 66 map/sign image
@@ -37,8 +37,9 @@ Read it here: https://unboundnomad.com/blog/legends-never-die-im-riding-it.html
 Follow along this week as I finish packing. The daily updates start Sunday.
 
 ---
+</done>
 ---
-
+<pending>
 ## POST 2 — Packing / Gear
 ### Publish: May 21
 ### Photo: Gear laid out flat on the floor or loaded onto the bike — the fuller the spread, the better
@@ -71,53 +72,6 @@ Rolling out Sunday. The Legends Never Die Tour starts Monday in Chicago.
 
 ---
 ---
-
-## POST 3 — The Route
-### Publish: May 22
-### Photo: Screenshot or photo of your route map — the full arc from Ohio → Chicago → Huntington Beach → Death Valley → Colorado → home. Hand-drawn on a paper map is even better.
-
----
-
-**INSTAGRAM**
-
-Most people think this trip ends at the ocean.
-
-It doesn't.
-
-Chicago → Huntington Beach on Route 66.
-Then north to Death Valley.
-East through Las Vegas to Lake Powell.
-Across to Four Corners.
-Eight days riding in the Colorado Rockies — Durango, Silverton, the Million Dollar Highway.
-Then the long push home through Kansas and Missouri.
-
-June 20th, if the road cooperates.
-
-27 days. 5,587 miles. Two days until I leave.
-
-#RouteUS66 #LegendsNeverDieTour #DeathValley #MillionDollarHighway #ColoradoRiding #MotoAdventure #UnboundNomad
-
----
-
-**FACEBOOK**
-
-Most people think this trip ends at the Pacific.
-
-It doesn't.
-
-The Legends Never Die Tour takes me from Chicago to Huntington Beach along Route 66 — May 25 through June 3. That's the organized portion, riding with a great group put together by the team at RidingFish.
-
-After that, I'm on my own and turning north toward Death Valley, east through Las Vegas to Lake Powell and Four Corners, then into the Colorado Rockies. I'll spend about eight days based out of Ignacio, Colorado, riding the roads around Durango and Silverton — including the Million Dollar Highway, one of the most dramatic roads in the country.
-
-Then the long way home through Pueblo, Dodge City, and Kansas City. Back in Ohio around June 20th.
-
-Total: 27 days, 5,587 miles, more stories than I'll be able to tell all at once.
-
-Two days out. Ready.
-
----
----
-
 ## POST 4 — Departure Eve
 ### Publish: May 23 (evening)
 ### Photo: Bike fully loaded in the driveway, garage, or wherever you're staged — golden hour light if you can get it
@@ -185,6 +139,57 @@ The Mother Road is calling. Time to answer.
 
 ---
 ---
+<pending>
+
+<scheduled>
+---
+
+## POST 3 — The Route
+### Publish: May 22
+### Photo: Screenshot or photo of your route map — the full arc from Ohio → Chicago → Huntington Beach → Death Valley → Colorado → home. Hand-drawn on a paper map is even better.
+
+---
+
+**INSTAGRAM**
+
+Most people think this trip ends at the ocean.
+
+It doesn't.
+
+Chicago → Huntington Beach on Route 66.
+Then north to Death Valley.
+East through Las Vegas to Lake Powell.
+Across to Four Corners.
+Eight days riding in the Colorado Rockies — Durango, Silverton, the Million Dollar Highway.
+Then the long push home through Kansas and Missouri.
+
+June 20th, if the road cooperates.
+
+27 days. 5,587 miles. Two days until I leave.
+
+#RouteUS66 #LegendsNeverDieTour #DeathValley #MillionDollarHighway #ColoradoRiding #MotoAdventure #UnboundNomad
+
+---
+
+**FACEBOOK**
+
+Most people think this trip ends at the Pacific.
+
+It doesn't.
+
+The Legends Never Die Tour takes me from Chicago to Huntington Beach along Route 66 — May 25 through June 3. That's the organized portion, riding with a great group put together by the team at RidingFish.
+
+After that, I'm on my own and turning north toward Death Valley, east through Las Vegas to Lake Powell and Four Corners, then into the Colorado Rockies. I'll spend about eight days based out of Ignacio, Colorado, riding the roads around Durango and Silverton — including the Million Dollar Highway, one of the most dramatic roads in the country.
+
+Then the long way home through Pueblo, Dodge City, and Kansas City. Back in Ohio around June 20th.
+
+Total: 27 days, 5,587 miles, more stories than I'll be able to tell all at once.
+
+Two days out. Ready.
+
+---
+</scheduled>
+
 
 ## HASHTAG BANK
 # Pull from this for any additional posts during the trip
