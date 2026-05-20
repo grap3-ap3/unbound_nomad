@@ -6,6 +6,73 @@ Tags: Motorcycles, Route 66, Indian Motorcycle, Adventure, Legends Never Die Tou
 Slug: legends-never-die-im-riding-it
 Status: published
 
+<!-- ========================= -->
+<!--      CINEMATIC HERO       -->
+<!-- ========================= -->
+
+<div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+">
+
+  <!-- Background Image -->
+  <img src="{static}/images/historic-us-route66-vintage-map.jpg"
+       alt="I'm Riding Route 66 in Four Days"
+       style="
+         width:100%;
+         height:100%;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+       ">
+
+  <!-- Dark Overlay -->
+  <div style="
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.45);
+    backdrop-filter:blur(1px);
+  "></div>
+
+  <!-- Title Text -->
+  <div style="
+    position:absolute;
+    bottom:40px;
+    left:50%;
+    transform:translateX(-50%);
+    text-align:center;
+    color:white;
+    padding:0 1rem;
+  ">
+    <h1 style="
+      margin:0;
+      font-size:2.75rem;
+      font-weight:700;
+      text-shadow:0 4px 12px rgba(0,0,0,0.6);
+    ">
+      The Legends Never Die Tour
+    </h1>
+
+    <p style="
+      margin:0.8rem 0 0 0;
+      font-size:1.15rem;
+      font-weight:400;
+      opacity:0.9;
+      text-shadow:0 3px 8px rgba(0,0,0,0.5);
+    ">
+      27 days. 5,587 miles. Chicago to the Pacific and back.
+    </p>
+  </div>
+
+</div>
+
 I leave in four days.
 
 Twenty-seven days on the road. 5,587 miles. Chicago to the Pacific, back through Death Valley, across the Colorado Rockies, and finally home to Ohio in late June.
