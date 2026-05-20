@@ -5,7 +5,6 @@ Category: Rides
 Tags: Motorcycles, Lifestyle, Adventure, Tours
 Slug: san-juan-mountain-skyway-tour
 Status: published
-Summary: A Colorado mountain tour through one of the most dramatic alpine landscapes in North America. The San Juan Skyway is 236 miles of switchbacks, high passes, and canyon roads built for riders who want elevation.
 
 <!-- ========================= -->
 <!--      CINEMATIC HERO       -->

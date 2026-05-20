@@ -5,7 +5,6 @@ Category: Rides
 Tags: Motorcycles, Lifestyle, Adventure, Tours
 Slug: yellowstone-national-park-tour
 Status: published
-Summary: The oldest national park in the world and one of the most geologically active places on the planet. The roads through Yellowstone put you 50 feet from bison herds and a few miles from the Grand Prismatic Spring.
 
 <!-- ========================= -->
 <!--      CINEMATIC HERO       -->

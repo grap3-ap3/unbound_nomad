@@ -5,7 +5,6 @@ Category: Rides
 Tags: Motorcycles, Lifestyle, Adventure, Tours
 Slug: skyline-drive-tour
 Status: published
-Summary: 105 miles along the crest of the Blue Ridge Mountains through Shenandoah National Park. No commercial vehicles, a 35 mph speed limit, and 75 designated overlooks. A short road that rewards riding slowly.
 
 <!-- ========================= -->
 <!--      CINEMATIC HERO       -->

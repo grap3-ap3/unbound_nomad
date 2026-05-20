@@ -5,7 +5,6 @@ Category: Rides
 Tags: Motorcycles, Lifestyle, Adventure, Tours
 Slug: sturgis-motorcycle-rally
 Status: published
-Summary: The Sturgis Motorcycle Rally has been running since 1938. Half a million riders converge on the Black Hills every August. Here's what the experience is actually like and which roads make it worth the trip.
 
 <!-- ========================= -->
 <!--      CINEMATIC HERO       -->

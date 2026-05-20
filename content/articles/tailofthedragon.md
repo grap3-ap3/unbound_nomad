@@ -5,7 +5,6 @@ Category: Rides
 Tags: Motorcycles, Lifestyle, Adventure, Tours
 Slug: tail-of-the-dragon-tour
 Status: published
-Summary: 318 curves in 11 miles. The Tail of the Dragon at Deals Gap is the most famous motorcycle road in America — and it earns the reputation. Here's how to ride it right and what to expect when you get there.
 
 <!-- ========================= -->
 <!--      CINEMATIC HERO       -->

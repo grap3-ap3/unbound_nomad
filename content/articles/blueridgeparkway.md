@@ -5,7 +5,6 @@ Category: Rides
 Tags: Motorcycles, Lifestyle, Adventure, Tours
 Slug: blue-ridge-parkway-tour
 Status: published
-Summary: 469 miles of mountain riding through the Appalachians, from Shenandoah to the Smokies. No commercial traffic, no billboards, no intersections. Just road, ridgeline, and the view.
 
 <!-- ========================= -->
 <!--      CINEMATIC HERO       -->

@@ -5,7 +5,7 @@ Category: Rides
 Tags: Motorcycles, Route 66, Indian Motorcycle, Tours, Adventure
 Slug: legends-never-die-tour
 Status: published
-Summary: A once-in-a-generation ride across Route 66 honoring the machines, the road, and the riders who built American motorcycling.
+<!-- Summary: A once-in-a-generation ride across Route 66 honoring the machines, the road, and the riders who built American motorcycling. -->
 
 <!-- ========================= -->
 <!--      CINEMATIC HERO       -->

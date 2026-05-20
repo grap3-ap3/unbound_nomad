@@ -5,7 +5,6 @@ Category: Rides
 Tags: Motorcycles, Lifestyle, Adventure, Tours
 Slug: daytona-bike-week
 Status: published
-Summary: The largest motorcycle event in the world draws over 500,000 riders to Daytona Beach every March. Here's what it's actually like — the rides, the scene, and what first-timers should know.
 
 <!-- ========================= -->
 <!--      CINEMATIC HERO       -->

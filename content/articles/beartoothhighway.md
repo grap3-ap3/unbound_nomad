@@ -5,7 +5,6 @@ Category: Rides
 Tags: Motorcycles, Lifestyle, Adventure, Tours
 Slug: beartooth-highway-tour
 Status: published
-Summary: Called the most beautiful road in America by Charles Kuralt. The Beartooth Highway climbs to nearly 11,000 feet across the Montana-Wyoming border — one of the roads every serious rider should do at least once.
 
 <!-- ========================= -->
 <!--      CINEMATIC HERO       -->
