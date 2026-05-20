@@ -4,7 +4,7 @@ Author: The Unbound Nomad
 Category: Rides
 Tags: Motorcycles, Ohio, Windy 9, Route Planning, Adventure, Tours
 Slug: ohios-windy-9-riders-guide
-Status: published
+Status: draft
 
 I've been riding for over two decades. I've logged miles across this country on roads that range from forgettable to life-changing. And when people ask me where to ride in Ohio — without hesitation, I point them southeast.
 
