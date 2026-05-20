@@ -1,5 +1,177 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>The Unbound Nomad - Blog</title><link href="https://www.unboundnomad.com/" rel="alternate"></link><link href="https://www.unboundnomad.com/feeds/blog.atom.xml" rel="self"></link><id>https://www.unboundnomad.com/</id><updated>2024-01-13T20:55:00+00:00</updated><entry><title>Devil's Tower Tour</title><link href="https://www.unboundnomad.com/blog/devils-tower-tour.html" rel="alternate"></link><published>2024-01-13T20:55:00+00:00</published><updated>2024-01-13T20:55:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2024-01-13:/blog/devils-tower-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Unbound Nomad - Blog</title><link href="https://www.unboundnomad.com/" rel="alternate"></link><link href="https://www.unboundnomad.com/feeds/blog.atom.xml" rel="self"></link><id>https://www.unboundnomad.com/</id><updated>2026-05-20T00:00:00+00:00</updated><entry><title>I'm Riding Route 66 in Four Days. Here's Why.</title><link href="https://www.unboundnomad.com/blog/legends-never-die-im-riding-it.html" rel="alternate"></link><published>2026-05-20T00:00:00+00:00</published><updated>2026-05-20T00:00:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2026-05-20:/blog/legends-never-die-im-riding-it.html</id><summary type="html">&lt;!-- ========================= --&gt;
+&lt;!--      CINEMATIC HERO       --&gt;
+&lt;!-- ========================= --&gt;
+
+&lt;div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+"&gt;
+
+  &lt;!-- Background Image --&gt;
+  &lt;img src="https://www.unboundnomad.com/images/historic-us-route66-vintage-map.jpg"
+       alt="I'm Riding Route 66 in Four Days"
+       style="
+         width:100%;
+         height:100%;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+       "&gt;
+
+  &lt;!-- Dark Overlay --&gt;
+  &lt;div style="
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.45);
+    backdrop-filter:blur(1px);
+  "&gt;&lt;/div&gt;
+
+  &lt;!-- Title Text --&gt;
+  &lt;div style="
+    position:absolute;
+    bottom:40px;
+    left:50%;
+    transform:translateX(-50%);
+    text-align:center;
+    color:white;
+    padding:0 1rem;
+  "&gt;
+    &lt;h1 style="
+      margin:0;
+      font-size:2.75rem;
+      font-weight:700;
+      text-shadow:0 4px 12px rgba(0,0,0,0.6);
+    "&gt;
+      The Legends Never Die Tour
+    &lt;/h1&gt;
+
+    &lt;p style="
+      margin:0.8rem 0 0 0;
+      font-size:1.15rem;
+      font-weight:400;
+      opacity:0.9;
+      text-shadow:0 3px 8px rgba(0,0,0,0.5);
+    "&gt;
+      27 days. 5,587 miles. Chicago to the Pacific and back.
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;I leave in four days.&lt;/p&gt;
+&lt;p&gt;Twenty-seven days on the road. 5,587 miles. Chicago to the Pacific, back through Death Valley, across the Colorado Rockies, and finally home to Ohio in late June.&lt;/p&gt;
+&lt;p&gt;I've …&lt;/p&gt;</summary><content type="html">&lt;!-- ========================= --&gt;
+&lt;!--      CINEMATIC HERO       --&gt;
+&lt;!-- ========================= --&gt;
+
+&lt;div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+"&gt;
+
+  &lt;!-- Background Image --&gt;
+  &lt;img src="https://www.unboundnomad.com/images/historic-us-route66-vintage-map.jpg"
+       alt="I'm Riding Route 66 in Four Days"
+       style="
+         width:100%;
+         height:100%;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+       "&gt;
+
+  &lt;!-- Dark Overlay --&gt;
+  &lt;div style="
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.45);
+    backdrop-filter:blur(1px);
+  "&gt;&lt;/div&gt;
+
+  &lt;!-- Title Text --&gt;
+  &lt;div style="
+    position:absolute;
+    bottom:40px;
+    left:50%;
+    transform:translateX(-50%);
+    text-align:center;
+    color:white;
+    padding:0 1rem;
+  "&gt;
+    &lt;h1 style="
+      margin:0;
+      font-size:2.75rem;
+      font-weight:700;
+      text-shadow:0 4px 12px rgba(0,0,0,0.6);
+    "&gt;
+      The Legends Never Die Tour
+    &lt;/h1&gt;
+
+    &lt;p style="
+      margin:0.8rem 0 0 0;
+      font-size:1.15rem;
+      font-weight:400;
+      opacity:0.9;
+      text-shadow:0 3px 8px rgba(0,0,0,0.5);
+    "&gt;
+      27 days. 5,587 miles. Chicago to the Pacific and back.
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;I leave in four days.&lt;/p&gt;
+&lt;p&gt;Twenty-seven days on the road. 5,587 miles. Chicago to the Pacific, back through Death Valley, across the Colorado Rockies, and finally home to Ohio in late June.&lt;/p&gt;
+&lt;p&gt;I've been planning longer rides than this my whole riding life. But this one is different. This one has been circling in the back of my head for years, and the timing — this particular year, 2026 — is why it's finally happening.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;The Year&lt;/h2&gt;
+&lt;p&gt;Route 66 turns 100 this year.&lt;/p&gt;
+&lt;p&gt;The road was commissioned on November 11, 1926. A hundred years ago, it connected Chicago to Los Angeles across 2,400 miles of American landscape that most people had never seen and would never otherwise cross. It became the road that carried people west during the Dust Bowl. The road soldiers came home on. The road that motorcycle culture in this country grew up alongside.&lt;/p&gt;
+&lt;p&gt;Indian Motorcycle turns 125 this year.&lt;/p&gt;
+&lt;p&gt;Founded in 1901, Indian is the oldest American motorcycle manufacturer. Before there was a Route 66, Indian motorcycles were already being ridden across this country on roads that barely deserved the name. The machines that helped build the culture we ride in today.&lt;/p&gt;
+&lt;p&gt;When two anniversaries like that land in the same year, you notice.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;The Ride&lt;/h2&gt;
+&lt;p&gt;I'm joining the &lt;strong&gt;Legends Never Die Tour&lt;/strong&gt; — an organized ride put together by the team at &lt;a href="https://ridingfish.com/legends-never-die-tour"&gt;RidingFish&lt;/a&gt; in partnership with Bearded Bobber. We'll ride Route 66 from Chicago to Huntington Beach, California over 10 days, May 25 through June 3.&lt;/p&gt;
+&lt;p&gt;This isn't a rally. It's a moving tribute — a group of riders on a historic road during a historic year, doing what motorcycles have always done best: covering ground and paying attention.&lt;/p&gt;
+&lt;p&gt;The route hits the stops that matter. Troy and Springfield, IL. Broken Arrow and Elk City, OK. Tucumcari, NM — the neon capital of Route 66. Winslow, AZ. Kingman. And then the desert run into Southern California.&lt;/p&gt;
+&lt;p&gt;Huntington Beach is the finish line for the official tour. It won't be mine.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;After the Tour&lt;/h2&gt;
+&lt;p&gt;I'm not heading straight home from the Pacific.&lt;/p&gt;
+&lt;p&gt;After the LNDT ends, I'm turning north toward Death Valley — one of the most severe and beautiful landscapes in North America. Then east through Las Vegas, up to Lake Powell and the Glen Canyon country, and across to the Four Corners.&lt;/p&gt;
+&lt;p&gt;From there, I'll spend about eight days based out of Ignacio, Colorado, riding the roads around Durango and Silverton — including the Million Dollar Highway, which might be the most dramatic road in the United States. If you've never ridden US-550 through the San Juan Mountains, it's on a very short list of roads that will stay with you.&lt;/p&gt;
+&lt;p&gt;Then the long push home through Pueblo, Dodge City, Kansas City, and back to Ohio.&lt;/p&gt;
+&lt;p&gt;June 20th, if everything goes the way it's supposed to.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Why I'm Telling You This&lt;/h2&gt;
+&lt;p&gt;Part of what I do — what I've always done — is ride roads so I can tell you honestly what they're like. Not tourism copy. Not a list of attractions you can find on any travel blog. The real read on a road: the surface, the traffic, the stops worth making, the ones that look good on paper and aren't.&lt;/p&gt;
+&lt;p&gt;This trip is the biggest single piece of that work I've ever done. Twenty-seven days across parts of this country I've ridden before and parts I haven't. I'll be posting the whole thing — honest, unfiltered, the kind of road notes that hopefully make your next trip better.&lt;/p&gt;
+&lt;p&gt;Follow along on Instagram at &lt;a href="https://www.instagram.com/unbound_nomad"&gt;@unbound_nomad&lt;/a&gt;. That's where the daily updates will live — photos, short videos, and whatever thoughts I have at the end of a long day in the saddle.&lt;/p&gt;
+&lt;p&gt;The blog posts will come after. Longer pieces on the roads worth knowing about, the route planning behind a trip like this, and whatever the open road offers up that I didn't expect.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;One More Thing&lt;/h2&gt;
+&lt;p&gt;If you've ever thought about doing a trip like this — Route 66, the Southwest, the Rockies — but the planning feels overwhelming, that's exactly the kind of work I do for riders through &lt;a href="https://unboundnomad.com/pages/concierge-trip-planning.html"&gt;Concierge Trip Planning&lt;/a&gt;. Custom routes, real recommendations, no algorithms. Built by someone who's ridden the miles himself.&lt;/p&gt;
+&lt;p&gt;More on that when I get back. Right now, I've got a bike to finish packing.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Ride well. Stay present. See you out there.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;— Phil&lt;/strong&gt;
+The Unbound Nomad&lt;/p&gt;</content><category term="Blog"></category><category term="Motorcycles"></category><category term="Route 66"></category><category term="Indian Motorcycle"></category><category term="Adventure"></category><category term="Legends Never Die Tour"></category></entry><entry><title>Devil's Tower Tour</title><link href="https://www.unboundnomad.com/blog/devils-tower-tour.html" rel="alternate"></link><published>2024-01-13T20:55:00+00:00</published><updated>2024-01-13T20:55:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2024-01-13:/blog/devils-tower-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
 &lt;!-- ========================= --&gt;
 
