@@ -12,7 +12,7 @@ Status: published
 
 ## Why Riders Love This
 
-Planning a motorcycle trip is fun — until it isn’t.
+Planning a motorcycle trip is fun - until it isn’t.
 
 - What route actually has the best curves?  
 - Where are the gas gaps?  
@@ -25,7 +25,7 @@ That’s where I come in.
 You bring the idea:  
 > “I want to ride **here** around **this time**, with **this many days** and **this kind of vibe**.”
 
-I turn that into a rideable, realistic, dialed-in plan — so you can focus on the part that matters:
+I turn that into a rideable, realistic, dialed-in plan - so you can focus on the part that matters:
 
 **riding.**
 
@@ -54,7 +54,7 @@ Each day gets a clear structure:
 - optional scenic detours  
 - target end point  
 
-You always know what’s ahead — and what’s optional.
+You always know what’s ahead - and what’s optional.
 
 ### 🍽️ Food & Fuel Stops
 
@@ -91,13 +91,13 @@ I’ll call out:
 - road types (open plains, mountain passes, tight twisties, etc.)  
 - any “this can get sketchy if you’re not prepared” details  
 
-You still ride your own ride — I just help you ride it smarter.
+You still ride your own ride - I just help you ride it smarter.
 
 ---
 
 ## Packages
 
-### 1) The Road Map — **$75**
+### 1) The Road Map - **$75**
 
 Perfect if you already have a decent idea of your trip, but want the route cleaned up by someone who actually rides.
 
@@ -109,7 +109,7 @@ You get:
 
 ---
 
-### 2) The Journey Plan — **$150**
+### 2) The Journey Plan - **$150**
 
 For riders who want more support and less guesswork.
 
@@ -122,7 +122,7 @@ You get everything in **The Road Map**, plus:
 
 ---
 
-### 3) The Full-Throttle Plan — **$250**
+### 3) The Full-Throttle Plan - **$250**
 
 This is the “I want it all dialed in” option.
 
@@ -153,7 +153,7 @@ Concierge Trip Planning is a great fit if:
 - you’re bringing a passenger or group and want to reduce unknowns  
 - you want your trip to feel “effortless” once the kickstands go up  
 
-If you want a ride that feels intentional — not thrown together — this is for you.
+If you want a ride that feels intentional - not thrown together - this is for you.
 
 ---
 
@@ -174,5 +174,5 @@ When you reach out, tell me:
 - what kind of roads and scenery you enjoy  
 - your experience level and comfort with mileage  
 
-From there, I’ll put together a plan that feels like it was built specifically for you —  
+From there, I’ll put together a plan that feels like it was built specifically for you -  
 because it was.

@@ -15,7 +15,7 @@ Status: published
 
 Not every unforgettable motorcycle ride has to be a cross-country epic.
 
-Sometimes the runs that hit the hardest are the ones you squeeze into a Saturday —  
+Sometimes the runs that hit the hardest are the ones you squeeze into a Saturday -  
 the ride that clears your head, hits all the right roads, and gets you home tired and happy.
 
 These aren’t just short rides.  
@@ -39,7 +39,7 @@ If you love the idea of showing up, riding hard, and ending the day with good st
 
 Every Micro-Adventure is built intentionally. No random Google routing, no “good enough” guesswork.
 
-I ride, refine, and dial in each route so it actually flows — curves, pacing, views, and stops that make sense on a motorcycle.
+I ride, refine, and dial in each route so it actually flows - curves, pacing, views, and stops that make sense on a motorcycle.
 
 ### 🗺️ Scenic, Curated Roads
 
@@ -66,7 +66,7 @@ I handle the rest.
 
 The best ride stories usually don’t start with a drive-thru.
 
-I build in stops at local diners, viewpoints, and roadside gems that make the ride feel like an experience — not just mileage.
+I build in stops at local diners, viewpoints, and roadside gems that make the ride feel like an experience - not just mileage.
 
 ### 🎬 A Day That Feels Big
 
@@ -92,7 +92,7 @@ A legendary Midwest loop full of curves, cliffs, rock formations, and scenic pul
 
 ### Windy 9 Sampler
 
-A curated taste of Ohio’s Windy 9 — carefully stitched together into one solid day of riding.
+A curated taste of Ohio’s Windy 9 - carefully stitched together into one solid day of riding.
 
 More Micro-Adventures will be added throughout the 2026 season as scouting and travel continue.
 
@@ -100,7 +100,7 @@ More Micro-Adventures will be added throughout the 2026 season as scouting and t
 
 ## Pricing
 
-### ½-Day Micro-Adventure — **$150**
+### ½-Day Micro-Adventure - **$150**
 
 Perfect for riders who:
 
@@ -108,7 +108,7 @@ Perfect for riders who:
 - are limited on time  
 - want something that fits into a morning or afternoon  
 
-### Full-Day Micro-Adventure — **$275**
+### Full-Day Micro-Adventure - **$275**
 
 A full tank kind of day:
 

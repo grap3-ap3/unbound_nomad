@@ -79,7 +79,7 @@ Status: published
 Weave through stone pillars, rugged mountains, and layered formations carved by time.  
 The Badlands deliver a dramatic mix of **chiseled spires**, **deep canyons**, and **jagged buttes** unlike anything else in the Midwest.
 
-This is an easy, scenic ride — the kind you take slow so you can soak in every viewpoint.  
+This is an easy, scenic ride - the kind you take slow so you can soak in every viewpoint.  
 The route winds through **Badlands National Park**, stretching across **Rapid City**, **Wall**, and the wide-open **Buffalo Gap National Grasslands**.
 
 The farther you ride, the more the landscape feels ancient, raw, and unforgettable.
@@ -90,7 +90,7 @@ The farther you ride, the more the landscape feels ancient, raw, and unforgettab
 
 - Wide open horizons that make you feel small in the best way  
 - Long sweeping curves perfect for a relaxed, thoughtful pace  
-- Landscapes that shift colors throughout the day — ideal for photography  
+- Landscapes that shift colors throughout the day - ideal for photography  
 - A sense of peace and wonder you only get in places shaped by centuries of wind and time  
 
 ---

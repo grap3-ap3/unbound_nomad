@@ -15,7 +15,7 @@ Status: published
 
   <div style="flex:1 1 280px; min-width:260px;">
     <p>
-      I’ve been riding for more than two decades. Long days on the road, miles of quiet thinking, and the kind of freedom that doesn’t fit neatly into anyone’s expectations — that’s where this brand was born.
+      I’ve been riding for more than two decades. Long days on the road, miles of quiet thinking, and the kind of freedom that doesn’t fit neatly into anyone’s expectations - that’s where this brand was born.
     </p>
 
     <p>
@@ -39,7 +39,7 @@ Status: published
   <div style="flex:1 1 auto;">
     <p style="margin:0; font-weight:600;">Hi, I’m Phil.</p>
     <p style="margin:0.2rem 0 0 0; font-size:0.95rem; line-height:1.4;">
-      I’m the rider behind The Unbound Nomad — your guide to better roads, intentional rides, and stories you’ll still be telling years from now.
+      I’m the rider behind The Unbound Nomad - your guide to better roads, intentional rides, and stories you’ll still be telling years from now.
     </p>
   </div>
 
@@ -54,11 +54,11 @@ Status: published
 In June of 2025, I had my first motorcycle accident in 23 years.
 
 One moment I was doing what I love.  
-The next, I was on the pavement — injured, sidelined, and watching an entire season slip away.
+The next, I was on the pavement - injured, sidelined, and watching an entire season slip away.
 
 I couldn’t ride.  
 I couldn’t travel.  
-And The Unbound Nomad — everything I’d been building — came to a full stop.
+And The Unbound Nomad - everything I’d been building - came to a full stop.
 
 But riders don’t stay down.  
 We rebuild.  
@@ -92,18 +92,18 @@ And what I came back to was simple:
 
 ## The 2026 Pivot: Ride More. Plan Less.
 
-2026 marks a focused relaunch of The Unbound Nomad — one built around clarity, simplicity, and purpose.
+2026 marks a focused relaunch of The Unbound Nomad - one built around clarity, simplicity, and purpose.
 
 Two offerings now define the brand:
 
 ### → Micro-Adventures (Single-Day Guided Rides)
 
-Curated scenic rides built for riders who want to show up, twist the throttle, and make a memory — without spending hours researching roads.
+Curated scenic rides built for riders who want to show up, twist the throttle, and make a memory - without spending hours researching roads.
 
 ### → Concierge Trip Planning (Full-Service Ride Planning)
 
 Multi-day custom itineraries crafted around your goals, pace, skill level, and preferred riding style.  
-Routes, pacing, stops, GPX files — all designed with the care of someone who’s ridden the miles himself.
+Routes, pacing, stops, GPX files - all designed with the care of someone who’s ridden the miles himself.
 
 ---
 
@@ -120,7 +120,7 @@ I also know how much time riders waste trying to plan the “perfect ride,” on
 
 This brand exists to fix that.
 
-I design rides with intention and experience — not algorithms.  
+I design rides with intention and experience - not algorithms.  
 Rides that feel good in the moment and even better in hindsight.  
 Rides built to be remembered.
 
@@ -138,7 +138,7 @@ If you want to actually *feel* like a nomad for a day or a week…
 
 Then saddle up.
 
-Let’s make 2026 the year you stop dreaming about the perfect ride — and go take it.
+Let’s make 2026 the year you stop dreaming about the perfect ride - and go take it.
 
 <p style="margin:1.5rem 0;">
   <a href="booking.html" class="un-btn">
@@ -152,7 +152,7 @@ Let’s make 2026 the year you stop dreaming about the perfect ride — and go t
 
 ## Connect with Me
 
-If you’re ready to start planning your next ride — or just want to talk through what kind of trip would fit you best — the best place to reach me is right here:
+If you’re ready to start planning your next ride - or just want to talk through what kind of trip would fit you best - the best place to reach me is right here:
 
 <p style="margin:1rem 0;">
   <a href="booking.html" class="un-btn">

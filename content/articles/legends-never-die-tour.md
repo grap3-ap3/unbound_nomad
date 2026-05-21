@@ -79,13 +79,13 @@ Some are about destinations.
 
 This one is about **legacy**.
 
-The **Legends Never Die Tour** is a cross-country ride along historic Route 66 — a road that helped define American freedom, motorcycle culture, and the idea that the journey matters just as much as the destination.
+The **Legends Never Die Tour** is a cross-country ride along historic Route 66 - a road that helped define American freedom, motorcycle culture, and the idea that the journey matters just as much as the destination.
 
 This isn’t a race.  
 It isn’t a rally circus.  
 And it sure as hell isn’t a cookie-cutter tour.
 
-It’s a rolling tribute to the riders, machines, and stories that came before us — and a reminder that the road is still calling.
+It’s a rolling tribute to the riders, machines, and stories that came before us - and a reminder that the road is still calling.
 
 ---
 
@@ -98,7 +98,7 @@ It’s a rolling tribute to the riders, machines, and stories that came before u
 - **Duration:** 10 days  
 - **Spirit:** Freedom, heritage, and miles earned the right way
 
-From the Midwest to the Pacific, this ride follows one of the most iconic highways in the world — through small towns, wide open stretches, and places that still remember when motorcycles meant something a little different than they do today.
+From the Midwest to the Pacific, this ride follows one of the most iconic highways in the world - through small towns, wide open stretches, and places that still remember when motorcycles meant something a little different than they do today.
 
 ---
 
@@ -106,13 +106,13 @@ From the Midwest to the Pacific, this ride follows one of the most iconic highwa
 
 ![Route 66 fuel station]({static}/images/legends-never-die/fuel-station.jpg)
 
-Route 66 isn’t just pavement — it’s a timeline.
+Route 66 isn’t just pavement - it’s a timeline.
 
 It carried soldiers home.  
 It carried dreamers west.  
 It carried motorcycles before anyone was calling them “lifestyle brands.”
 
-The **Legends Never Die Tour** exists to honor that history — not with speeches or slogans, but by riding the road the way it was meant to be ridden.
+The **Legends Never Die Tour** exists to honor that history - not with speeches or slogans, but by riding the road the way it was meant to be ridden.
 
 No shortcuts.  
 No rush.  
@@ -129,7 +129,7 @@ This ride is for you if:
 - You believe motorcycles are more than weekend toys  
 - You care about the *why*, not just the *where*  
 - You respect the road and the people who built the culture around it  
-- You want to be part of something meaningful — not just another event
+- You want to be part of something meaningful - not just another event
 
 You don’t need to be a hardcore iron-butt rider.  
 You *do* need to show up with the right mindset.
@@ -150,7 +150,7 @@ This is the time to raise your hand.
 
 👉 **Reach out and start the conversation.**
 
-Because legends aren’t built by spectators —  
+Because legends aren’t built by spectators -  
 they’re built by the ones who ride.
 
 ---
@@ -163,7 +163,7 @@ Trends fade.
 Roads crack.  
 Motorcycles come and go.
 
-But some things don’t disappear —  
+But some things don’t disappear -  
 they just keep moving forward.
 
 **Legends never die.**  

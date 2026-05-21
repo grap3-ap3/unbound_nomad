@@ -28,7 +28,7 @@ Instead of cramming everything into one rigid schedule, Micro-Adventures are off
 
 ## What to Expect on a Micro-Adventure
 
-Every ride is designed to feel intentional — not thrown together the night before.
+Every ride is designed to feel intentional - not thrown together the night before.
 
 - Professionally curated scenic routes  
 - Group ride briefing and safety overview  
@@ -44,7 +44,7 @@ You show up with a full tank. I handle the rest.
 
 ## 2026 Ride Types
 
-### Standard Single-Day Ride — **$119 per rider**
+### Standard Single-Day Ride - **$119 per rider**
 
 - Guided group ride on a curated route  
 - Pre-ride briefing and expectations  
@@ -54,7 +54,7 @@ Perfect for riders who want to explore new roads without doing any planning.
 
 ---
 
-### Premium Single-Day Ride — **$199 per rider**
+### Premium Single-Day Ride - **$199 per rider**
 
 - Everything in the Standard Single-Day Ride  
 - **Plus:** a short rider highlight video (roughly 15–30 seconds) captured and edited for you  
@@ -63,7 +63,7 @@ Ideal if you want both the experience *and* something to share or look back on.
 
 ---
 
-### Private Group Ride — **$749 flat + $59 per rider**
+### Private Group Ride - **$749 flat + $59 per rider**
 
 Designed for clubs, veteran groups, or just a tight crew of friends.
 
@@ -86,7 +86,7 @@ Designed for clubs, veteran groups, or just a tight crew of friends.
 ### 🌟 Featured 2026 Ride
 
 Looking for a bucket-list motorcycle adventure in 2026?  
-The **Legends Never Die Tour** runs the full length of Route 66 — from Chicago to Santa Monica — and riders of all levels are welcome to join any portion of the run.
+The **Legends Never Die Tour** runs the full length of Route 66 - from Chicago to Santa Monica - and riders of all levels are welcome to join any portion of the run.
 
 <p style="margin:1rem 0;">
   <a href="/articles/legends-never-die-tour.html" class="un-btn">
@@ -134,7 +134,7 @@ These are some of the core areas 2026 Micro-Adventures and guided rides will foc
 - **Smoky Mountains Region:** Tail of the Dragon, Cherohala Skyway area  
 - **Blue Ridge & Skyline:** Select stretches of the Blue Ridge Parkway and Skyline Drive  
 
-If you have a specific region in mind, mention it when you reach out — if it’s not a place I know well enough to guide, I’ll tell you straight.
+If you have a specific region in mind, mention it when you reach out - if it’s not a place I know well enough to guide, I’ll tell you straight.
 
 ---
 
@@ -142,7 +142,7 @@ If you have a specific region in mind, mention it when you reach out — if it�
 
 ## Book a Ride or Reserve a Date
 
-If you see a month or region that gets your attention — or you want to reserve a **Private Group Ride** before dates fill up:
+If you see a month or region that gets your attention - or you want to reserve a **Private Group Ride** before dates fill up:
 
 <p style="margin:1rem 0 1.25rem 0;">
   <a href="booking.html" class="un-btn">

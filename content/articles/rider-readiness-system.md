@@ -176,5 +176,5 @@ Ride unrestricted.
 Ride unencumbered.  
 Ride unbound.
 
-**— Phil**  
+**- Phil**  
 The Unbound Nomad

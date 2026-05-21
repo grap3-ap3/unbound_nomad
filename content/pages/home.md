@@ -32,7 +32,7 @@ My job is to guide you to the ones you’ll remember.**
 
 - Riders who want unforgettable journeys without the hours of planning  
 - Riders who want expert-designed routes from someone who knows the miles  
-- Riders who want to experience the road — not the research  
+- Riders who want to experience the road - not the research  
 - Riders who value scenic, intentional, stress-free adventures  
 
 Trusted by riders across the Midwest and Appalachia.  
@@ -56,7 +56,7 @@ Perfect for riders who want to show up, ride hard, and head home grinning.
 
 ### Concierge Trip Planning  
 **Multi-day custom itineraries** built around your riding style, timeline, and goals.  
-No guesswork. No stress. Just your next great ride—already mapped.
+No guesswork. No stress. Just your next great ride-already mapped.
 
 [Learn more about Concierge Trip Planning →](concierge-trip-planning.html)
 
@@ -74,7 +74,7 @@ No guesswork. No stress. Just your next great ride—already mapped.
 
 ### 🗺️ 2026 Tours & Events
 
-The new **Legends Never Die Tour** is rolling out in 2026 — celebrating  
+The new **Legends Never Die Tour** is rolling out in 2026 - celebrating  
 100 years of Route 66, 125 years of Indian Motorcycle, and 200 years of America.
 
 If you ride and want to join part (or all) of this historic run, the full details are here:
@@ -120,7 +120,7 @@ This is motorcycling the way it’s meant to feel.
    Riding style, timeline, preferences, and must-see areas  
 
 3. **I build your ride**  
-   Routes, pacing, stops, and details—planned by a rider who’s already done the miles  
+   Routes, pacing, stops, and details-planned by a rider who’s already done the miles  
 
 4. **You hit the road**  
    Ride with clarity and confidence, knowing the day is already dialed in  

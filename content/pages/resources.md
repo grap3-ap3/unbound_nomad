@@ -74,7 +74,7 @@ Not theory.
 Not recycled internet advice.  
 Not filler.
 
-These are the same systems, checklists, and preparation tools I use before every ride — whether it’s a local rip or a multi-state tour.
+These are the same systems, checklists, and preparation tools I use before every ride - whether it’s a local rip or a multi-state tour.
 
 More resources will be added over time.  
 If it shows up here, it has been tested on the road.
@@ -139,5 +139,5 @@ Ride unrestricted.
 Ride unencumbered.  
 Ride unbound.  
 
-**— Phil**  
+**- Phil**  
 The Unbound Nomad
