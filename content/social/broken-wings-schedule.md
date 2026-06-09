@@ -117,13 +117,14 @@ Not grounded. Just flying different.
 
 #BrokenWings #UnboundNomad #StillRolling #MotorcycleLife
 
+> PURCHASE LINK: https://square.link/u/S2o0DXon
+>
 > LAUNCH DAY CHECKLIST:
-> - Product page must be LIVE before 9:00 AM
-> - Bio link updated with purchase link
+> - Update Instagram + Facebook bio with purchase link before 9:00 AM
 > - Reply to EVERY comment (keep replies short - scripts below)
 >
 > Comment reply scripts:
-> - "Where do I get one?" - "Link's in bio. First run is limited."
+> - "Where do I get one?" - "Link's in bio. First run is limited." (https://square.link/u/S2o0DXon)
 > - "This hits hard" - "That's why I made it."
 > - Someone shares their story - "Respect."
 
