@@ -1,5 +1,5 @@
 Title: The High Desert: Page, Monument Valley, and Four Corners
-Date: 2026-06-22 12:00
+Date: 2026-06-30 12:00
 Author: The Unbound Nomad
 Category: Rides
 Tags: Motorcycles, Adventure, Tours, Road Trip, Southwest, Monument Valley
@@ -76,11 +76,7 @@ Status: published
 
 Leaving the Pacific behind is a strange thing.
 
-![Leaving the Pacific]({static}/images/rt66/p2/leaving.jpg)
-
 You've ridden to the edge of the continent. The ocean is right there. And then you turn around and ride back into it - back into the heat, the distance, the American interior. The return leg of a long trip has a different feel than the outbound one. The urgency is gone. You've done the thing. Now you're just riding.
-
-![Route 66 completed]({static}/images/rt66/p2/completed.jpg)
 
 What I didn't expect was how much the ride home would rival the ride out.
 
@@ -91,6 +87,8 @@ What I didn't expect was how much the ride home would rival the ride out.
 The desert begins almost immediately once you leave the coastal basin. Southern California has a way of hiding how close the wilderness really is - a few miles of suburb and then suddenly you're in it. The temperature climbs. The landscape opens up. The road stretches ahead in a way that feels both endless and clarifying.
 
 I pointed Lozen east and let the miles come.
+
+![Leaving the Pacific]({static}/images/rt66/p2/leaving.jpg)
 
 ## Navajo Bridge
 
