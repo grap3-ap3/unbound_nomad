@@ -1,5 +1,5 @@
 Title: Ohio's Windy 9: A Rider's Guide to Southeast Ohio's Greatest Roads
-Date: 2026-05-19
+Date: 2026-06-23
 Author: The Unbound Nomad
 Category: Rides
 Tags: Motorcycles, Ohio, Windy 9, Route Planning, Adventure, Tours
@@ -15,7 +15,7 @@ If you haven't heard of it, the Windy 9 is a network of nine motorcycle routes t
 I've ridden all nine. Some of them more times than I can count. And in this post I'm going to give you the honest, rider-to-rider breakdown that tourism websites never do - so you can stop researching and start planning.
 
 **Want the full route-by-route breakdown in one place?**
-I put together a free guide - *Ohio's Windy 9: A Rider's Guide* - that profiles every route with distances, difficulty ratings, honest takes, local food stops, and my personal favorites. [Download it free here.](https://unboundnomad.gumroad.com/l/qbooxq)
+I put together a free guide - *Ohio's Windy 9: A Rider's Guide* - that profiles every route with distances, difficulty ratings, honest takes, local food stops, and my personal favorites. [Download it free here.](https://unboundnomad.gumroad.com/l/windy9-riders-guide)
 
 ---
 
@@ -98,7 +98,7 @@ I put everything from this post - plus more detail on each route, difficulty rat
 
 **Ohio's Windy 9: A Rider's Guide** is free to download and was written entirely from personal riding experience. No recycled internet advice, no tourism copy. Just honest intel from someone who's ridden every mile.
 
-👉 **[Download the free guide here](https://unboundnomad.gumroad.com/l/qbooxq)**
+👉 **[Download the free guide here](https://unboundnomad.gumroad.com/l/windy9-riders-guide)**
 
 ---
 
