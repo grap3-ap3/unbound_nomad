@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>The Unbound Nomad - Rides</title><link href="https://www.unboundnomad.com/" rel="alternate"></link><link href="https://www.unboundnomad.com/feeds/rides.atom.xml" rel="self"></link><id>https://www.unboundnomad.com/</id><updated>2026-06-23T00:00:00+00:00</updated><entry><title>Ohio's Windy 9: A Rider's Guide to Southeast Ohio's Greatest Roads</title><link href="https://www.unboundnomad.com/blog/ohios-windy-9-riders-guide.html" rel="alternate"></link><published>2026-06-23T00:00:00+00:00</published><updated>2026-06-23T00:00:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2026-06-23:/blog/ohios-windy-9-riders-guide.html</id><summary type="html">&lt;p&gt;I've been riding for over two decades. I've logged miles across this country on roads that range from forgettable to life-changing. And when people ask me where to ride in Ohio - without hesitation, I point them southeast.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Unbound Nomad - Rides</title><link href="https://unboundnomad.com/" rel="alternate"></link><link href="https://unboundnomad.com/feeds/rides.atom.xml" rel="self"></link><id>https://unboundnomad.com/</id><updated>2026-06-23T00:00:00+00:00</updated><entry><title>Ohio's Windy 9: A Rider's Guide to Southeast Ohio's Greatest Roads</title><link href="https://unboundnomad.com/blog/ohios-windy-9-riders-guide.html" rel="alternate"></link><published>2026-06-23T00:00:00+00:00</published><updated>2026-06-23T00:00:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2026-06-23:/blog/ohios-windy-9-riders-guide.html</id><summary type="html">&lt;p&gt;I've been riding for over two decades. I've logged miles across this country on roads that range from forgettable to life-changing. And when people ask me where to ride in Ohio - without hesitation, I point them southeast.&lt;/p&gt;
 &lt;p&gt;To Athens. To the Appalachian foothills. To Ohio's Windy 9.&lt;/p&gt;
 &lt;p&gt;If you haven't …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I've been riding for over two decades. I've logged miles across this country on roads that range from forgettable to life-changing. And when people ask me where to ride in Ohio - without hesitation, I point them southeast.&lt;/p&gt;
 &lt;p&gt;To Athens. To the Appalachian foothills. To Ohio's Windy 9.&lt;/p&gt;
@@ -64,7 +64,7 @@ I put together a free guide - &lt;em&gt;Ohio's Windy 9: A Rider's Guide&lt;/em&g
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;Ride well. Stay present. See you out there.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;- Phil&lt;/strong&gt;
-The Unbound Nomad&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Ohio"></category><category term="Windy 9"></category><category term="Route Planning"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Route 66: End to End on Two Wheels, Part 1</title><link href="https://www.unboundnomad.com/blog/route-66-end-to-end-part-1.html" rel="alternate"></link><published>2026-06-21T12:00:00+00:00</published><updated>2026-06-21T12:00:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2026-06-21:/blog/route-66-end-to-end-part-1.html</id><summary type="html">&lt;!-- Summary: 2,400 miles of American history, roadside kitsch, and long meditative roads. Here's what I found riding Route 66 end to end on two wheels. --&gt;
+The Unbound Nomad&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Ohio"></category><category term="Windy 9"></category><category term="Route Planning"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Route 66: End to End on Two Wheels, Part 1</title><link href="https://unboundnomad.com/blog/route-66-end-to-end-part-1.html" rel="alternate"></link><published>2026-06-21T12:00:00+00:00</published><updated>2026-06-21T12:00:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2026-06-21:/blog/route-66-end-to-end-part-1.html</id><summary type="html">&lt;!-- Summary: 2,400 miles of American history, roadside kitsch, and long meditative roads. Here's what I found riding Route 66 end to end on two wheels. --&gt;
 
 &lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
@@ -80,7 +80,7 @@ The Unbound Nomad&lt;/p&gt;</content><category term="Rides"></category><category
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/rt66/p1/hero.jpg"
+  &lt;img src="https://unboundnomad.com/images/rt66/p1/hero.jpg"
        alt="Route 66 Part 1 Hero"
        style="
          width:100%;
@@ -149,7 +149,7 @@ The Unbound Nomad&lt;/p&gt;</content><category term="Rides"></category><category
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/rt66/p1/hero.jpg"
+  &lt;img src="https://unboundnomad.com/images/rt66/p1/hero.jpg"
        alt="Route 66 Part 1 Hero"
        style="
          width:100%;
@@ -203,90 +203,90 @@ The Unbound Nomad&lt;/p&gt;</content><category term="Rides"></category><category
 &lt;/div&gt;
 
 &lt;p&gt;There's a moment, early in a long trip, when you realize you've actually done it. You've left. Home is behind you, everyone you know is behind you, the routine is behind you. The road ahead is the only thing that's real.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Route 66" src="https://www.unboundnomad.com/images/rt66/p1/hero.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Route 66" src="https://unboundnomad.com/images/rt66/p1/hero.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;For me, this trip carried extra weight. After an accident last year, that shook my confidence and tested my commitment to riding, I needed to know - really know - that I was still a biker. This ride was my answer. 26 days, 6,000 miles, from Delaware, Ohio to Huntington Beach, California and back. The Legends Never Die Tour - the Route 66 leg - was the spine of the westbound journey, roughly 2,400 miles of American history, roadside kitsch, genuine beauty, and long meditative stretches of road that give you more time alone with your thoughts than you might want.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Route 66 signs" src="https://www.unboundnomad.com/images/rt66/p1/signs.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Route 66 signs" src="https://unboundnomad.com/images/rt66/p1/signs.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;Here's what I found.&lt;/p&gt;
 &lt;h2&gt;Illinois: Where the Mother Road Begins&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="Illinois Route 66" src="https://www.unboundnomad.com/images/rt66/p1/illinois.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Illinois Route 66" src="https://unboundnomad.com/images/rt66/p1/illinois.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;Route 66 officially begins - or ends, depending on which direction you're traveling - at the corner of Michigan Avenue and Adams Street in Chicago. I didn't start there. I came from Ohio, but I rode into downtown Chicago to get a photo of the original start sign. Unfortunately, the location and circumstance didn't let me capture a good photo. But Lozen and I hit the official start of the route, and the adventure had begun!&lt;/p&gt;
 &lt;p&gt;Illinois gave me some of the trip's quieter pleasures. Ambler's Texaco Station in Atlanta - a beautifully preserved relic, the kind of place where you half expect a guy in coveralls to wander out and ask if you need a fill-up. The Shrine of Our Lady of the Highway, a small roadside memorial that carries the weight of those lost on the route. The Litchfield Museum, tucked away and easy to miss. These aren't the headline attractions. They're the things that make Route 66 worth riding slowly.&lt;/p&gt;
 &lt;div style="display:flex;gap:0.5rem;margin:1rem 0;"&gt;
-  &lt;img src="https://www.unboundnomad.com/images/rt66/p1/amblers.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Ambler's Texaco Station, Atlanta IL"&gt;
-  &lt;img src="https://www.unboundnomad.com/images/rt66/p1/oloth.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Shrine of Our Lady of the Highway"&gt;
-  &lt;img src="https://www.unboundnomad.com/images/rt66/p1/litchfield.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Litchfield Museum"&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p1/amblers.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Ambler's Texaco Station, Atlanta IL"&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p1/oloth.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Shrine of Our Lady of the Highway"&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p1/litchfield.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Litchfield Museum"&gt;
 &lt;/div&gt;
 
 &lt;h2&gt;Missouri: History Gets Complicated&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="St. Louis Arch" src="https://www.unboundnomad.com/images/rt66/p1/stlouis.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="St. Louis Arch" src="https://unboundnomad.com/images/rt66/p1/stlouis.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;Missouri opened with the St. Louis Arch gleaming on the horizon across the river - one of those sights that earns the word "iconic" without any irony. I'd seen it before. It still gave me pause.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Cuba Missouri murals" src="https://www.unboundnomad.com/images/rt66/p1/cuba.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Cuba Missouri murals" src="https://unboundnomad.com/images/rt66/p1/cuba.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;But Missouri's Route 66 corridor was where the road first showed me its complexity. Cuba, Missouri has turned its downtown into an outdoor mural gallery - vivid, full-scale paintings covering entire building facades, each one telling a piece of the town's or the road's history. I rode slowly through town, craning my neck at each one.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Uranus Fudge Factory" src="https://www.unboundnomad.com/images/rt66/p1/uranus.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Uranus Fudge Factory" src="https://unboundnomad.com/images/rt66/p1/uranus.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;Then there was the Uranus Fudge Factory. I'll let the name speak for itself. Some things about Route 66 are not subtle.&lt;/p&gt;
 &lt;p&gt;The rain found me somewhere south of Doolittle and didn't let up until Springfield. I ate dinner in a diner with wet gear hanging off the back of my chair and felt completely content.&lt;/p&gt;
 &lt;h2&gt;Oklahoma: Soul of the Road&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="Oklahoma Route 66" src="https://www.unboundnomad.com/images/rt66/p1/oklahoma.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Oklahoma Route 66" src="https://unboundnomad.com/images/rt66/p1/oklahoma.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;If Illinois is where Route 66 starts and California is where it ends, Oklahoma is where it lives.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Gay Parita Filling Station" src="https://www.unboundnomad.com/images/rt66/p1/gay-parita.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Gay Parita Filling Station" src="https://unboundnomad.com/images/rt66/p1/gay-parita.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;Gay Parita Filling Station outside Halltown is the first stop I'd put on any Route 66 itinerary. A meticulously restored 1930s station, staffed by volunteers who will talk to you for as long as you want to listen. The kind of place that makes you understand why people spend their lives preserving things like this.&lt;/p&gt;
 &lt;p&gt;Galena, Kansas - technically just over the state line - gave me the inspiration for the "Tow Mater" truck from the movie Cars sitting in a field. A crowd of tourists around a tow truck. Only on Route 66.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Galena Kansas Tow Mater truck" src="https://www.unboundnomad.com/images/rt66/p1/galena.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Galena Kansas Tow Mater truck" src="https://unboundnomad.com/images/rt66/p1/galena.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;The Blue Whale of Catoosa might be the most surreal thing I've ever pulled up to on a motorcycle. A giant smiling whale rising out of a pond in somebody's backyard, painted blue, built by a man as an anniversary gift for his wife. America contains multitudes.&lt;/p&gt;
 &lt;div style="display:flex;gap:0.5rem;margin:1rem 0;"&gt;
-  &lt;img src="https://www.unboundnomad.com/images/rt66/p1/bluewhale1.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Blue Whale of Catoosa"&gt;
-  &lt;img src="https://www.unboundnomad.com/images/rt66/p1/bluewhale2.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Blue Whale of Catoosa"&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p1/bluewhale1.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Blue Whale of Catoosa"&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p1/bluewhale2.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Blue Whale of Catoosa"&gt;
 &lt;/div&gt;
 
 &lt;p&gt;But it was the Oklahoma City National Memorial that stopped me. 168 chairs on a lawn, one for each person killed in the 1995 bombing. The smaller chairs for the children. You don't rush through a place like that. You stand there and you let it mean something.&lt;/p&gt;
 &lt;div style="display:flex;gap:0.5rem;margin:1rem 0;"&gt;
-  &lt;img src="https://www.unboundnomad.com/images/rt66/p1/okcmemorial1.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Oklahoma City National Memorial"&gt;
-  &lt;img src="https://www.unboundnomad.com/images/rt66/p1/okcmemorial2.png" style="flex:1;min-width:0;object-fit:cover;" alt="Oklahoma City National Memorial chairs"&gt;
-  &lt;img src="https://www.unboundnomad.com/images/rt66/p1/okcmemorial3.png" style="flex:1;min-width:0;object-fit:cover;" alt="Oklahoma City National Memorial"&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p1/okcmemorial1.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Oklahoma City National Memorial"&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p1/okcmemorial2.png" style="flex:1;min-width:0;object-fit:cover;" alt="Oklahoma City National Memorial chairs"&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p1/okcmemorial3.png" style="flex:1;min-width:0;object-fit:cover;" alt="Oklahoma City National Memorial"&gt;
 &lt;/div&gt;
 
 &lt;h2&gt;Texas and New Mexico: The Sky Gets Bigger&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="Cadillac Ranch Amarillo Texas" src="https://www.unboundnomad.com/images/rt66/p1/cadliacranch.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Cadillac Ranch Amarillo Texas" src="https://unboundnomad.com/images/rt66/p1/cadliacranch.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;The Texas Panhandle is exactly as flat as advertised, and Cadillac Ranch is exactly as strange as photographed - ten Cadillacs buried nose-first in a field, spray-painted by thousands of visitors over the decades until they're thick with layers of color. It shouldn't work as art. Somehow it does.&lt;/p&gt;
 &lt;p&gt;Crossing into New Mexico, something shifts. The sky gets bigger. The light changes. The roadside architecture takes on a different character - adobe walls, hand-lettered signs, trading posts that have been selling turquoise and blankets since before the highway existed.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="New Mexico Route 66" src="https://www.unboundnomad.com/images/rt66/p1/newmexico.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="New Mexico Route 66" src="https://unboundnomad.com/images/rt66/p1/newmexico.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;Tucumcari at dusk is one of the great Route 66 experiences. The neon signs come on as the sun goes down, and for a few minutes the whole street looks like a postcard from 1957. I sat outside my hotel and just soaked in the moment.&lt;/p&gt;
 &lt;h2&gt;Arizona: The Road Earns Its Reputation&lt;/h2&gt;
 &lt;p&gt;Arizona is where Route 66 becomes the thing people write songs about.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Petrified Forest National Park" src="https://www.unboundnomad.com/images/rt66/p1/petrifiedforest.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Petrified Forest National Park" src="https://unboundnomad.com/images/rt66/p1/petrifiedforest.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;The Petrified Forest National Park pulled me off the highway for hours. Ancient wood turned to crystal over millions of years, scattered across a painted desert landscape that looks like something from another planet. I had not planned to stop. I could not make myself leave.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Winslow Arizona corner" src="https://www.unboundnomad.com/images/rt66/p1/winslow.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Winslow Arizona corner" src="https://unboundnomad.com/images/rt66/p1/winslow.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;Winslow, Arizona. "Standing on a corner in Winslow, Arizona" - the Eagles lyric is literally painted on the corner where it happened. Tourists line up for photos. I lined up with them. No shame.&lt;/p&gt;
 &lt;p&gt;Seligman was where Route 66 fought back against the interstate system and won. When I-40 bypassed the town in the 1970s, it nearly killed Seligman overnight. A barber named Angel Delgadillo started organizing. He helped found the Route 66 Association of Arizona and sparked a preservation movement that saved the road from being forgotten entirely. Angel's Barbershop is still there. Angel himself was not in the day I passed through, but his legacy is everywhere.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Seligman Arizona Route 66" src="https://www.unboundnomad.com/images/rt66/p1/sleigman.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Seligman Arizona Route 66" src="https://unboundnomad.com/images/rt66/p1/sleigman.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;Oatman is a mining ghost town in the Black Mountains where wild burros wander the main street and tourists feed them carrots. It is completely ridiculous and completely wonderful. The road to get there - a series of hairpin switchbacks up and over the mountains - is some of the best motorcycling I've ever done.&lt;/p&gt;
 &lt;div style="display:flex;gap:0.5rem;margin:1rem 0;"&gt;
-  &lt;img src="https://www.unboundnomad.com/images/rt66/p1/oatmanhotel.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Oatman Hotel"&gt;
-  &lt;img src="https://www.unboundnomad.com/images/rt66/p1/burro.png" style="flex:1;min-width:0;object-fit:cover;" alt="Wild burro in Oatman Arizona"&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p1/oatmanhotel.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Oatman Hotel"&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p1/burro.png" style="flex:1;min-width:0;object-fit:cover;" alt="Wild burro in Oatman Arizona"&gt;
 &lt;/div&gt;
 
 &lt;h2&gt;California: The End of the Road&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="Roy's Motel and Cafe Amboy California" src="https://www.unboundnomad.com/images/rt66/p1/roys.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Roy's Motel and Cafe Amboy California" src="https://unboundnomad.com/images/rt66/p1/roys.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;Roy's Motel and Cafe in Amboy is one of those places that feels like the last outpost before the end of the world. A classic googie-architecture sign rising above the Mojave Desert, a cafe, a motel, and a whole lot of nothing in every direction. I nearly ran out of fuel getting there. The sign was worth it.&lt;/p&gt;
 &lt;p&gt;Then the desert gave way to suburbs, suburbs gave way to the Pacific Ocean, and Route 66 ran out of road at the Santa Monica Pier.&lt;/p&gt;
 &lt;div style="display:flex;gap:0.5rem;margin:1rem 0;"&gt;
-  &lt;img src="https://www.unboundnomad.com/images/rt66/p1/entrancesign.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Route 66 entrance sign"&gt;
-  &lt;img src="https://www.unboundnomad.com/images/rt66/p1/endsign.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Route 66 end sign Santa Monica"&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p1/entrancesign.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Route 66 entrance sign"&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p1/endsign.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Route 66 end sign Santa Monica"&gt;
 &lt;/div&gt;
 
 &lt;p&gt;I rode to Huntington Beach instead - a personal choice, a place that meant something to me. I sat on the sand and looked at the Pacific and thought about the fact that I had ridden here from Ohio. That I had done this thing I said I was going to do.&lt;/p&gt;
 &lt;h2&gt;What Route 66 Is&lt;/h2&gt;
 &lt;p&gt;Route 66 is not a theme park. It's not a museum, and it's not a shortcut. At its best, it's a living record of the country that built it - the optimism, the tragedy, the kitsch, the genuine beauty, the people who refused to let it disappear.&lt;/p&gt;
 &lt;div style="display:flex;gap:0.5rem;margin:1rem 0;"&gt;
-  &lt;img src="https://www.unboundnomad.com/images/rt66/p1/oldroad1.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Route 66 open road"&gt;
-  &lt;img src="https://www.unboundnomad.com/images/rt66/p1/oldroad2.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Route 66 open road"&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p1/oldroad1.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Route 66 open road"&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p1/oldroad2.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Route 66 open road"&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Riding it end to end, slowly, stopping when something catches your eye, talking to the people who maintain these places and tell these stories - that's the only way to do it. You can drive it in a weekend if you push. You'd miss everything.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Route 66 to the end" src="https://www.unboundnomad.com/images/rt66/p1/totheend.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Route 66 to the end" src="https://unboundnomad.com/images/rt66/p1/totheend.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;Take your time. The road will wait.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;This ride was a 26-day motorcycle journey from Delaware, Ohio to Huntington Beach, California and back. This is Part 1 of a 6-part series.&lt;/em&gt;&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Route 66"></category><category term="Adventure"></category><category term="Tours"></category><category term="Road Trip"></category></entry><entry><title>Legends Never Die Tour</title><link href="https://www.unboundnomad.com/blog/legends-never-die-tour.html" rel="alternate"></link><published>2025-12-26T12:00:00+00:00</published><updated>2025-12-26T12:00:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2025-12-26:/blog/legends-never-die-tour.html</id><summary type="html">&lt;!-- Summary: A once-in-a-generation ride across Route 66 honoring the machines, the road, and the riders who built American motorcycling. --&gt;
+&lt;p&gt;&lt;em&gt;This ride was a 26-day motorcycle journey from Delaware, Ohio to Huntington Beach, California and back. This is Part 1 of a 6-part series.&lt;/em&gt;&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Route 66"></category><category term="Adventure"></category><category term="Tours"></category><category term="Road Trip"></category></entry><entry><title>Legends Never Die Tour</title><link href="https://unboundnomad.com/blog/legends-never-die-tour.html" rel="alternate"></link><published>2025-12-26T12:00:00+00:00</published><updated>2025-12-26T12:00:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2025-12-26:/blog/legends-never-die-tour.html</id><summary type="html">&lt;!-- Summary: A once-in-a-generation ride across Route 66 honoring the machines, the road, and the riders who built American motorcycling. --&gt;
 
 &lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
@@ -302,7 +302,7 @@ The Unbound Nomad&lt;/p&gt;</content><category term="Rides"></category><category
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/legends-never-die/rt66.jpg"
+  &lt;img src="https://unboundnomad.com/images/legends-never-die/rt66.jpg"
        alt="Legends Never Die Tour Hero"
        style="
          width:100%;
@@ -374,7 +374,7 @@ Some are about destinations.&lt;/p&gt;
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/legends-never-die/rt66.jpg"
+  &lt;img src="https://unboundnomad.com/images/legends-never-die/rt66.jpg"
        alt="Legends Never Die Tour Hero"
        style="
          width:100%;
@@ -437,7 +437,7 @@ And it sure as hell isn’t a cookie-cutter tour.&lt;/p&gt;
 &lt;p&gt;It’s a rolling tribute to the riders, machines, and stories that came before us - and a reminder that the road is still calling.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;📍 The Ride at a Glance&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="Route 66 sign" src="https://www.unboundnomad.com/images/legends-never-die/sign.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Route 66 sign" src="https://unboundnomad.com/images/legends-never-die/sign.jpg"&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Route:&lt;/strong&gt; Historic Route 66  &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Dates:&lt;/strong&gt; &lt;strong&gt;May 25 – June 3, 2026&lt;/strong&gt;  &lt;/li&gt;
@@ -447,7 +447,7 @@ And it sure as hell isn’t a cookie-cutter tour.&lt;/p&gt;
 &lt;p&gt;From the Midwest to the Pacific, this ride follows one of the most iconic highways in the world - through small towns, wide open stretches, and places that still remember when motorcycles meant something a little different than they do today.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Why This Ride Matters&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="Route 66 fuel station" src="https://www.unboundnomad.com/images/legends-never-die/fuel-station.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Route 66 fuel station" src="https://unboundnomad.com/images/legends-never-die/fuel-station.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;Route 66 isn’t just pavement - it’s a timeline.&lt;/p&gt;
 &lt;p&gt;It carried soldiers home.&lt;br&gt;
 It carried dreamers west.&lt;br&gt;
@@ -458,7 +458,7 @@ No rush.&lt;br&gt;
 Just miles, stories, and machines doing what they were built to do.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Who This Ride Is For&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="Motorcycle touring riders on the road" src="https://www.unboundnomad.com/images/legends-never-die/who-for.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Motorcycle touring riders on the road" src="https://unboundnomad.com/images/legends-never-die/who-for.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;This ride is for you if:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;You believe motorcycles are more than weekend toys  &lt;/li&gt;
@@ -482,14 +482,14 @@ You &lt;em&gt;do&lt;/em&gt; need to show up with the right mindset.&lt;/p&gt;
 they’re built by the ones who ride.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Final Word&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="Motorcycle ride community meetup" src="https://www.unboundnomad.com/images/legends-never-die/final-word.webp"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Motorcycle ride community meetup" src="https://unboundnomad.com/images/legends-never-die/final-word.webp"&gt;&lt;/p&gt;
 &lt;p&gt;Trends fade.&lt;br&gt;
 Roads crack.&lt;br&gt;
 Motorcycles come and go.&lt;/p&gt;
 &lt;p&gt;But some things don’t disappear -&lt;br&gt;
 they just keep moving forward.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Legends never die.&lt;/strong&gt;&lt;br&gt;
-They ride on.&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Route 66"></category><category term="Indian Motorcycle"></category><category term="Tours"></category><category term="Adventure"></category></entry><entry><title>Blue Ridge Parkway Tour</title><link href="https://www.unboundnomad.com/blog/blue-ridge-parkway-tour.html" rel="alternate"></link><published>2024-01-14T14:15:00+00:00</published><updated>2024-01-14T14:15:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2024-01-14:/blog/blue-ridge-parkway-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
+They ride on.&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Route 66"></category><category term="Indian Motorcycle"></category><category term="Tours"></category><category term="Adventure"></category></entry><entry><title>Blue Ridge Parkway Tour</title><link href="https://unboundnomad.com/blog/blue-ridge-parkway-tour.html" rel="alternate"></link><published>2024-01-14T14:15:00+00:00</published><updated>2024-01-14T14:15:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2024-01-14:/blog/blue-ridge-parkway-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
 &lt;!-- ========================= --&gt;
 
@@ -503,7 +503,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/natchezTrace.jpg"
+  &lt;img src="https://unboundnomad.com/images/natchezTrace.jpg"
        alt="Blue Ridge Parkway Tour Hero"
        style="
          width:100%;
@@ -570,7 +570,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/natchezTrace.jpg"
+  &lt;img src="https://unboundnomad.com/images/natchezTrace.jpg"
        alt="Blue Ridge Parkway Tour Hero"
        style="
          width:100%;
@@ -628,7 +628,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 &lt;hr&gt;
 &lt;h2&gt;Interested in This Ride?&lt;/h2&gt;
 &lt;p style="margin:1rem 0 1.25rem 0;"&gt;
-  &lt;a href="https://www.unboundnomad.com/pages/booking.html"
+  &lt;a href="https://unboundnomad.com/pages/booking.html"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;"&gt;
@@ -639,7 +639,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 &lt;p style="font-size:0.95rem; margin-top:0.3rem;"&gt;
   When you reach out, mention &lt;strong&gt;“Blue Ridge Parkway Tour”&lt;/strong&gt; and let me know your
   approximate dates, starting point, and how many riders you expect.
-&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Daytona Bike Week</title><link href="https://www.unboundnomad.com/blog/daytona-bike-week.html" rel="alternate"></link><published>2024-01-14T13:35:00+00:00</published><updated>2024-01-14T13:35:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2024-01-14:/blog/daytona-bike-week.html</id><summary type="html">&lt;!-- ========================= --&gt;
+&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Daytona Bike Week</title><link href="https://unboundnomad.com/blog/daytona-bike-week.html" rel="alternate"></link><published>2024-01-14T13:35:00+00:00</published><updated>2024-01-14T13:35:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2024-01-14:/blog/daytona-bike-week.html</id><summary type="html">&lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
 &lt;!-- ========================= --&gt;
 
@@ -653,7 +653,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/daytona.jpg"
+  &lt;img src="https://unboundnomad.com/images/daytona.jpg"
        alt="Daytona Bike Week Hero"
        style="
          width:100%;
@@ -720,7 +720,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/daytona.jpg"
+  &lt;img src="https://unboundnomad.com/images/daytona.jpg"
        alt="Daytona Bike Week Hero"
        style="
          width:100%;
@@ -778,7 +778,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 &lt;hr&gt;
 &lt;h2&gt;Interested in This Ride?&lt;/h2&gt;
 &lt;p style="margin:1rem 0 1.25rem 0;"&gt;
-  &lt;a href="https://www.unboundnomad.com/pages/booking.html"
+  &lt;a href="https://unboundnomad.com/pages/booking.html"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;"&gt;
@@ -789,7 +789,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 &lt;p style="font-size:0.95rem; margin-top:0.3rem;"&gt;
   When you reach out, mention &lt;strong&gt;“Daytona Bike Week”&lt;/strong&gt; and let me know your
   approximate dates, starting point, and how many riders you expect.
-&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Ohio Bike Week</title><link href="https://www.unboundnomad.com/blog/ohio-bike-week.html" rel="alternate"></link><published>2024-01-14T13:35:00+00:00</published><updated>2024-01-14T13:35:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2024-01-14:/blog/ohio-bike-week.html</id><summary type="html">&lt;!-- ========================= --&gt;
+&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Ohio Bike Week</title><link href="https://unboundnomad.com/blog/ohio-bike-week.html" rel="alternate"></link><published>2024-01-14T13:35:00+00:00</published><updated>2024-01-14T13:35:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2024-01-14:/blog/ohio-bike-week.html</id><summary type="html">&lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
 &lt;!-- ========================= --&gt;
 
@@ -803,7 +803,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/ohioBikeWeek.jpg"
+  &lt;img src="https://unboundnomad.com/images/ohioBikeWeek.jpg"
        alt="Ohio Bike Week Hero"
        style="
          width:100%;
@@ -871,7 +871,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/ohioBikeWeek.jpg"
+  &lt;img src="https://unboundnomad.com/images/ohioBikeWeek.jpg"
        alt="Ohio Bike Week Hero"
        style="
          width:100%;
@@ -929,7 +929,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 &lt;hr&gt;
 &lt;h2&gt;Interested in This Ride?&lt;/h2&gt;
 &lt;p style="margin:1rem 0 1.25rem 0;"&gt;
-  &lt;a href="https://www.unboundnomad.com/pages/booking.html"
+  &lt;a href="https://unboundnomad.com/pages/booking.html"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;"&gt;
@@ -940,7 +940,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 &lt;p style="font-size:0.95rem; margin-top:0.3rem;"&gt;
   When you reach out, mention &lt;strong&gt;“Ohio Bike Week”&lt;/strong&gt; and let me know your
   approximate dates, starting point, and how many riders you expect.
-&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Sturgis Motorcycle Rally</title><link href="https://www.unboundnomad.com/blog/sturgis-motorcycle-rally.html" rel="alternate"></link><published>2024-01-14T13:35:00+00:00</published><updated>2024-01-14T13:35:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2024-01-14:/blog/sturgis-motorcycle-rally.html</id><summary type="html">&lt;!-- ========================= --&gt;
+&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Sturgis Motorcycle Rally</title><link href="https://unboundnomad.com/blog/sturgis-motorcycle-rally.html" rel="alternate"></link><published>2024-01-14T13:35:00+00:00</published><updated>2024-01-14T13:35:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2024-01-14:/blog/sturgis-motorcycle-rally.html</id><summary type="html">&lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
 &lt;!-- ========================= --&gt;
 
@@ -954,7 +954,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/sturgis.jpg"
+  &lt;img src="https://unboundnomad.com/images/sturgis.jpg"
        alt="Sturgis Motorcycle Rally Hero"
        style="
          width:100%;
@@ -1022,7 +1022,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/sturgis.jpg"
+  &lt;img src="https://unboundnomad.com/images/sturgis.jpg"
        alt="Sturgis Motorcycle Rally Hero"
        style="
          width:100%;
@@ -1080,7 +1080,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 &lt;hr&gt;
 &lt;h2&gt;Interested in This Ride?&lt;/h2&gt;
 &lt;p style="margin:1rem 0 1.25rem 0;"&gt;
-  &lt;a href="https://www.unboundnomad.com/pages/booking.html"
+  &lt;a href="https://unboundnomad.com/pages/booking.html"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;"&gt;
@@ -1091,7 +1091,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 &lt;p style="font-size:0.95rem; margin-top:0.3rem;"&gt;
   When you reach out, mention &lt;strong&gt;“Sturgis Motorcycle Rally”&lt;/strong&gt; and let me know your
   approximate dates, starting point, and how many riders you expect.
-&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Yellowstone National Park Tour</title><link href="https://www.unboundnomad.com/blog/yellowstone-national-park-tour.html" rel="alternate"></link><published>2024-01-14T12:56:00+00:00</published><updated>2024-01-14T12:56:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2024-01-14:/blog/yellowstone-national-park-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
+&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Yellowstone National Park Tour</title><link href="https://unboundnomad.com/blog/yellowstone-national-park-tour.html" rel="alternate"></link><published>2024-01-14T12:56:00+00:00</published><updated>2024-01-14T12:56:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2024-01-14:/blog/yellowstone-national-park-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
 &lt;!-- ========================= --&gt;
 
@@ -1105,7 +1105,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/oldFaithful.jpg"
+  &lt;img src="https://unboundnomad.com/images/oldFaithful.jpg"
        alt="Yellowstone National Park Tour Hero"
        style="
          width:100%;
@@ -1172,7 +1172,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/oldFaithful.jpg"
+  &lt;img src="https://unboundnomad.com/images/oldFaithful.jpg"
        alt="Yellowstone National Park Tour Hero"
        style="
          width:100%;
@@ -1229,7 +1229,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 &lt;hr&gt;
 &lt;h2&gt;Interested in This Ride?&lt;/h2&gt;
 &lt;p style="margin:1rem 0 1.25rem 0;"&gt;
-  &lt;a href="https://www.unboundnomad.com/pages/booking.html"
+  &lt;a href="https://unboundnomad.com/pages/booking.html"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;"&gt;
@@ -1240,7 +1240,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 &lt;p style="font-size:0.95rem; margin-top:0.3rem;"&gt;
   When you reach out, mention &lt;strong&gt;“Yellowstone National Park Tour”&lt;/strong&gt; and let me know your
   approximate dates, starting point, and how many riders you expect.
-&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Beartooth Highway Tour</title><link href="https://www.unboundnomad.com/blog/beartooth-highway-tour.html" rel="alternate"></link><published>2024-01-14T11:45:00+00:00</published><updated>2024-01-14T11:45:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2024-01-14:/blog/beartooth-highway-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
+&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Beartooth Highway Tour</title><link href="https://unboundnomad.com/blog/beartooth-highway-tour.html" rel="alternate"></link><published>2024-01-14T11:45:00+00:00</published><updated>2024-01-14T11:45:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2024-01-14:/blog/beartooth-highway-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
 &lt;!-- ========================= --&gt;
 
@@ -1254,7 +1254,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/beartoothPass.jpg"
+  &lt;img src="https://unboundnomad.com/images/beartoothPass.jpg"
        alt="Beartooth Highway Tour Hero"
        style="
          width:100%;
@@ -1321,7 +1321,7 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/beartoothPass.jpg"
+  &lt;img src="https://unboundnomad.com/images/beartoothPass.jpg"
        alt="Beartooth Highway Tour Hero"
        style="
          width:100%;
@@ -1376,12 +1376,12 @@ They ride on.&lt;/p&gt;</content><category term="Rides"></category><category ter
 
 &lt;p&gt;The Beartooth Highway is an All-American Road in the western United States on a section of U.S. Route 212 in Montana and Wyoming between Red Lodge and the Northeast entrance of Yellowstone National Park. Dubbed “the most beautiful roadway in America” by On the Road correspondent Charles Kuralt, the Beartooth Highway climbs to an astounding 10,947 feet above sea level. Since its completion in 1936, the Highway has awed millions of visitors with its astonishing views of one of the most rugged and wild areas in the lower 48 states.&lt;/p&gt;
 &lt;p&gt;As it winds its way between the northeastern entrance of Yellowstone National Park and Red Lodge, the Highway traverses an impressive range of ecosystems – from lush lodge pole pine forests to alpine tundra. At the highway’s summit, travelers find themselves in a sky-high world of glacial cirques, clear alpine lakes, and snow that lingers through the summer months. The brutal climate at this elevation deters the growth of trees and shrubs, and the plants that do grow here have adapted in remarkable ways. Some convert sunlight to heat, and many conserve water the way desert plants do. In late June and July, the fragile tundra blossoms in a lavish display of wildflowers – shooting stars, columbine, and Indian paintbrush, to name a few.
-&lt;img alt="Beartooth Highway Tour" src="https://www.unboundnomad.com/images/beartoothPass2.jpg"&gt;
+&lt;img alt="Beartooth Highway Tour" src="https://unboundnomad.com/images/beartoothPass2.jpg"&gt;
 With 20 peaks over 12,000 feet in elevation (including Granite Peak, Montana’s highest at 12,799 feet), the Beartooth Mountains lie within the 943,377-acre Absaroka-Beartooth Wilderness. Grizzly and black bears make their home here, as do elk, deer, moose, bighorn sheep, Rocky Mountain goats, mountain lions and bobcats. With over 950 alpine lakes and hundreds of miles of trails, these mountains offer ample opportunities for recreation – much of it accessible from the Beartooth Highway.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;Interested in This Ride?&lt;/h2&gt;
 &lt;p style="margin:1rem 0 1.25rem 0;"&gt;
-  &lt;a href="https://www.unboundnomad.com/pages/booking.html"
+  &lt;a href="https://unboundnomad.com/pages/booking.html"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;"&gt;
@@ -1392,7 +1392,7 @@ With 20 peaks over 12,000 feet in elevation (including Granite Peak, Montana’s
 &lt;p style="font-size:0.95rem; margin-top:0.3rem;"&gt;
   When you reach out, mention &lt;strong&gt;“Beartooth Highway Tour”&lt;/strong&gt; and let me know your
   approximate dates, starting point, and how many riders you expect.
-&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Cherohala Skyway Tour</title><link href="https://www.unboundnomad.com/blog/cherohalaskyway-tour.html" rel="alternate"></link><published>2024-01-14T11:45:00+00:00</published><updated>2024-01-14T11:45:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2024-01-14:/blog/cherohalaskyway-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
+&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Cherohala Skyway Tour</title><link href="https://unboundnomad.com/blog/cherohalaskyway-tour.html" rel="alternate"></link><published>2024-01-14T11:45:00+00:00</published><updated>2024-01-14T11:45:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2024-01-14:/blog/cherohalaskyway-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
 &lt;!-- ========================= --&gt;
 
@@ -1406,7 +1406,7 @@ With 20 peaks over 12,000 feet in elevation (including Granite Peak, Montana’s
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/cherohalaSkyway.jpg"
+  &lt;img src="https://unboundnomad.com/images/cherohalaSkyway.jpg"
        alt="Cherohala Skyway Tour Hero"
        style="
          width:100%;
@@ -1473,7 +1473,7 @@ With 20 peaks over 12,000 feet in elevation (including Granite Peak, Montana’s
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/cherohalaSkyway.jpg"
+  &lt;img src="https://unboundnomad.com/images/cherohalaSkyway.jpg"
        alt="Cherohala Skyway Tour Hero"
        style="
          width:100%;
@@ -1531,7 +1531,7 @@ With 20 peaks over 12,000 feet in elevation (including Granite Peak, Montana’s
 &lt;hr&gt;
 &lt;h2&gt;Interested in This Ride?&lt;/h2&gt;
 &lt;p style="margin:1rem 0 1.25rem 0;"&gt;
-  &lt;a href="https://www.unboundnomad.com/pages/booking.html"
+  &lt;a href="https://unboundnomad.com/pages/booking.html"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;"&gt;
@@ -1542,7 +1542,7 @@ With 20 peaks over 12,000 feet in elevation (including Granite Peak, Montana’s
 &lt;p style="font-size:0.95rem; margin-top:0.3rem;"&gt;
   When you reach out, mention &lt;strong&gt;“Cherohala Skyway Tour”&lt;/strong&gt; and let me know your
   approximate dates, starting point, and how many riders you expect.
-&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Skyline Drive Tour</title><link href="https://www.unboundnomad.com/blog/skyline-drive-tour.html" rel="alternate"></link><published>2024-01-14T11:45:00+00:00</published><updated>2024-01-14T11:45:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2024-01-14:/blog/skyline-drive-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
+&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Skyline Drive Tour</title><link href="https://unboundnomad.com/blog/skyline-drive-tour.html" rel="alternate"></link><published>2024-01-14T11:45:00+00:00</published><updated>2024-01-14T11:45:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2024-01-14:/blog/skyline-drive-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
 &lt;!-- ========================= --&gt;
 
@@ -1556,7 +1556,7 @@ With 20 peaks over 12,000 feet in elevation (including Granite Peak, Montana’s
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/skylineDrive.jpg"
+  &lt;img src="https://unboundnomad.com/images/skylineDrive.jpg"
        alt="Skyline Drive Tour Hero"
        style="
          width:100%;
@@ -1623,7 +1623,7 @@ With 20 peaks over 12,000 feet in elevation (including Granite Peak, Montana’s
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/skylineDrive.jpg"
+  &lt;img src="https://unboundnomad.com/images/skylineDrive.jpg"
        alt="Skyline Drive Tour Hero"
        style="
          width:100%;
@@ -1681,7 +1681,7 @@ With 20 peaks over 12,000 feet in elevation (including Granite Peak, Montana’s
 &lt;hr&gt;
 &lt;h2&gt;Interested in This Ride?&lt;/h2&gt;
 &lt;p style="margin:1rem 0 1.25rem 0;"&gt;
-  &lt;a href="https://www.unboundnomad.com/pages/booking.html"
+  &lt;a href="https://unboundnomad.com/pages/booking.html"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;"&gt;
@@ -1692,7 +1692,7 @@ With 20 peaks over 12,000 feet in elevation (including Granite Peak, Montana’s
 &lt;p style="font-size:0.95rem; margin-top:0.3rem;"&gt;
   When you reach out, mention &lt;strong&gt;“Skyline Drive Tour”&lt;/strong&gt; and let me know your
   approximate dates, starting point, and how many riders you expect.
-&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Tail of the Dragon Tour</title><link href="https://www.unboundnomad.com/blog/tail-of-the-dragon-tour.html" rel="alternate"></link><published>2024-01-14T11:45:00+00:00</published><updated>2024-01-14T11:45:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2024-01-14:/blog/tail-of-the-dragon-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
+&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Tail of the Dragon Tour</title><link href="https://unboundnomad.com/blog/tail-of-the-dragon-tour.html" rel="alternate"></link><published>2024-01-14T11:45:00+00:00</published><updated>2024-01-14T11:45:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2024-01-14:/blog/tail-of-the-dragon-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
 &lt;!-- ========================= --&gt;
 
@@ -1706,7 +1706,7 @@ With 20 peaks over 12,000 feet in elevation (including Granite Peak, Montana’s
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/theDragon.jpg"
+  &lt;img src="https://unboundnomad.com/images/theDragon.jpg"
        alt="Tail of the Dragon Tour Hero"
        style="
          width:100%;
@@ -1773,7 +1773,7 @@ With 20 peaks over 12,000 feet in elevation (including Granite Peak, Montana’s
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/theDragon.jpg"
+  &lt;img src="https://unboundnomad.com/images/theDragon.jpg"
        alt="Tail of the Dragon Tour Hero"
        style="
          width:100%;
@@ -1830,7 +1830,7 @@ With 20 peaks over 12,000 feet in elevation (including Granite Peak, Montana’s
 &lt;hr&gt;
 &lt;h2&gt;Interested in This Ride?&lt;/h2&gt;
 &lt;p style="margin:1rem 0 1.25rem 0;"&gt;
-  &lt;a href="https://www.unboundnomad.com/pages/booking.html"
+  &lt;a href="https://unboundnomad.com/pages/booking.html"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;"&gt;
@@ -1841,7 +1841,7 @@ With 20 peaks over 12,000 feet in elevation (including Granite Peak, Montana’s
 &lt;p style="font-size:0.95rem; margin-top:0.3rem;"&gt;
   When you reach out, mention &lt;strong&gt;“Tail of the Dragon Tour”&lt;/strong&gt; and let me know your
   approximate dates, starting point, and how many riders you expect.
-&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Native American Scenic Byway Tour</title><link href="https://www.unboundnomad.com/blog/native-american-scenic-byway-tour.html" rel="alternate"></link><published>2024-01-13T20:58:00+00:00</published><updated>2024-01-13T20:58:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2024-01-13:/blog/native-american-scenic-byway-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
+&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Native American Scenic Byway Tour</title><link href="https://unboundnomad.com/blog/native-american-scenic-byway-tour.html" rel="alternate"></link><published>2024-01-13T20:58:00+00:00</published><updated>2024-01-13T20:58:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2024-01-13:/blog/native-american-scenic-byway-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
 &lt;!-- ========================= --&gt;
 
@@ -1855,7 +1855,7 @@ With 20 peaks over 12,000 feet in elevation (including Granite Peak, Montana’s
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/nativeAmerican.jpg"
+  &lt;img src="https://unboundnomad.com/images/nativeAmerican.jpg"
        alt="Native American Scenic Byway Tour Hero"
        style="
          width:100%;
@@ -1922,7 +1922,7 @@ With 20 peaks over 12,000 feet in elevation (including Granite Peak, Montana’s
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/nativeAmerican.jpg"
+  &lt;img src="https://unboundnomad.com/images/nativeAmerican.jpg"
        alt="Native American Scenic Byway Tour Hero"
        style="
          width:100%;
@@ -1979,7 +1979,7 @@ With 20 peaks over 12,000 feet in elevation (including Granite Peak, Montana’s
 &lt;hr&gt;
 &lt;h2&gt;Interested in This Ride?&lt;/h2&gt;
 &lt;p style="margin:1rem 0 1.25rem 0;"&gt;
-  &lt;a href="https://www.unboundnomad.com/pages/booking.html"
+  &lt;a href="https://unboundnomad.com/pages/booking.html"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;"&gt;
@@ -1990,7 +1990,7 @@ With 20 peaks over 12,000 feet in elevation (including Granite Peak, Montana’s
 &lt;p style="font-size:0.95rem; margin-top:0.3rem;"&gt;
   When you reach out, mention &lt;strong&gt;“Native American Scenic Byway Tour”&lt;/strong&gt; and let me know your
   approximate dates, starting point, and how many riders you expect.
-&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Badlands Tour</title><link href="https://www.unboundnomad.com/blog/badlands-tour.html" rel="alternate"></link><published>2024-01-13T20:55:00+00:00</published><updated>2024-01-13T20:55:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2024-01-13:/blog/badlands-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
+&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Badlands Tour</title><link href="https://unboundnomad.com/blog/badlands-tour.html" rel="alternate"></link><published>2024-01-13T20:55:00+00:00</published><updated>2024-01-13T20:55:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2024-01-13:/blog/badlands-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
 &lt;!-- ========================= --&gt;
 
@@ -2004,7 +2004,7 @@ With 20 peaks over 12,000 feet in elevation (including Granite Peak, Montana’s
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/badlands.jpg"
+  &lt;img src="https://unboundnomad.com/images/badlands.jpg"
        alt="Badlands National Park Hero"
        style="
          width:100%;
@@ -2074,7 +2074,7 @@ The Badlands deliver a dramatic mix of &lt;strong&gt;chiseled spires&lt;/strong&
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/badlands.jpg"
+  &lt;img src="https://unboundnomad.com/images/badlands.jpg"
        alt="Badlands National Park Hero"
        style="
          width:100%;
@@ -2145,7 +2145,7 @@ The route winds through &lt;strong&gt;Badlands National Park&lt;/strong&gt;, str
 &lt;hr&gt;
 &lt;h2&gt;Want to Ride the Badlands With Confidence?&lt;/h2&gt;
 &lt;p style="margin:1rem 0 1.25rem 0;"&gt;
-  &lt;a href="https://www.unboundnomad.com/pages/booking.html"
+  &lt;a href="https://unboundnomad.com/pages/booking.html"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;"&gt;
@@ -2157,7 +2157,7 @@ The route winds through &lt;strong&gt;Badlands National Park&lt;/strong&gt;, str
   When you reach out, mention &lt;strong&gt;“Badlands Tour”&lt;/strong&gt; and let me know your
   approximate dates, starting point, and how many riders you expect.  
   I’ll help you build a ride that fits your pace, comfort, and goals.
-&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Natchez Trace Tour</title><link href="https://www.unboundnomad.com/blog/natchez-trace-tour.html" rel="alternate"></link><published>2024-01-13T20:55:00+00:00</published><updated>2024-01-13T20:55:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2024-01-13:/blog/natchez-trace-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
+&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Natchez Trace Tour</title><link href="https://unboundnomad.com/blog/natchez-trace-tour.html" rel="alternate"></link><published>2024-01-13T20:55:00+00:00</published><updated>2024-01-13T20:55:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2024-01-13:/blog/natchez-trace-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
 &lt;!-- ========================= --&gt;
 
@@ -2171,7 +2171,7 @@ The route winds through &lt;strong&gt;Badlands National Park&lt;/strong&gt;, str
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/natchezTrace.jpg"
+  &lt;img src="https://unboundnomad.com/images/natchezTrace.jpg"
        alt="Natchez Trace Tour Hero"
        style="
          width:100%;
@@ -2239,7 +2239,7 @@ The route winds through &lt;strong&gt;Badlands National Park&lt;/strong&gt;, str
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/natchezTrace.jpg"
+  &lt;img src="https://unboundnomad.com/images/natchezTrace.jpg"
        alt="Natchez Trace Tour Hero"
        style="
          width:100%;
@@ -2297,7 +2297,7 @@ The route winds through &lt;strong&gt;Badlands National Park&lt;/strong&gt;, str
 &lt;hr&gt;
 &lt;h2&gt;Interested in This Ride?&lt;/h2&gt;
 &lt;p style="margin:1rem 0 1.25rem 0;"&gt;
-  &lt;a href="https://www.unboundnomad.com/pages/booking.html"
+  &lt;a href="https://unboundnomad.com/pages/booking.html"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;"&gt;
@@ -2308,7 +2308,7 @@ The route winds through &lt;strong&gt;Badlands National Park&lt;/strong&gt;, str
 &lt;p style="font-size:0.95rem; margin-top:0.3rem;"&gt;
   When you reach out, mention &lt;strong&gt;“Natchez Trace Tour”&lt;/strong&gt; and let me know your
   approximate dates, starting point, and how many riders you expect.
-&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Northwest Passage Scenic Byway Tour</title><link href="https://www.unboundnomad.com/blog/northwest-passage-scenic-byway-tour.html" rel="alternate"></link><published>2024-01-13T20:08:00+00:00</published><updated>2024-01-13T20:08:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2024-01-13:/blog/northwest-passage-scenic-byway-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
+&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>Northwest Passage Scenic Byway Tour</title><link href="https://unboundnomad.com/blog/northwest-passage-scenic-byway-tour.html" rel="alternate"></link><published>2024-01-13T20:08:00+00:00</published><updated>2024-01-13T20:08:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2024-01-13:/blog/northwest-passage-scenic-byway-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
 &lt;!-- ========================= --&gt;
 
@@ -2322,7 +2322,7 @@ The route winds through &lt;strong&gt;Badlands National Park&lt;/strong&gt;, str
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/nwPassage.jpg"
+  &lt;img src="https://unboundnomad.com/images/nwPassage.jpg"
        alt="Northwest Passage Scenic Byway Tour Hero"
        style="
          width:100%;
@@ -2389,7 +2389,7 @@ The route winds through &lt;strong&gt;Badlands National Park&lt;/strong&gt;, str
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/nwPassage.jpg"
+  &lt;img src="https://unboundnomad.com/images/nwPassage.jpg"
        alt="Northwest Passage Scenic Byway Tour Hero"
        style="
          width:100%;
@@ -2456,7 +2456,7 @@ Along the Idaho/Montana border is the DeVoto Cedar Grove, where the ashes of con
 &lt;hr&gt;
 &lt;h2&gt;Interested in This Ride?&lt;/h2&gt;
 &lt;p style="margin:1rem 0 1.25rem 0;"&gt;
-  &lt;a href="https://www.unboundnomad.com/pages/booking.html"
+  &lt;a href="https://unboundnomad.com/pages/booking.html"
      style="display:inline-block; background-color:#660099; color:#3DA80A;
             padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
             font-weight:600;"&gt;
@@ -2467,7 +2467,7 @@ Along the Idaho/Montana border is the DeVoto Cedar Grove, where the ashes of con
 &lt;p style="font-size:0.95rem; margin-top:0.3rem;"&gt;
   When you reach out, mention &lt;strong&gt;“Northwest Passage Scenic Byway Tour”&lt;/strong&gt; and let me know your
   approximate dates, starting point, and how many riders you expect.
-&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>San Juan Mountain Skyway Tour</title><link href="https://www.unboundnomad.com/blog/san-juan-mountain-skyway-tour.html" rel="alternate"></link><published>2024-01-13T20:04:00+00:00</published><updated>2024-01-13T20:04:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:www.unboundnomad.com,2024-01-13:/blog/san-juan-mountain-skyway-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
+&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Lifestyle"></category><category term="Adventure"></category><category term="Tours"></category></entry><entry><title>San Juan Mountain Skyway Tour</title><link href="https://unboundnomad.com/blog/san-juan-mountain-skyway-tour.html" rel="alternate"></link><published>2024-01-13T20:04:00+00:00</published><updated>2024-01-13T20:04:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2024-01-13:/blog/san-juan-mountain-skyway-tour.html</id><summary type="html">&lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
 &lt;!-- ========================= --&gt;
 
@@ -2481,7 +2481,7 @@ Along the Idaho/Montana border is the DeVoto Cedar Grove, where the ashes of con
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/SanJuanMountainSkyway.jpg"
+  &lt;img src="https://unboundnomad.com/images/SanJuanMountainSkyway.jpg"
        alt="San Juan Mountain Skyway Tour Hero"
        style="
          width:100%;
@@ -2548,7 +2548,7 @@ Along the Idaho/Montana border is the DeVoto Cedar Grove, where the ashes of con
 "&gt;
 
   &lt;!-- Background Image --&gt;
-  &lt;img src="https://www.unboundnomad.com/images/SanJuanMountainSkyway.jpg"
+  &lt;img src="https://unboundnomad.com/images/SanJuanMountainSkyway.jpg"
        alt="San Juan Mountain Skyway Tour Hero"
        style="
          width:100%;
