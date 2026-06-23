@@ -8,7 +8,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
-SITEURL = "https://www.unboundnomad.com"
+SITEURL = "https://unboundnomad.com"
 RELATIVE_URLS = False
 
 WITH_FUTURE_DATES = False
