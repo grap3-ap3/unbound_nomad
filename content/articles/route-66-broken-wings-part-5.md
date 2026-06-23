@@ -125,7 +125,7 @@ What I couldn't do efficiently from the road was fulfillment. I shipped what I c
 
 I don't lead with the accident. It's not the story.
 
-But it's context. A few years ago I went down. I came back to riding on the other side of it - different in ways I'm still sorting out, more committed in ways I didn't expect. The experience of being a rider who survived something and chose to keep riding changes how you think about the people who didn't get that choice.
+But it's context. Last year, I went down. I came back to riding on the other side of it - different in ways I'm still sorting out, more committed in ways I didn't expect. The experience of being a rider who survived something and chose to keep riding changes how you think about the people who didn't get that choice.
 
 Broken Wings came from that. Not from the crash itself, but from what the crash made me understand about what riding means, what loss means, and what it looks like to carry the memory of someone who loved the road as much as you do.
 
