@@ -1,14 +1,83 @@
 Title: Ohio's Windy 9: A Rider's Guide to Southeast Ohio's Greatest Roads
-Date: 2026-06-23
+Date: 2026-06-24
 Author: The Unbound Nomad
 Category: Rides
 Tags: Motorcycles, Ohio, Windy 9, Route Planning, Adventure, Tours
 Slug: ohios-windy-9-riders-guide
 Status: published
 
+<!-- ========================= -->
+<!--      CINEMATIC HERO       -->
+<!-- ========================= -->
+
+<div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+">
+
+  <!-- Background Image -->
+  <img src="{static}/images/windy9guide/hero.jpg"
+       alt="Ohio's Windy 9 Hero"
+       style="
+         width:100%;
+         height:100%;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+       ">
+
+  <!-- Dark Overlay -->
+  <div style="
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.45);
+    backdrop-filter:blur(1px);
+  "></div>
+
+  <!-- Title Text -->
+  <div style="
+    position:absolute;
+    bottom:40px;
+    left:50%;
+    transform:translateX(-50%);
+    text-align:center;
+    color:white;
+    padding:0 1rem;
+  ">
+    <h1 style="
+      margin:0;
+      font-size:2.75rem;
+      font-weight:700;
+      text-shadow:0 4px 12px rgba(0,0,0,0.6);
+    ">
+      Ohio's Windy 9
+    </h1>
+
+    <p style="
+      margin:0.8rem 0 0 0;
+      font-size:1.15rem;
+      font-weight:400;
+      opacity:0.9;
+      text-shadow:0 3px 8px rgba(0,0,0,0.5);
+    ">
+      Ohio's most unforgettable roads.
+    </p>
+  </div>
+
+</div>
+
 I've been riding for over two decades. I've logged miles across this country on roads that range from forgettable to life-changing. And when people ask me where to ride in Ohio - without hesitation, I point them southeast.
 
 To Athens. To the Appalachian foothills. To Ohio's Windy 9.
+
+![Appalachian foothills parkway]({static}/images/windy9guide/foothillsparkway.JPG)
 
 If you haven't heard of it, the Windy 9 is a network of nine motorcycle routes that all begin and end in Athens, Ohio. Together they cover roughly 830 miles of some of the best riding in the Midwest - river towns, forest canopies, ridge tops, technical twisties, and long peaceful cruising roads that make you forget what day it is.
 
@@ -26,6 +95,8 @@ Most people don't picture Ohio when they think of great motorcycle roads. That's
 The southeastern corner of the state sits in the Appalachian foothills. That means elevation changes, ridge lines, river valleys, and the kind of winding terrain that makes motorcycling feel like it was invented specifically for this landscape. You'll ride through Wayne National Forest, Hocking Hills State Park, and along the banks of two of Ohio's most scenic rivers.
 
 Athens is the perfect base camp. It's a college town with Ohio University at its center, which means good food, plenty of lodging options across every price range, and the kind of energy that makes a town feel alive even on a Sunday night after a long day in the saddle.
+
+![Athens, Ohio]({static}/images/windy9guide/athens.jpg)
 
 ---
 
@@ -89,6 +160,8 @@ The official Windy 9 route runs one-way at 92 miles. Most riders do it as an out
 **Check road conditions before you go.** The Triple Nickel especially can have gravel wash across the surface after heavy rain. The official Windy 9 website (windy9.com) has a road conditions section worth checking before any trip.
 
 **Get the official tank bag maps.** The Athens County Visitors Bureau offers free paper maps and downloadable tank bag PDFs for each route. They're genuinely useful on the road, even if you run a GPS.
+
+![Ohio's Windy 9 Rider's Guide]({static}/images/windy9guide/UnboundNomad_Gumroad_Cover.jpg)
 
 ---
 
