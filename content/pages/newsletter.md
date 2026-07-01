@@ -13,21 +13,7 @@ No spam, no daily noise. Just the good stuff, when there's something worth sendi
 
 Want in when it launches?
 
-<!-- ========================= -->
-<!-- MailerLite embed goes here once the form is created. -->
-<!-- Replace this placeholder with the embed snippet from MailerLite > Forms > Embed. -->
-<div style="
-  border:2px dashed #6b049e;
-  border-radius:6px;
-  padding:1.5rem;
-  margin:1.5rem 0;
-  text-align:center;
-  color:#6b049e;
-">
-  <strong>Email signup form placeholder</strong><br>
-  Drop your MailerLite embed code here once the list is set up.
-</div>
-<!-- ========================= -->
+<div class="ml-embedded" data-form="Mpv8Be"></div>
 
 ---
 
