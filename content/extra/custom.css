@@ -5,7 +5,7 @@
 /* --- Brand palette --- */
 :root {
   --unbound-primary: #6b049e;
-  --unbound-secondary: #03fe02;
+  --unbound-secondary: #809000;
 
   /* Flex accent hooks */
   --accent-color: var(--unbound-primary);
