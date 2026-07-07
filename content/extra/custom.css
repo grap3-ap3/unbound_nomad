@@ -208,3 +208,9 @@ main article img {
 .tag-cloud {
   display: none;
 }
+
+/* Sidebar logo - remove circular crop, let logo display naturally */
+aside div img {
+  border-radius: 0;
+  background: transparent;
+}
