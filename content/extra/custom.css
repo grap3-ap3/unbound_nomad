@@ -209,8 +209,10 @@ main article img {
   display: none;
 }
 
-/* Sidebar logo - remove circular crop, let logo display naturally */
+/* Sidebar logo - zoom to fill circle, hiding white padding in PNG */
 aside div img {
-  border-radius: 0;
-  background: transparent;
+  border-radius: 50%;
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
 }
