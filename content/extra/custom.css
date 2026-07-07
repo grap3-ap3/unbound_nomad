@@ -209,10 +209,3 @@ main article img {
   display: none;
 }
 
-/* Sidebar logo - zoom to fill circle, hiding white padding in PNG */
-aside div img {
-  border-radius: 50%;
-  width: 140px;
-  height: 140px;
-  object-fit: cover;
-}
