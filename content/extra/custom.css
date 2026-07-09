@@ -17,6 +17,18 @@ aside {
   background-color: #1a0028;
 }
 
+/* --- Button color --- */
+.un-btn,
+.un-footer .un-cta {
+  background: #809000;
+}
+.un-btn:hover,
+.un-btn:focus,
+.un-footer .un-cta:hover,
+.un-footer .un-cta:focus {
+  background: #809000;
+}
+
 
 /* --- Global links --- */
 a {

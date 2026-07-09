@@ -12,6 +12,12 @@
   --accent-color-secondary: var(--unbound-secondary);
 }
 
+/* --- Sidebar background --- */
+aside {
+  background-color: #1a0028;
+}
+
+
 /* --- Global links --- */
 a {
   color: var(--accent-color);
@@ -208,3 +214,4 @@ main article img {
 .tag-cloud {
   display: none;
 }
+
