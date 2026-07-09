@@ -4,8 +4,8 @@
 
 /* --- Brand palette --- */
 :root {
-  --unbound-primary: #6b049e;
-  --unbound-secondary: #809000;
+  --unbound-primary: #603090;
+  --unbound-secondary: #90a800;
 
   /* Flex accent hooks */
   --accent-color: var(--unbound-primary);
@@ -20,13 +20,13 @@ aside {
 /* --- Button color --- */
 .un-btn,
 .un-footer .un-cta {
-  background: #809000;
+  background: #4a1878;
 }
 .un-btn:hover,
 .un-btn:focus,
 .un-footer .un-cta:hover,
 .un-footer .un-cta:focus {
-  background: #809000;
+  background: #4a1878;
 }
 
 
