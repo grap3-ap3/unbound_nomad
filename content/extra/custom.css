@@ -54,7 +54,7 @@ p {
 
 .un-btn {
   display: inline-block;
-  background: var(--unbound-primary);     /* purple */
+  background: #4a1878;
   color: var(--unbound-secondary);        /* green text */
   padding: 0.7rem 1.6rem;
   border-radius: 6px;
