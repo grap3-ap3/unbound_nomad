@@ -1,5 +1,5 @@
 Title: Ohio's Windy 9: A Rider's Guide to Southeast Ohio's Greatest Roads
-Date: 2026-06-24
+Date: 2026-07-14 12:00
 Author: The Unbound Nomad
 Category: Rides
 Tags: Motorcycles, Ohio, Windy 9, Route Planning, Adventure, Tours

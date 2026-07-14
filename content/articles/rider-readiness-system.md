@@ -1,5 +1,5 @@
 Title: Rider Readiness System (2026 Touring Edition)
-Date: 2026-01-01 12:00
+Date: 2026-07-18 12:00
 Author: The Unbound Nomad
 Category: Resources
 Tags: Motorcycles, Checklists, Touring, Safety, Packing, Rider Readiness, Digital Product
