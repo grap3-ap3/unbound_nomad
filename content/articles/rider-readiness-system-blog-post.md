@@ -86,7 +86,7 @@ If you want to try the system before you commit, I put together a free version o
 
 It covers the 7 areas that matter most: tires, controls, lights, fluids, drive system, chassis, and a final walkaround. Print it, save it to your phone, or just run through it until it's muscle memory.
 
-**[Download the free Pre-Ride Safety Checklist here]({filename}/pages/rider-readiness.html)**
+**[Download the free Pre-Ride Safety Checklist here](/pages/resources.html)**
 
 ---
 
@@ -96,7 +96,7 @@ The Rider Readiness System - 2026 Touring Edition - is available now on Gumroad.
 
 15 checklists and guides. Print or digital. Free updates for life.
 
-**[Get the Rider Readiness System at unboundnomad.com]({filename}/pages/resources.html#resources)**
+**[Get the Rider Readiness System at unboundnomad.com](/pages/resources.html)**
 
 ---
 
@@ -106,7 +106,7 @@ If you want someone who's already done the preparation work to build a custom pl
 
 I'll take your goals, your timeline, your skill level, and your riding style and build you a complete itinerary - routes, stops, lodging guidance, GPX files, and everything in between. You show up. I handle the rest.
 
-**[Learn more about Concierge Trip Planning at unboundnomad.com]({filename}/pages/concierge-trip-planning.html)**
+**[Learn more about Concierge Trip Planning at unboundnomad.com](/pages/concierge-trip-planning.html)**
 
 ---
 
