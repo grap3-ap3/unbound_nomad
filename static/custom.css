@@ -4,13 +4,31 @@
 
 /* --- Brand palette --- */
 :root {
-  --unbound-primary: #6b049e;
-  --unbound-secondary: #809000;
+  --unbound-primary: #603090;
+  --unbound-secondary: #90a800;
 
   /* Flex accent hooks */
   --accent-color: var(--unbound-primary);
   --accent-color-secondary: var(--unbound-secondary);
 }
+
+/* --- Sidebar background --- */
+aside {
+  background-color: #1a0028;
+}
+
+/* --- Button color --- */
+.un-btn,
+.un-footer .un-cta {
+  background: #4a1878;
+}
+.un-btn:hover,
+.un-btn:focus,
+.un-footer .un-cta:hover,
+.un-footer .un-cta:focus {
+  background: #4a1878;
+}
+
 
 /* --- Global links --- */
 a {
@@ -36,7 +54,7 @@ p {
 
 .un-btn {
   display: inline-block;
-  background: var(--unbound-primary);     /* purple */
+  background: #4a1878;
   color: var(--unbound-secondary);        /* green text */
   padding: 0.7rem 1.6rem;
   border-radius: 6px;
@@ -208,3 +226,4 @@ main article img {
 .tag-cloud {
   display: none;
 }
+
