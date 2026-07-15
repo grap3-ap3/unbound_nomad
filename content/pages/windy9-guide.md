@@ -3,9 +3,8 @@ Slug: windy9-guide
 Status: published
 Summary: A free rider's guide to all nine of Ohio's Windy 9 motorcycle routes â€” written by Phil, The Unbound Nomad, from personal saddle time on every mile.
 
-<!-- Hero Block -->
-<div style="text-align:center;padding:3rem 1rem 2rem;background:linear-gradient(135deg,#1a0028 0%,#2d0050 100%);margin:-1rem -1rem 2.5rem;border-radius:6px;">
-  <p style="color:#ffffff;font-size:2.4rem;font-weight:700;margin:0 0 0.75rem;text-shadow:0 3px 10px rgba(0,0,0,0.5);line-height:1.2;">Ohio's Windy 9: Your Free Rider's Guide</p>
+<!-- Hero CTA Band -->
+<div style="text-align:center;padding:2rem 1rem;background:linear-gradient(135deg,#1a0028 0%,#2d0050 100%);margin:0 -1rem 2.5rem;border-radius:6px;">
   <p style="color:rgba(255,255,255,0.88);font-size:1.1rem;max-width:640px;margin:0 auto 1.75rem;line-height:1.6;">Nine routes. 830+ miles. Southeast Ohio's finest roads - profiled by a rider who's logged every mile of them.</p>
   <a href="https://unboundnomad.gumroad.com/l/qbooxq"
      class="un-btn"
@@ -71,7 +70,7 @@ Summary: A free rider's guide to all nine of Ohio's Windy 9 motorcycle routes â€
 <section style="max-width:700px;margin:0 auto 2rem;text-align:center;">
   <p style="color:#666;">Want someone to handle the planning for you?</p>
   <p>
-    <a href="/pages/micro-adventures.html">Micro-Adventures</a> &nbsp;|&nbsp;
+    <a href="/pages/guided-rides.html">Guided Rides</a> &nbsp;|&nbsp;
     <a href="/pages/concierge-trip-planning.html">Concierge Trip Planning</a>
   </p>
 </section>

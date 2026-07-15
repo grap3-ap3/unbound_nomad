@@ -1,7 +1,7 @@
 Title: The Unbound Nomad
 Date: 2025-12-07
 Slug: index
-Status: published
+Status: hidden
 
 <p style="text-align:center; margin-bottom:1.5rem;">
   <img src="{static}/images/heroImage_trimmed.jpg"

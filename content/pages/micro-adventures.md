@@ -4,7 +4,7 @@ Author: The Unbound Nomad
 Category: Page
 Tags: Motorcycle rides, Guided rides, Micro-adventures
 Slug: micro-adventures
-Status: published
+Status: hidden
 
 
 *Ride. Reset. Return different.*

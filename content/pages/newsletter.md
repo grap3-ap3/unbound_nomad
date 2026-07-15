@@ -3,7 +3,7 @@ Date: 2026-07-07
 Author: The Unbound Nomad
 Category: Page
 Slug: newsletter
-Status: published
+Status: hidden
 
 # Something's Coming
 

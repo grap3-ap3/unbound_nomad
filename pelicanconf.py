@@ -74,12 +74,15 @@ DEFAULT_PAGINATION = 5
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-#DISPLAY_CATEGORIES_ON_MENU = False
-#DISPLAY_PAGES_ON_MENU = False
-#MENUITEMS = (
-#    ('Home', '/'),
-#    ('Blog', '/blog/index.html'),
-#)
+DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = False
+MENUITEMS = (
+    ('About The Unbound Nomad', '/pages/about.html'),
+    ('Guided Rides', '/pages/guided-rides.html'),
+    ('Concierge Trip Planning', '/pages/concierge-trip-planning.html'),
+    ('Book a Ride', '/pages/booking.html'),
+    ('Rider Resources & Digital Tools', '/pages/resources.html'),
+)
 
 from datetime import date
 CURRENT_YEAR = str(date.today().year)

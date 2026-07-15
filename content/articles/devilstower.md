@@ -1,7 +1,7 @@
 Title: Devil's Tower Tour
 Date: 2024-01-13 20:55
 Author: The Unbound Nomad
-Category: Blog
+Category: Rides
 Tags: Motorcycles, Lifestyle, Adventure, Tours
 Slug: devils-tower-tour
 Status: published
@@ -82,11 +82,8 @@ Traveling from Sturgis to Devils Tower and back, this route takes you from a gre
 ## Interested in This Ride?
 
 <p style="margin:1rem 0 1.25rem 0;">
-  <a href="{filename}/pages/booking.md"
-     style="display:inline-block; background-color:#660099; color:#3DA80A;
-            padding:0.7rem 1.6rem; border-radius:6px; text-decoration:none;
-            font-weight:600;">
-    🏍️ Plan This Ride
+  <a href="/pages/booking.html" class="un-btn">
+    Plan This Ride
   </a>
 </p>
 
