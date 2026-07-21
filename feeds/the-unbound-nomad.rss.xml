@@ -1,5 +1,182 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>The Unbound Nomad - The Unbound Nomad</title><link>https://unboundnomad.com/</link><description></description><lastBuildDate>Tue, 14 Jul 2026 12:00:00 +0000</lastBuildDate><item><title>Ohio's Windy 9: A Rider's Guide to Southeast Ohio's Greatest Roads</title><link>https://unboundnomad.com/blog/ohios-windy-9-riders-guide.html</link><description>&lt;!-- ========================= --&gt;
+<rss version="2.0"><channel><title>The Unbound Nomad - The Unbound Nomad</title><link>https://unboundnomad.com/</link><description></description><lastBuildDate>Tue, 21 Jul 2026 06:00:00 +0000</lastBuildDate><item><title>Are You Actually Ready to Ride? What Prepared Riders Do That Most Don't</title><link>https://unboundnomad.com/blog/are-you-ready-to-ride-rider-readiness-system.html</link><description>&lt;p&gt;I've watched riders show up to a long-distance trip missing basic gear, running questionable tire pressure, and with no idea what they'd do if something went wrong 200 miles from the nearest dealership.&lt;/p&gt;
+&lt;p&gt;I used to be one of them.&lt;/p&gt;
+&lt;p&gt;Two decades of riding teaches you things that no safety …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Unbound Nomad</dc:creator><pubDate>Tue, 21 Jul 2026 06:00:00 +0000</pubDate><guid isPermaLink="false">tag:unboundnomad.com,2026-07-21:/blog/are-you-ready-to-ride-rider-readiness-system.html</guid><category>Resources</category><category>Motorcycle Safety</category><category>Touring</category><category>Preparation</category><category>Checklists</category><category>Rider Readiness</category></item><item><title>The Broken Wings Project: Building a Business from the Saddle</title><link>https://unboundnomad.com/blog/route-66-broken-wings-part-5.html</link><description>&lt;!-- ========================= --&gt;
+&lt;!--      CINEMATIC HERO       --&gt;
+&lt;!-- ========================= --&gt;
+
+&lt;div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+"&gt;
+
+  &lt;!-- Background Image --&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p5/hero.jpg"
+       alt="Broken Wings Project Hero"
+       style="
+         width:100%;
+         height:100%;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+       "&gt;
+
+  &lt;!-- Dark Overlay --&gt;
+  &lt;div style="
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.45);
+    backdrop-filter:blur(1px);
+  "&gt;&lt;/div&gt;
+
+  &lt;!-- Title Text --&gt;
+  &lt;div style="
+    position:absolute;
+    bottom:40px;
+    left:50%;
+    transform:translateX(-50%);
+    text-align:center;
+    color:white;
+    padding:0 1rem;
+  "&gt;
+    &lt;h1 style="
+      margin:0;
+      font-size:2.75rem;
+      font-weight:700;
+      text-shadow:0 4px 12px rgba(0,0,0,0.6);
+    "&gt;
+      The Broken Wings Project
+    &lt;/h1&gt;
+
+    &lt;p style="
+      margin:0.8rem 0 0 0;
+      font-size:1.15rem;
+      font-weight:400;
+      opacity:0.9;
+      text-shadow:0 3px 8px rgba(0,0,0,0.5);
+    "&gt;
+      Building a Business from the Saddle
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;I was sitting in a casino parking lot in southern Colorado when I launched it.&lt;/p&gt;
+&lt;p&gt;Not the most glamorous origin story. But that's how it happened - laptop open, bike parked a few feet away, the lights of the Sky Ute …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Unbound Nomad</dc:creator><pubDate>Tue, 21 Jul 2026 06:00:00 +0000</pubDate><guid isPermaLink="false">tag:unboundnomad.com,2026-07-21:/blog/route-66-broken-wings-part-5.html</guid><category>Rides</category><category>Motorcycles</category><category>Adventure</category><category>Road Trip</category><category>Business</category><category>Broken Wings</category><category>Entrepreneurship</category></item><item><title>Rider Readiness System (2026 Touring Edition)</title><link>https://unboundnomad.com/blog/rider-readiness-system.html</link><description>&lt;!-- Summary: A premium touring checklist system built to help riders pack smarter, ride safer, and roll out with confidence. --&gt;
+
+&lt;!-- ========================= --&gt;
+&lt;!--      CINEMATIC HERO       --&gt;
+&lt;!-- ========================= --&gt;
+
+&lt;div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+"&gt;
+
+  &lt;!-- Background Image --&gt;
+  &lt;img src="https://unboundnomad.com/images/rider-readiness/hero.png"
+       alt="Rider Readiness System Hero"
+       style="
+         width:100%;
+         height:100%;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+       "&gt;
+
+  &lt;!-- Dark Overlay --&gt;
+  &lt;div style="
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.45);
+    backdrop-filter:blur(1px);
+  "&gt;&lt;/div&gt;
+
+  &lt;!-- Title Text --&gt;
+  &lt;div style="
+    position:absolute;
+    bottom:40px;
+    left:50%;
+    transform:translateX(-50%);
+    text-align:center;
+    color:white;
+    padding:0 1rem;
+  "&gt;
+    &lt;h1 style="
+      margin:0;
+      font-size:2.75rem;
+      font-weight:700;
+      text-shadow:0 4px 12px rgba(0,0,0,0.6);
+    "&gt;
+      Rider Readiness System™
+    &lt;/h1&gt;
+
+    &lt;p style="
+      margin:0.8rem 0 0 0;
+      font-size:1.15rem;
+      font-weight:400;
+      opacity:0.9;
+      text-shadow:0 3px 8px rgba(0,0,0,0.5);
+    "&gt;
+      2026 Touring Edition: Pack smarter. Ride safer. Ride unbound.
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Some rides are simple.&lt;br&gt;
+Some rides are serious.&lt;/p&gt;
+&lt;p&gt;But every ride gets better when you roll out prepared.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;Rider Readiness System™ (2026 Touring Edition)&lt;/strong&gt; is the digital toolkit I built after years of real miles, real lessons …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Unbound Nomad</dc:creator><pubDate>Sat, 18 Jul 2026 12:00:00 +0000</pubDate><guid isPermaLink="false">tag:unboundnomad.com,2026-07-18:/blog/rider-readiness-system.html</guid><category>Resources</category><category>Motorcycles</category><category>Checklists</category><category>Touring</category><category>Safety</category><category>Packing</category><category>Rider Readiness</category><category>Digital Product</category></item><item><title>Group Riding Done Right: How to Ride with Others Without Making It Miserable</title><link>https://unboundnomad.com/blog/group-riding-guide.html</link><description>&lt;!-- ========================= --&gt;
+&lt;!--      CINEMATIC HERO       --&gt;
+&lt;!-- ========================= --&gt;
+
+&lt;div style="
+  position:relative;
+  width:100%;
+  height:340px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+  background:linear-gradient(135deg,#1a0028 0%,#2d0050 60%,#1a0028 100%);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+"&gt;
+  &lt;div style="padding:0 2rem;"&gt;
+    &lt;h1 style="
+      margin:0 0 0.75rem;
+      font-size:2.6rem;
+      font-weight:700;
+      color:#ffffff;
+      text-shadow:0 4px 12px rgba(0,0,0,0.5);
+      line-height:1.2;
+    "&gt;Group Riding Done Right&lt;/h1&gt;
+    &lt;p style="
+      margin:0;
+      font-size:1.15rem;
+      color:rgba(255,255,255,0.85);
+      text-shadow:0 3px 8px rgba(0,0,0,0.4);
+    "&gt;How to ride with others without making it miserable&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Group riding gets oversold as an automatically better experience than solo riding. It isn't - not without some thought going into it. A well-run group ride is genuinely great. A poorly-run one is stressful, dangerous, and the fastest …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Unbound Nomad</dc:creator><pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate><guid isPermaLink="false">tag:unboundnomad.com,2026-07-17:/blog/group-riding-guide.html</guid><category>Blog</category><category>Motorcycles</category><category>Group Riding</category><category>Safety</category><category>Tips</category><category>Technique</category></item><item><title>Ohio's Windy 9: A Rider's Guide to Southeast Ohio's Greatest Roads</title><link>https://unboundnomad.com/blog/ohios-windy-9-riders-guide.html</link><description>&lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
 &lt;!-- ========================= --&gt;
 
@@ -1294,7 +1471,7 @@ The Badlands deliver a dramatic mix of &lt;strong&gt;chiseled spires&lt;/strong&
 
 &lt;/div&gt;
 
-&lt;p height="531" style="display: block; margin: 0 auto" width="500"&gt;Traveling from Sturgis to Devils Tower and back, this route takes you from a great area in South Dakota to a great area in Wyoming. The route is full of long sweeping curves that take you through diverse scenery including mountains, meadows and …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Unbound Nomad</dc:creator><pubDate>Sat, 13 Jan 2024 20:55:00 +0000</pubDate><guid isPermaLink="false">tag:unboundnomad.com,2024-01-13:/blog/devils-tower-tour.html</guid><category>Blog</category><category>Motorcycles</category><category>Lifestyle</category><category>Adventure</category><category>Tours</category></item><item><title>Natchez Trace Tour</title><link>https://unboundnomad.com/blog/natchez-trace-tour.html</link><description>&lt;!-- ========================= --&gt;
+&lt;p height="531" style="display: block; margin: 0 auto" width="500"&gt;Traveling from Sturgis to Devils Tower and back, this route takes you from a great area in South Dakota to a great area in Wyoming. The route is full of long sweeping curves that take you through diverse scenery including mountains, meadows and …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Unbound Nomad</dc:creator><pubDate>Sat, 13 Jan 2024 20:55:00 +0000</pubDate><guid isPermaLink="false">tag:unboundnomad.com,2024-01-13:/blog/devils-tower-tour.html</guid><category>Rides</category><category>Motorcycles</category><category>Lifestyle</category><category>Adventure</category><category>Tours</category></item><item><title>Natchez Trace Tour</title><link>https://unboundnomad.com/blog/natchez-trace-tour.html</link><description>&lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
 &lt;!-- ========================= --&gt;
 
