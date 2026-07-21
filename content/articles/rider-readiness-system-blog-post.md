@@ -1,7 +1,7 @@
 Title: Are You Actually Ready to Ride? What Prepared Riders Do That Most Don't
 Date: 2026-07-21 12:00
 Author: The Unbound Nomad
-Category: Gear & Preparation
+Category: Resources
 Tags: Motorcycle Safety, Touring, Preparation, Checklists, Rider Readiness
 Slug: are-you-ready-to-ride-rider-readiness-system
 Status: published
