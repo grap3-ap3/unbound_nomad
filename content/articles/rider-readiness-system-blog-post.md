@@ -6,6 +6,44 @@ Tags: Motorcycle Safety, Touring, Preparation, Checklists, Rider Readiness
 Slug: are-you-ready-to-ride-rider-readiness-system
 Status: published
 
+<!-- ========================= -->
+<!--      CINEMATIC HERO       -->
+<!-- PLACEHOLDER: Replace background gradient with a real photo.         -->
+<!-- Ideal shot: rider gearing up, pre-ride inspection, or packed bike.  -->
+<!-- See image suggestions below in article comments.                    -->
+<!-- ========================= -->
+
+<div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+  background:linear-gradient(135deg,#1a0028 0%,#2d0050 60%,#1a0028 100%);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+">
+  <div style="padding:0 2rem;">
+    <h1 style="
+      margin:0 0 0.75rem;
+      font-size:2.6rem;
+      font-weight:700;
+      color:#ffffff;
+      text-shadow:0 4px 12px rgba(0,0,0,0.5);
+      line-height:1.2;
+    ">Are You Actually Ready to Ride?</h1>
+    <p style="
+      margin:0;
+      font-size:1.15rem;
+      color:rgba(255,255,255,0.85);
+      text-shadow:0 3px 8px rgba(0,0,0,0.4);
+    ">What prepared riders do that most don't</p>
+  </div>
+</div>
+
 I've watched riders show up to a long-distance trip missing basic gear, running questionable tire pressure, and with no idea what they'd do if something went wrong 200 miles from the nearest dealership.
 
 I used to be one of them.
@@ -39,6 +77,8 @@ Here's what tends to get overlooked even by experienced riders:
 ---
 
 ## The Rider Readiness System
+
+![Rider Readiness System - 2026 Touring Edition]({static}/images/rider-readiness/cover.png)
 
 I built the Rider Readiness System to solve all of this in one place.
 
