@@ -1,5 +1,5 @@
 Title: 26 Days, 6,000 Miles: What the Road Taught Me
-Date: 2026-07-28 12:00
+Date: 2026-07-28 08:00
 Author: The Unbound Nomad
 Category: Rides
 Tags: Motorcycles, Adventure, Road Trip, Route 66, Reflection
