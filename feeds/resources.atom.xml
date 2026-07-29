@@ -1,7 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>The Unbound Nomad - Resources</title><link href="https://unboundnomad.com/" rel="alternate"></link><link href="https://unboundnomad.com/feeds/resources.atom.xml" rel="self"></link><id>https://unboundnomad.com/</id><updated>2026-07-21T06:00:00+00:00</updated><entry><title>Are You Actually Ready to Ride? What Prepared Riders Do That Most Don't</title><link href="https://unboundnomad.com/blog/are-you-ready-to-ride-rider-readiness-system.html" rel="alternate"></link><published>2026-07-21T06:00:00+00:00</published><updated>2026-07-21T06:00:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2026-07-21:/blog/are-you-ready-to-ride-rider-readiness-system.html</id><summary type="html">&lt;p&gt;I've watched riders show up to a long-distance trip missing basic gear, running questionable tire pressure, and with no idea what they'd do if something went wrong 200 miles from the nearest dealership.&lt;/p&gt;
-&lt;p&gt;I used to be one of them.&lt;/p&gt;
-&lt;p&gt;Two decades of riding teaches you things that no safety …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I've watched riders show up to a long-distance trip missing basic gear, running questionable tire pressure, and with no idea what they'd do if something went wrong 200 miles from the nearest dealership.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Unbound Nomad - Resources</title><link href="https://unboundnomad.com/" rel="alternate"></link><link href="https://unboundnomad.com/feeds/resources.atom.xml" rel="self"></link><id>https://unboundnomad.com/</id><updated>2026-07-21T06:00:00+00:00</updated><entry><title>Are You Actually Ready to Ride? What Prepared Riders Do That Most Don't</title><link href="https://unboundnomad.com/blog/are-you-ready-to-ride-rider-readiness-system.html" rel="alternate"></link><published>2026-07-21T06:00:00+00:00</published><updated>2026-07-21T06:00:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2026-07-21:/blog/are-you-ready-to-ride-rider-readiness-system.html</id><summary type="html">&lt;!-- ========================= --&gt;
+&lt;!--      CINEMATIC HERO       --&gt;
+&lt;!-- PLACEHOLDER: Replace background gradient with a real photo.         --&gt;
+&lt;!-- Ideal shot: rider gearing up, pre-ride inspection, or packed bike.  --&gt;
+&lt;!-- See image suggestions below in article comments.                    --&gt;
+&lt;!-- ========================= --&gt;
+
+&lt;div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+  background:linear-gradient(135deg,#1a0028 0%,#2d0050 60%,#1a0028 100%);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+"&gt;
+  &lt;div style="padding:0 2rem;"&gt;
+    &lt;h1 style="
+      margin:0 0 0.75rem;
+      font-size:2.6rem;
+      font-weight:700;
+      color:#ffffff;
+      text-shadow:0 4px 12px rgba(0,0,0,0.5);
+      line-height:1.2;
+    "&gt;Are You Actually Ready to Ride?&lt;/h1&gt;
+    &lt;p style="
+      margin:0;
+      font-size:1.15rem;
+      color:rgba(255,255,255,0.85);
+      text-shadow:0 3px 8px rgba(0,0,0,0.4);
+    "&gt;What prepared riders do that most don't&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I've watched riders show up to a long-distance trip missing basic gear, running questionable tire pressure, and with no idea what they'd do if something went wrong 200 miles from the nearest dealership.&lt;/p&gt;
+&lt;p&gt;I used to be …&lt;/p&gt;</summary><content type="html">&lt;!-- ========================= --&gt;
+&lt;!--      CINEMATIC HERO       --&gt;
+&lt;!-- PLACEHOLDER: Replace background gradient with a real photo.         --&gt;
+&lt;!-- Ideal shot: rider gearing up, pre-ride inspection, or packed bike.  --&gt;
+&lt;!-- See image suggestions below in article comments.                    --&gt;
+&lt;!-- ========================= --&gt;
+
+&lt;div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+  background:linear-gradient(135deg,#1a0028 0%,#2d0050 60%,#1a0028 100%);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+"&gt;
+  &lt;div style="padding:0 2rem;"&gt;
+    &lt;h1 style="
+      margin:0 0 0.75rem;
+      font-size:2.6rem;
+      font-weight:700;
+      color:#ffffff;
+      text-shadow:0 4px 12px rgba(0,0,0,0.5);
+      line-height:1.2;
+    "&gt;Are You Actually Ready to Ride?&lt;/h1&gt;
+    &lt;p style="
+      margin:0;
+      font-size:1.15rem;
+      color:rgba(255,255,255,0.85);
+      text-shadow:0 3px 8px rgba(0,0,0,0.4);
+    "&gt;What prepared riders do that most don't&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I've watched riders show up to a long-distance trip missing basic gear, running questionable tire pressure, and with no idea what they'd do if something went wrong 200 miles from the nearest dealership.&lt;/p&gt;
 &lt;p&gt;I used to be one of them.&lt;/p&gt;
 &lt;p&gt;Two decades of riding teaches you things that no safety course covers. One of the biggest lessons is this: &lt;strong&gt;the riders who have the best experiences aren't necessarily the most skilled - they're the most prepared.&lt;/strong&gt; They show up knowing exactly what they have, where it is, and what to do when things go sideways.&lt;/p&gt;
 &lt;p&gt;Preparation isn't anxiety. It's freedom. When you know your bike is dialed in, your kit is complete, and you have a plan for emergencies, you stop worrying and start riding. Unbound.&lt;/p&gt;
@@ -18,6 +93,7 @@
 &lt;p&gt;&lt;strong&gt;Documentation.&lt;/strong&gt; Registration, insurance, emergency contacts, medical info - all of it organized and reachable fast. Especially critical when crossing state lines or dealing with a roadside emergency where seconds matter.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;The Rider Readiness System&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="Rider Readiness System - 2026 Touring Edition" src="https://unboundnomad.com/images/rider-readiness/cover.png"&gt;&lt;/p&gt;
 &lt;p&gt;I built the Rider Readiness System to solve all of this in one place.&lt;/p&gt;
 &lt;p&gt;It's not a packing list. It's a complete touring preparation toolkit - 15 checklists and guides that cover every type of ride from a 2-hour day trip to a month-long cross-country tour.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Section 1 - Core Checklists&lt;/strong&gt; covers everything you need before and during any ride:&lt;/p&gt;
