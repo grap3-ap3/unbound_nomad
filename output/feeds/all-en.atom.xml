@@ -1,7 +1,267 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>The Unbound Nomad</title><link href="https://unboundnomad.com/" rel="alternate"></link><link href="https://unboundnomad.com/feeds/all-en.atom.xml" rel="self"></link><id>https://unboundnomad.com/</id><updated>2026-07-21T06:00:00+00:00</updated><entry><title>Are You Actually Ready to Ride? What Prepared Riders Do That Most Don't</title><link href="https://unboundnomad.com/blog/are-you-ready-to-ride-rider-readiness-system.html" rel="alternate"></link><published>2026-07-21T06:00:00+00:00</published><updated>2026-07-21T06:00:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2026-07-21:/blog/are-you-ready-to-ride-rider-readiness-system.html</id><summary type="html">&lt;p&gt;I've watched riders show up to a long-distance trip missing basic gear, running questionable tire pressure, and with no idea what they'd do if something went wrong 200 miles from the nearest dealership.&lt;/p&gt;
-&lt;p&gt;I used to be one of them.&lt;/p&gt;
-&lt;p&gt;Two decades of riding teaches you things that no safety …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I've watched riders show up to a long-distance trip missing basic gear, running questionable tire pressure, and with no idea what they'd do if something went wrong 200 miles from the nearest dealership.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Unbound Nomad</title><link href="https://unboundnomad.com/" rel="alternate"></link><link href="https://unboundnomad.com/feeds/all-en.atom.xml" rel="self"></link><id>https://unboundnomad.com/</id><updated>2026-07-28T08:00:00+00:00</updated><entry><title>26 Days, 6,000 Miles: What the Road Taught Me</title><link href="https://unboundnomad.com/blog/route-66-what-the-road-taught-me-part-6.html" rel="alternate"></link><published>2026-07-28T08:00:00+00:00</published><updated>2026-07-28T08:00:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2026-07-28:/blog/route-66-what-the-road-taught-me-part-6.html</id><summary type="html">&lt;!-- ========================= --&gt;
+&lt;!--      CINEMATIC HERO       --&gt;
+&lt;!-- ========================= --&gt;
+
+&lt;div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+"&gt;
+
+  &lt;!-- Background Image --&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p6/hero.jpg"
+       alt="What the Road Taught Me Hero"
+       style="
+         width:100%;
+         height:100%;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+       "&gt;
+
+  &lt;!-- Dark Overlay --&gt;
+  &lt;div style="
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.45);
+    backdrop-filter:blur(1px);
+  "&gt;&lt;/div&gt;
+
+  &lt;!-- Title Text --&gt;
+  &lt;div style="
+    position:absolute;
+    bottom:40px;
+    left:50%;
+    transform:translateX(-50%);
+    text-align:center;
+    color:white;
+    padding:0 1rem;
+  "&gt;
+    &lt;h1 style="
+      margin:0;
+      font-size:2.75rem;
+      font-weight:700;
+      text-shadow:0 4px 12px rgba(0,0,0,0.6);
+    "&gt;
+      26 Days, 6,000 Miles
+    &lt;/h1&gt;
+
+    &lt;p style="
+      margin:0.8rem 0 0 0;
+      font-size:1.15rem;
+      font-weight:400;
+      opacity:0.9;
+      text-shadow:0 3px 8px rgba(0,0,0,0.5);
+    "&gt;
+      What the Road Taught Me
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;I pulled into home around 5 in the afternoon on June 19th.&lt;/p&gt;
+&lt;p&gt;Twenty-six days. 6,175 miles on the odometer. Delaware, Ohio to Huntington Beach, California and back, with a week in southern Colorado and two days in Dodge City …&lt;/p&gt;</summary><content type="html">&lt;!-- ========================= --&gt;
+&lt;!--      CINEMATIC HERO       --&gt;
+&lt;!-- ========================= --&gt;
+
+&lt;div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+"&gt;
+
+  &lt;!-- Background Image --&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p6/hero.jpg"
+       alt="What the Road Taught Me Hero"
+       style="
+         width:100%;
+         height:100%;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+       "&gt;
+
+  &lt;!-- Dark Overlay --&gt;
+  &lt;div style="
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.45);
+    backdrop-filter:blur(1px);
+  "&gt;&lt;/div&gt;
+
+  &lt;!-- Title Text --&gt;
+  &lt;div style="
+    position:absolute;
+    bottom:40px;
+    left:50%;
+    transform:translateX(-50%);
+    text-align:center;
+    color:white;
+    padding:0 1rem;
+  "&gt;
+    &lt;h1 style="
+      margin:0;
+      font-size:2.75rem;
+      font-weight:700;
+      text-shadow:0 4px 12px rgba(0,0,0,0.6);
+    "&gt;
+      26 Days, 6,000 Miles
+    &lt;/h1&gt;
+
+    &lt;p style="
+      margin:0.8rem 0 0 0;
+      font-size:1.15rem;
+      font-weight:400;
+      opacity:0.9;
+      text-shadow:0 3px 8px rgba(0,0,0,0.5);
+    "&gt;
+      What the Road Taught Me
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;I pulled into home around 5 in the afternoon on June 19th.&lt;/p&gt;
+&lt;p&gt;Twenty-six days. 6,175 miles on the odometer. Delaware, Ohio to Huntington Beach, California and back, with a week in southern Colorado and two days in Dodge City and the better part of a continent in between. I cut the engine and sat on the bike for a minute before getting off. Not for any particular reason. It just seemed like the right thing to do.&lt;/p&gt;
+&lt;p&gt;The trip was over. Everything I'd learned from it was just starting.&lt;/p&gt;
+&lt;h2&gt;The Numbers&lt;/h2&gt;
+&lt;p&gt;There's a version of this post that's just the numbers, and they're worth saying once.&lt;/p&gt;
+&lt;p&gt;26 days on the road. 6,175 miles. Roughly 237 miles per riding day. Eight states. One ocean. Two mountain passes. A national historic site, a week-long motorcycle rally, a rider development course, a product launch, countless fuel stops and hotel rooms and long stretches of nothing but pavement and sky.&lt;/p&gt;
+&lt;p&gt;The Legends Never Die Tour - the Route 66 westbound leg from Chicago to Santa Monica - was 2,400 miles of the most historically significant road in America. The return route through the Southwest added Monument Valley, Dodge City, the high desert of Arizona and Colorado, and roads I hadn't planned on and won't forget.&lt;/p&gt;
+&lt;p&gt;The numbers are real. But they're not the point.&lt;/p&gt;
+&lt;h2&gt;What I Went Looking For&lt;/h2&gt;
+&lt;p&gt;I didn't have a single clean reason for doing this trip.&lt;/p&gt;
+&lt;p&gt;Some of it was the road itself - Route 66 had been on the list for years, and the opportunity was there, and some things you stop waiting for and just do. Some of it was the business - Broken Wings needed to be launched somewhere meaningful, and a motorcycle rally in Colorado felt right. Some of it was something harder to name. A need to cover ground. To find out what I was capable of when the only obligation was to keep moving.&lt;/p&gt;
+&lt;p&gt;Some of it was the accident.&lt;/p&gt;
+&lt;p&gt;I went down a year ago. I came back to riding on the other side of it changed in ways I'm still working out - more deliberate, more aware, more committed to this life in a way I can't fully explain to someone who hasn't had a version of that experience. The trip wasn't about the accident. But it was shaped by what the accident made me understand about why the road matters to me and what I'd lose if I stopped riding it.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="On the road" src="https://unboundnomad.com/images/rt66/p6/ontheroad.jpg"&gt;&lt;/p&gt;
+&lt;h2&gt;What I Found&lt;/h2&gt;
+&lt;p&gt;I found that I'm more capable on a motorcycle than I knew before I started.&lt;/p&gt;
+&lt;p&gt;Paul Carroll's rider development course in Durango was confirmation. Not of perfection - I have real work to do, and the course showed me exactly where. But confirmation that the baseline is solid, that the skills are there, that I can cover serious distance in serious conditions and arrive on the other side with the bike and myself intact. That matters.&lt;/p&gt;
+&lt;p&gt;I found that long solo travel is a specific kind of solitude that's different from being alone at home. You're alone but constantly moving through the world. Every stop is a potential conversation. Every mile is a choice you're making with your body and your machine. The isolation isn't passive. It's active. You have to choose to be present to it or you miss everything.&lt;/p&gt;
+&lt;p&gt;I found that the people who make the road worth remembering are rarely the ones you'd expect. Not the famous stops or the landmark attractions - though some of those were genuinely extraordinary. The people. Olivia, who rode along with me and forged one of the most memorable days of the trip. Doug in the casino parking lot who pulled up on his bike and talked for a few minutes like we'd known each other for years. Cupcake, who organizes Run for the Wall and guides tours and has more road behind her than most people will ever put down. Paul Carroll, who spent a day making eight riders better at something that might save their lives. &lt;/p&gt;
+&lt;p&gt;I found that Route 66 is real. Not just as a road but as an idea - the version of America that chose motion, that believed the next horizon was worth chasing, that built a culture around the act of going. Riding it end to end doesn't just cover distance. It covers something deeper.&lt;/p&gt;
+&lt;div style="display:flex;gap:0.5rem;margin:1rem 0;"&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p6/reflection1.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Trip reflection"&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p6/reflection2.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Trip reflection"&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;What Came Home With Me&lt;/h2&gt;
+&lt;p&gt;The trip ended when I turned the bike off at home. What it produced didn't.&lt;/p&gt;
+&lt;p&gt;Broken Wings has its first customer, its first sale, and a launch story that happened in a casino parking lot in the dark. The infrastructure is being built now - proper shipping, stronger distribution, a campaign that does justice to what the patch represents. The road gave me the story. The work now is building the reach to tell it to the people it's for.&lt;/p&gt;
+&lt;p&gt;The Unbound Nomad is clearer to me now than it was before I left. Twenty-six days of running a business from out of a tour pack teaches you what the business actually is. What it's not is the unfocused version of itself that exists when you have unlimited time and no urgency. What it is - guided adventure, rider development, products that mean something to people who ride - those things got sharper out there.&lt;/p&gt;
+&lt;p&gt;I came home with six thousand miles of content, a head full of conversations, a list of things that need to be built, and a certainty about this life that I didn't have in quite the same way before I left.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Coming home" src="https://unboundnomad.com/images/rt66/p6/cominghome.jpg"&gt;&lt;/p&gt;
+&lt;h2&gt;What the Road Teaches&lt;/h2&gt;
+&lt;p&gt;Six thousand miles is enough miles to learn a few things that the shorter trips don't show you.&lt;/p&gt;
+&lt;p&gt;It teaches you that comfort is overrated and discomfort is survivable. The hot days in the desert, the rain through Missouri and Oklahoma, the headwinds on the plains - none of it stopped anything. You ride through it. Then it's behind you. Then you stop somewhere and the evening is perfect and you've completely forgotten that the afternoon was hard.&lt;/p&gt;
+&lt;p&gt;It teaches you patience with your own limitations. There are days when the miles feel like work. There are moments when you're tired and the next waypoint feels far away and you just have to cover the distance in front of you. You learn to do that. You learn that the distance gets covered regardless, so you might as well be present to it.&lt;/p&gt;
+&lt;p&gt;It teaches you that strangers are mostly good, and that a motorcycle is the best conversation starter in the world, and that the version of America you encounter on the road is more generous and more interesting than the one you encounter anywhere else.&lt;/p&gt;
+&lt;p&gt;It teaches you that the life you build around riding - the business, the community, the products, the writing - has to be as good as the riding itself. Because riders know the difference between something built for riders and something built for money, and they know it immediately.&lt;/p&gt;
+&lt;p&gt;And it teaches you, if you let it, that the reasons you ride are worth protecting. The accident was a door I could have walked away from. I walked back through it instead. Twenty-six days and six thousand miles later, I know that was the right call.&lt;/p&gt;
+&lt;div style="display:flex;gap:0.5rem;margin:1rem 0;"&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p6/lozen1.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Lozen on the road"&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p6/lozen2.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Lozen on the road"&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p6/lozen3.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Lozen on the road"&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;What's Next&lt;/h2&gt;
+&lt;p&gt;The road doesn't end. It just changes shape.&lt;/p&gt;
+&lt;p&gt;There are rides already forming in my head. Places the last trip pointed at but didn't reach. People I met out there who said &lt;em&gt;you should come ride this&lt;/em&gt; and meant it. The Broken Wings campaign has ground to cover. The Unbound Nomad has adventures to plan and riders to bring along for them.&lt;/p&gt;
+&lt;p&gt;Arriving home - engine off, sitting still for the first time in nearly a month - was an ending. But it was the kind of ending that's really a pause. A moment to take stock of what the road gave you before you go back out and ask it for more.&lt;/p&gt;
+&lt;p&gt;I'll be asking.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;This ride was a 26-day motorcycle journey from Delaware, Ohio to Huntington Beach, California and back. This is Part 6 of 6. Start from the beginning with &lt;a href="https://unboundnomad.com/blog/route-66-end-to-end-part-1.html#route-66-end-to-end-part-1"&gt;Part 1.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><category term="Rides"></category><category term="Motorcycles"></category><category term="Adventure"></category><category term="Road Trip"></category><category term="Route 66"></category><category term="Reflection"></category></entry><entry><title>Are You Actually Ready to Ride? What Prepared Riders Do That Most Don't</title><link href="https://unboundnomad.com/blog/are-you-ready-to-ride-rider-readiness-system.html" rel="alternate"></link><published>2026-07-21T06:00:00+00:00</published><updated>2026-07-21T06:00:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2026-07-21:/blog/are-you-ready-to-ride-rider-readiness-system.html</id><summary type="html">&lt;!-- ========================= --&gt;
+&lt;!--      CINEMATIC HERO       --&gt;
+&lt;!-- PLACEHOLDER: Replace background gradient with a real photo.         --&gt;
+&lt;!-- Ideal shot: rider gearing up, pre-ride inspection, or packed bike.  --&gt;
+&lt;!-- See image suggestions below in article comments.                    --&gt;
+&lt;!-- ========================= --&gt;
+
+&lt;div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+  background:linear-gradient(135deg,#1a0028 0%,#2d0050 60%,#1a0028 100%);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+"&gt;
+  &lt;div style="padding:0 2rem;"&gt;
+    &lt;h1 style="
+      margin:0 0 0.75rem;
+      font-size:2.6rem;
+      font-weight:700;
+      color:#ffffff;
+      text-shadow:0 4px 12px rgba(0,0,0,0.5);
+      line-height:1.2;
+    "&gt;Are You Actually Ready to Ride?&lt;/h1&gt;
+    &lt;p style="
+      margin:0;
+      font-size:1.15rem;
+      color:rgba(255,255,255,0.85);
+      text-shadow:0 3px 8px rgba(0,0,0,0.4);
+    "&gt;What prepared riders do that most don't&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I've watched riders show up to a long-distance trip missing basic gear, running questionable tire pressure, and with no idea what they'd do if something went wrong 200 miles from the nearest dealership.&lt;/p&gt;
+&lt;p&gt;I used to be …&lt;/p&gt;</summary><content type="html">&lt;!-- ========================= --&gt;
+&lt;!--      CINEMATIC HERO       --&gt;
+&lt;!-- PLACEHOLDER: Replace background gradient with a real photo.         --&gt;
+&lt;!-- Ideal shot: rider gearing up, pre-ride inspection, or packed bike.  --&gt;
+&lt;!-- See image suggestions below in article comments.                    --&gt;
+&lt;!-- ========================= --&gt;
+
+&lt;div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+  background:linear-gradient(135deg,#1a0028 0%,#2d0050 60%,#1a0028 100%);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+"&gt;
+  &lt;div style="padding:0 2rem;"&gt;
+    &lt;h1 style="
+      margin:0 0 0.75rem;
+      font-size:2.6rem;
+      font-weight:700;
+      color:#ffffff;
+      text-shadow:0 4px 12px rgba(0,0,0,0.5);
+      line-height:1.2;
+    "&gt;Are You Actually Ready to Ride?&lt;/h1&gt;
+    &lt;p style="
+      margin:0;
+      font-size:1.15rem;
+      color:rgba(255,255,255,0.85);
+      text-shadow:0 3px 8px rgba(0,0,0,0.4);
+    "&gt;What prepared riders do that most don't&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I've watched riders show up to a long-distance trip missing basic gear, running questionable tire pressure, and with no idea what they'd do if something went wrong 200 miles from the nearest dealership.&lt;/p&gt;
 &lt;p&gt;I used to be one of them.&lt;/p&gt;
 &lt;p&gt;Two decades of riding teaches you things that no safety course covers. One of the biggest lessons is this: &lt;strong&gt;the riders who have the best experiences aren't necessarily the most skilled - they're the most prepared.&lt;/strong&gt; They show up knowing exactly what they have, where it is, and what to do when things go sideways.&lt;/p&gt;
 &lt;p&gt;Preparation isn't anxiety. It's freedom. When you know your bike is dialed in, your kit is complete, and you have a plan for emergencies, you stop worrying and start riding. Unbound.&lt;/p&gt;
@@ -18,6 +278,7 @@
 &lt;p&gt;&lt;strong&gt;Documentation.&lt;/strong&gt; Registration, insurance, emergency contacts, medical info - all of it organized and reachable fast. Especially critical when crossing state lines or dealing with a roadside emergency where seconds matter.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;The Rider Readiness System&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="Rider Readiness System - 2026 Touring Edition" src="https://unboundnomad.com/images/rider-readiness/cover.png"&gt;&lt;/p&gt;
 &lt;p&gt;I built the Rider Readiness System to solve all of this in one place.&lt;/p&gt;
 &lt;p&gt;It's not a packing list. It's a complete touring preparation toolkit - 15 checklists and guides that cover every type of ride from a 2-hour day trip to a month-long cross-country tour.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Section 1 - Core Checklists&lt;/strong&gt; covers everything you need before and during any ride:&lt;/p&gt;

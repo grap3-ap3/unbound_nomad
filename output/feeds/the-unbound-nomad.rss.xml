@@ -1,7 +1,112 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>The Unbound Nomad - The Unbound Nomad</title><link>https://unboundnomad.com/</link><description></description><lastBuildDate>Tue, 21 Jul 2026 06:00:00 +0000</lastBuildDate><item><title>Are You Actually Ready to Ride? What Prepared Riders Do That Most Don't</title><link>https://unboundnomad.com/blog/are-you-ready-to-ride-rider-readiness-system.html</link><description>&lt;p&gt;I've watched riders show up to a long-distance trip missing basic gear, running questionable tire pressure, and with no idea what they'd do if something went wrong 200 miles from the nearest dealership.&lt;/p&gt;
-&lt;p&gt;I used to be one of them.&lt;/p&gt;
-&lt;p&gt;Two decades of riding teaches you things that no safety …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Unbound Nomad</dc:creator><pubDate>Tue, 21 Jul 2026 06:00:00 +0000</pubDate><guid isPermaLink="false">tag:unboundnomad.com,2026-07-21:/blog/are-you-ready-to-ride-rider-readiness-system.html</guid><category>Resources</category><category>Motorcycle Safety</category><category>Touring</category><category>Preparation</category><category>Checklists</category><category>Rider Readiness</category></item><item><title>The Broken Wings Project: Building a Business from the Saddle</title><link>https://unboundnomad.com/blog/route-66-broken-wings-part-5.html</link><description>&lt;!-- ========================= --&gt;
+<rss version="2.0"><channel><title>The Unbound Nomad - The Unbound Nomad</title><link>https://unboundnomad.com/</link><description></description><lastBuildDate>Tue, 28 Jul 2026 08:00:00 +0000</lastBuildDate><item><title>26 Days, 6,000 Miles: What the Road Taught Me</title><link>https://unboundnomad.com/blog/route-66-what-the-road-taught-me-part-6.html</link><description>&lt;!-- ========================= --&gt;
+&lt;!--      CINEMATIC HERO       --&gt;
+&lt;!-- ========================= --&gt;
+
+&lt;div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+"&gt;
+
+  &lt;!-- Background Image --&gt;
+  &lt;img src="https://unboundnomad.com/images/rt66/p6/hero.jpg"
+       alt="What the Road Taught Me Hero"
+       style="
+         width:100%;
+         height:100%;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+       "&gt;
+
+  &lt;!-- Dark Overlay --&gt;
+  &lt;div style="
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.45);
+    backdrop-filter:blur(1px);
+  "&gt;&lt;/div&gt;
+
+  &lt;!-- Title Text --&gt;
+  &lt;div style="
+    position:absolute;
+    bottom:40px;
+    left:50%;
+    transform:translateX(-50%);
+    text-align:center;
+    color:white;
+    padding:0 1rem;
+  "&gt;
+    &lt;h1 style="
+      margin:0;
+      font-size:2.75rem;
+      font-weight:700;
+      text-shadow:0 4px 12px rgba(0,0,0,0.6);
+    "&gt;
+      26 Days, 6,000 Miles
+    &lt;/h1&gt;
+
+    &lt;p style="
+      margin:0.8rem 0 0 0;
+      font-size:1.15rem;
+      font-weight:400;
+      opacity:0.9;
+      text-shadow:0 3px 8px rgba(0,0,0,0.5);
+    "&gt;
+      What the Road Taught Me
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;I pulled into home around 5 in the afternoon on June 19th.&lt;/p&gt;
+&lt;p&gt;Twenty-six days. 6,175 miles on the odometer. Delaware, Ohio to Huntington Beach, California and back, with a week in southern Colorado and two days in Dodge City …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Unbound Nomad</dc:creator><pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate><guid isPermaLink="false">tag:unboundnomad.com,2026-07-28:/blog/route-66-what-the-road-taught-me-part-6.html</guid><category>Rides</category><category>Motorcycles</category><category>Adventure</category><category>Road Trip</category><category>Route 66</category><category>Reflection</category></item><item><title>Are You Actually Ready to Ride? What Prepared Riders Do That Most Don't</title><link>https://unboundnomad.com/blog/are-you-ready-to-ride-rider-readiness-system.html</link><description>&lt;!-- ========================= --&gt;
+&lt;!--      CINEMATIC HERO       --&gt;
+&lt;!-- PLACEHOLDER: Replace background gradient with a real photo.         --&gt;
+&lt;!-- Ideal shot: rider gearing up, pre-ride inspection, or packed bike.  --&gt;
+&lt;!-- See image suggestions below in article comments.                    --&gt;
+&lt;!-- ========================= --&gt;
+
+&lt;div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+  background:linear-gradient(135deg,#1a0028 0%,#2d0050 60%,#1a0028 100%);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+"&gt;
+  &lt;div style="padding:0 2rem;"&gt;
+    &lt;h1 style="
+      margin:0 0 0.75rem;
+      font-size:2.6rem;
+      font-weight:700;
+      color:#ffffff;
+      text-shadow:0 4px 12px rgba(0,0,0,0.5);
+      line-height:1.2;
+    "&gt;Are You Actually Ready to Ride?&lt;/h1&gt;
+    &lt;p style="
+      margin:0;
+      font-size:1.15rem;
+      color:rgba(255,255,255,0.85);
+      text-shadow:0 3px 8px rgba(0,0,0,0.4);
+    "&gt;What prepared riders do that most don't&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I've watched riders show up to a long-distance trip missing basic gear, running questionable tire pressure, and with no idea what they'd do if something went wrong 200 miles from the nearest dealership.&lt;/p&gt;
+&lt;p&gt;I used to be …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">The Unbound Nomad</dc:creator><pubDate>Tue, 21 Jul 2026 06:00:00 +0000</pubDate><guid isPermaLink="false">tag:unboundnomad.com,2026-07-21:/blog/are-you-ready-to-ride-rider-readiness-system.html</guid><category>Resources</category><category>Motorcycle Safety</category><category>Touring</category><category>Preparation</category><category>Checklists</category><category>Rider Readiness</category></item><item><title>The Broken Wings Project: Building a Business from the Saddle</title><link>https://unboundnomad.com/blog/route-66-broken-wings-part-5.html</link><description>&lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
 &lt;!-- ========================= --&gt;
 
