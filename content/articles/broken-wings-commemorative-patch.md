@@ -1,5 +1,5 @@
 Title: The Broken Wings Commemorative Patch
-Date: 2026-08-25 12:00
+Date: 2026-08-25 08:00
 Author: The Unbound Nomad
 Category: Blog
 Tags: Motorcycles, Broken Wings, Patch, Community, Safety

@@ -1,5 +1,169 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>The Unbound Nomad - The Unbound Nomad</title><link href="https://unboundnomad.com/" rel="alternate"></link><link href="https://unboundnomad.com/feeds/the-unbound-nomad.atom.xml" rel="self"></link><id>https://unboundnomad.com/</id><updated>2026-07-28T08:00:00+00:00</updated><entry><title>26 Days, 6,000 Miles: What the Road Taught Me</title><link href="https://unboundnomad.com/blog/route-66-what-the-road-taught-me-part-6.html" rel="alternate"></link><published>2026-07-28T08:00:00+00:00</published><updated>2026-07-28T08:00:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2026-07-28:/blog/route-66-what-the-road-taught-me-part-6.html</id><summary type="html">&lt;!-- ========================= --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Unbound Nomad - The Unbound Nomad</title><link href="https://unboundnomad.com/" rel="alternate"></link><link href="https://unboundnomad.com/feeds/the-unbound-nomad.atom.xml" rel="self"></link><id>https://unboundnomad.com/</id><updated>2026-08-25T08:00:00+00:00</updated><entry><title>The Broken Wings Commemorative Patch</title><link href="https://unboundnomad.com/blog/broken-wings-commemorative-patch.html" rel="alternate"></link><published>2026-08-25T08:00:00+00:00</published><updated>2026-08-25T08:00:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2026-08-25:/blog/broken-wings-commemorative-patch.html</id><summary type="html">&lt;!-- ========================= --&gt;
+&lt;!--      CINEMATIC HERO       --&gt;
+&lt;!-- ========================= --&gt;
+
+&lt;div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+"&gt;
+
+  &lt;!-- Background Image --&gt;
+  &lt;img src="https://unboundnomad.com/images/brokenwings/hero.jpg"
+       alt="Broken Wings Commemorative Patch"
+       style="
+         width:100%;
+         height:100%;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+       "&gt;
+
+  &lt;!-- Dark Overlay --&gt;
+  &lt;div style="
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.45);
+    backdrop-filter:blur(1px);
+  "&gt;&lt;/div&gt;
+
+  &lt;!-- Title Text --&gt;
+  &lt;div style="
+    position:absolute;
+    bottom:40px;
+    left:50%;
+    transform:translateX(-50%);
+    text-align:center;
+    color:white;
+    padding:0 1rem;
+  "&gt;
+    &lt;h1 style="
+      margin:0;
+      font-size:2.75rem;
+      font-weight:700;
+      text-shadow:0 4px 12px rgba(0,0,0,0.6);
+    "&gt;
+      Broken Wings
+    &lt;/h1&gt;
+
+    &lt;p style="
+      margin:0.8rem 0 0 0;
+      font-size:1.15rem;
+      font-weight:400;
+      opacity:0.9;
+      text-shadow:0 3px 8px rgba(0,0,0,0.5);
+    "&gt;
+      For the riders who went down. For the ones who got back up.
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Every rider knows someone.&lt;/p&gt;
+&lt;p&gt;A friend who didn't come home. A fellow rider who went down and came back changed. Someone whose name gets said a little quieter now. The road takes people, and the …&lt;/p&gt;</summary><content type="html">&lt;!-- ========================= --&gt;
+&lt;!--      CINEMATIC HERO       --&gt;
+&lt;!-- ========================= --&gt;
+
+&lt;div style="
+  position:relative;
+  width:100%;
+  height:380px;
+  overflow:hidden;
+  border-radius:0;
+  margin-bottom:2.5rem;
+"&gt;
+
+  &lt;!-- Background Image --&gt;
+  &lt;img src="https://unboundnomad.com/images/brokenwings/hero.jpg"
+       alt="Broken Wings Commemorative Patch"
+       style="
+         width:100%;
+         height:100%;
+         object-fit:cover;
+         object-position:center;
+         display:block;
+       "&gt;
+
+  &lt;!-- Dark Overlay --&gt;
+  &lt;div style="
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.45);
+    backdrop-filter:blur(1px);
+  "&gt;&lt;/div&gt;
+
+  &lt;!-- Title Text --&gt;
+  &lt;div style="
+    position:absolute;
+    bottom:40px;
+    left:50%;
+    transform:translateX(-50%);
+    text-align:center;
+    color:white;
+    padding:0 1rem;
+  "&gt;
+    &lt;h1 style="
+      margin:0;
+      font-size:2.75rem;
+      font-weight:700;
+      text-shadow:0 4px 12px rgba(0,0,0,0.6);
+    "&gt;
+      Broken Wings
+    &lt;/h1&gt;
+
+    &lt;p style="
+      margin:0.8rem 0 0 0;
+      font-size:1.15rem;
+      font-weight:400;
+      opacity:0.9;
+      text-shadow:0 3px 8px rgba(0,0,0,0.5);
+    "&gt;
+      For the riders who went down. For the ones who got back up.
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Every rider knows someone.&lt;/p&gt;
+&lt;p&gt;A friend who didn't come home. A fellow rider who went down and came back changed. Someone whose name gets said a little quieter now. The road takes people, and the motorcycle community carries that - quietly, personally, without a lot of ceremony.&lt;/p&gt;
+&lt;p&gt;The Broken Wings commemorative patch exists for that.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Broken Wings patch" src="https://unboundnomad.com/images/brokenwings/patch.jpg"&gt;&lt;/p&gt;
+&lt;h2&gt;What It Is&lt;/h2&gt;
+&lt;p&gt;The Broken Wings patch is a symbol for riders who've been through it - and for those we ride in memory of.&lt;/p&gt;
+&lt;p&gt;Wear it on your vest, your jacket, your bag. Every rider who sees it knows what it means. Every rider who wears one is carrying something real.&lt;/p&gt;
+&lt;p&gt;This isn't a brand statement. It's not a club patch. It's a personal one - for anyone who has gone down, anyone who rides in honor of someone who did, and anyone who understands that the road demands respect and doesn't always give it back.&lt;/p&gt;
+&lt;h2&gt;Where It Comes From&lt;/h2&gt;
+&lt;p&gt;On June 7, 2025, I went down.&lt;/p&gt;
+&lt;p&gt;My 2023 Indian Roadmaster - Gouyen - was totaled. I walked away. Not everyone does.&lt;/p&gt;
+&lt;p&gt;Coming back to riding on the other side of that experience changes how you think about things. About why you ride. About the people who loved this life as much as you do and aren't here to ride it anymore. The Broken Wings patch came from that - from needing something to carry the weight of it, and not finding anything that fit.&lt;/p&gt;
+&lt;p&gt;So I made it.&lt;/p&gt;
+&lt;div style="display:flex;gap:0.5rem;margin:1rem 0;"&gt;
+  &lt;img src="https://unboundnomad.com/images/brokenwings/detail1.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Broken Wings patch detail"&gt;
+  &lt;img src="https://unboundnomad.com/images/brokenwings/detail2.jpg" style="flex:1;min-width:0;object-fit:cover;" alt="Broken Wings patch detail"&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;The Details&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;High quality embroidered patch&lt;/li&gt;
+&lt;li&gt;Designed to be worn - vest, jacket, bag, gear&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;$14, shipped anywhere in the United States&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;One patch. One reminder that the road demands respect, and that the people who rode it matter.&lt;/p&gt;
+&lt;h2&gt;Get Yours&lt;/h2&gt;
+&lt;p&gt;👉 &lt;strong&gt;&lt;a href="https://square.link/u/S2o0DXon"&gt;Order the Broken Wings patch - $14 shipped&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you ride, you already know someone this is for.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;The Broken Wings Project is part of The Unbound Nomad. Questions? Reach out at &lt;a href="https://www.unboundnomad.com"&gt;unboundnomad.com&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><category term="Blog"></category><category term="Motorcycles"></category><category term="Broken Wings"></category><category term="Patch"></category><category term="Community"></category><category term="Safety"></category></entry><entry><title>26 Days, 6,000 Miles: What the Road Taught Me</title><link href="https://unboundnomad.com/blog/route-66-what-the-road-taught-me-part-6.html" rel="alternate"></link><published>2026-07-28T08:00:00+00:00</published><updated>2026-07-28T08:00:00+00:00</updated><author><name>The Unbound Nomad</name></author><id>tag:unboundnomad.com,2026-07-28:/blog/route-66-what-the-road-taught-me-part-6.html</id><summary type="html">&lt;!-- ========================= --&gt;
 &lt;!--      CINEMATIC HERO       --&gt;
 &lt;!-- ========================= --&gt;
 
