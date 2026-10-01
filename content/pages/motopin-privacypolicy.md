@@ -6,13 +6,13 @@ Tags: Privacy, MotoPin
 Slug: motopin-privacy-policy
 Status: hidden
 
-Last updated: 9/30/2026
+Last updated: 10/1/2026
 
 Welcome to MotoPin! MotoPin is a motorcycle GPS pin-dropping app built by The Unbound Nomad. This policy explains what information MotoPin collects, how it's used, and the choices you have. We've kept it short because, honestly, there isn't much to tell — MotoPin was built from the ground up to keep your data on your own phone.
 
 ## Information We Collect
 
-**Location data.** MotoPin's entire purpose is capturing your GPS location when you tap the "PIN IT" button (from the home screen widget, Quick Settings tile, floating button, or lock screen widget), so that we can save it as a pin for you to review later. This is precise location data (via Android's Fused Location Provider).
+**Location data.** MotoPin's entire purpose is capturing your GPS location when you tap the "PIN IT" button (from the home screen widget, Quick Settings tile, or floating button), so that we can save it as a pin for you to review later. This is precise location data (via Android's Fused Location Provider).
 
 **Photos (optional).** If you choose to attach a photo to a pin, that photo is copied into MotoPin's private app storage on your device.
 
