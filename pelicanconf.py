@@ -76,6 +76,8 @@ RELATIVE_URLS = True
 
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
+# Required by the Flex theme to render the sidebar nav (Home + MENUITEMS + feed links)
+MAIN_MENU = True
 MENUITEMS = (
     ('About The Unbound Nomad', '/pages/about.html'),
     ('Guided Rides', '/pages/guided-rides.html'),
