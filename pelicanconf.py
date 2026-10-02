@@ -75,16 +75,8 @@ DEFAULT_PAGINATION = 5
 RELATIVE_URLS = True
 
 DISPLAY_CATEGORIES_ON_MENU = False
-DISPLAY_PAGES_ON_MENU = False
-# Required by the Flex theme to render the sidebar nav (Home + MENUITEMS + feed links)
-MAIN_MENU = True
-MENUITEMS = (
-    ('About The Unbound Nomad', '/pages/about.html'),
-    ('Guided Rides', '/pages/guided-rides.html'),
-    ('Concierge Trip Planning', '/pages/concierge-trip-planning.html'),
-    ('Book a Ride', '/pages/booking.html'),
-    ('Rider Resources & Digital Tools', '/pages/resources.html'),
-)
+DISPLAY_PAGES_ON_MENU = True
+MAIN_MENU = False
 
 from datetime import date
 CURRENT_YEAR = str(date.today().year)
