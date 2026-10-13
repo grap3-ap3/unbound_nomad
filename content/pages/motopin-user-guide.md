@@ -1,6 +1,6 @@
 Title: MotoPin User Guide
 Date: 2026-10-03
-Modified: 2026-10-03
+Modified: 2026-10-13
 Author: The Unbound Nomad
 Category: Page
 Tags: MotoPin
@@ -8,7 +8,7 @@ Slug: motopin-user-guide
 Status: hidden
 Summary: How to use MotoPin, the one-tap GPS pin-drop app for motorcycle rides: dropping pins, trips, import and export, backups, and MotoPin Pro.
 
-*This guide covers MotoPin 1.1.*
+*This guide covers MotoPin 1.0.*
 
 Drop the MotoPin widget on your home screen, add its Quick Settings tile, or turn on its floating button — any one of them grabs your GPS location and saves it as a pin with a single tap, no need to stop, unlock your phone, and dig through apps mid-ride. Review, categorize, and export your pins once you're off the bike.
 
@@ -26,6 +26,8 @@ Pick whichever fits how you ride — you can use more than one at once, and they
 - **Floating button** (Pro). Open MotoPin's menu (⋮) and tap **Turn On Floating Button**. Grant the permissions it asks for (location, notifications, and "Display over other apps" — see below), and a small purple button appears on top of whatever app you're using. Tap it to drop a pin, or drag it anywhere on screen to reposition it — it remembers where you put it. Turn it off from the same menu item (now labeled **Turn Off Floating Button**) or from the "Turn off" action on its notification.
 
 Any of these shows a quick "📍 Location pinned!" confirmation, and you're back on the road — no app to open, no screen to navigate. If a trip is running (see **Trips** below), the pin joins it automatically.
+
+**If GPS needs a moment.** When your phone hasn't used GPS for a while (no navigation running, phone in a pocket or tank bag), the first fix can take a little time. MotoPin shows "Getting a GPS fix…" and waits up to 25 seconds — keep riding, you don't need to tap again. The pin is stamped with the time you tapped. If GPS still can't get an exact fix, MotoPin saves the pin at the best position your phone has and adds an "Approximate location" note to it, so the pin is never lost; when you resolve it later, choose **Not listed — pick the exact spot on the map…** to put it exactly where you meant. You'll only see "Couldn't find your location" if the phone has no idea where it is at all (for example, deep in a parking garage).
 
 **Turning on the floating button, step by step:** the first time you turn it on, MotoPin walks you through three permission prompts in order — grant each one to continue:
 1. **Location** — needed to capture where you are when you tap the button.
