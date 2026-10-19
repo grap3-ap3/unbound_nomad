@@ -1,6 +1,6 @@
 Title: MotoPin User Guide
 Date: 2026-10-03
-Modified: 2026-10-13
+Modified: 2026-10-18
 Author: The Unbound Nomad
 Category: Page
 Tags: MotoPin
@@ -38,13 +38,14 @@ Any of these shows a quick "📍 Location pinned!" confirmation, and you're back
 
 Every pin you drop starts out as a **New** pin — MotoPin doesn't ask you to name or categorize it in the moment, so you can mark a point of interest while riding past without stopping. Tap a New pin later (from the list or the map) to resolve it:
 
-1. MotoPin searches OpenStreetMap for named points of interest within 1 mile of the pin, and shows what it finds.
+1. MotoPin searches Google Maps for named places within 1 mile of the pin (nearest first) and shows what it finds, usually within a second or two.
 2. Tap a result if one matches what you meant to mark, or tap **Search Wider** to double the search radius (up to 8 miles).
-3. If nothing matches, tap **📍 Not listed — pick the exact spot on the map…** to drag or tap the exact location yourself, then give it a name.
-4. If you'd rather not search at all, tap **Keep This Pin** to leave it at its dropped location.
-5. Either way, you'll then pick a category (Fuel Stop, Scenic View, Campsite, Food / Rest, or Hazard — General is the catch-all) to finish resolving the pin.
+3. No named place? The list also offers the pin's **street address** (📫, e.g. "Near 1290 US-33, Logan, OH"). Tap it to name the pin by its address, right where you dropped it.
+4. If nothing matches, tap **📍 Not listed — pick the exact spot on the map…** to drag or tap the exact location yourself, then give it a name.
+5. If you'd rather not search at all, tap **Keep This Pin** to leave it at its dropped location.
+6. Either way, you'll then pick a category (Fuel Stop, Scenic View, Campsite, Food / Rest, or Hazard — General is the catch-all) to finish resolving the pin. When the place you picked is obviously one of them (a gas station, a campground), that category is listed first, marked **(suggested)**.
 
-If the search itself fails (no signal, server hiccup), MotoPin tells you plainly and offers **Retry** or **Pick on Map** rather than showing a misleading "no results."
+If Google can't be reached, MotoPin searches OpenStreetMap instead, which can take up to half a minute. If the search fails entirely (no signal), MotoPin says so plainly and offers **Retry**, **Pick on Map**, or **Use Address** rather than showing a misleading "no results."
 
 ## Review your pins {: #review-your-pins }
 
