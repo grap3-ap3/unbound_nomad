@@ -4,7 +4,7 @@ Make changes in /content
 
 To process changes and test: 
 	cd D:\Dropbox\UnboundNomad\DevSite
-	pelican content
+	pelican content -o output -s publishconf.py
 	cd D:\Dropbox\UnboundNomad\DevSite\output
 	python -m http.server
 	

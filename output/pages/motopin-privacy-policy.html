@@ -157,7 +157,7 @@
     <h1 id="motopin-privacy-policy">MotoPin Privacy Policy</h1>
   </header>
   <div>
-<p>Last updated: 10/1/2026</p>
+<p>Last updated: 10/18/2026</p>
 <p>Welcome to MotoPin! MotoPin is a motorcycle GPS pin-dropping app built by The Unbound Nomad. This policy explains what information MotoPin collects, how it's used, and the choices you have. We've kept it short because, honestly, there isn't much to tell — MotoPin was built from the ground up to keep your data on your own phone.</p>
 <h2>Information We Collect</h2>
 <p><strong>Location data.</strong> MotoPin's entire purpose is capturing your GPS location when you tap the "PIN IT" button (from the home screen widget, Quick Settings tile, or floating button), so that we can save it as a pin for you to review later. This is precise location data (via Android's Fused Location Provider).</p>
@@ -165,7 +165,7 @@
 <p><strong>What we don't collect.</strong> MotoPin does not ask for your name, email address, or any account sign-up — there is no MotoPin account. We don't run analytics or advertising SDKs, and we don't collect device identifiers, usage statistics, or crash logs today.</p>
 <h2>Where Your Data Lives</h2>
 <p>This is the important part: <strong>your pins, notes, categories, and photos are stored entirely in a local database on your phone.</strong> MotoPin has no server, and your location data is never transmitted to us, sold, or shared with any third party. Uninstalling the app deletes this data.</p>
-<p>The one exception is the point-of-interest search MotoPin runs when you resolve a "New" pin: MotoPin sends the pin's coordinates to OpenStreetMap's public Overpass API to look up nearby named places. That request contains only coordinates — no identifying information about you — and OpenStreetMap's own privacy practices govern that request once it leaves your device. You can always skip this search and pick a location manually instead.</p>
+<p>The one exception is the nearby-place search MotoPin runs when you resolve a "New" pin. MotoPin sends that pin's coordinates to <strong>Google Maps (Google Places)</strong> to look up named places nearby; if Google can't be reached, it asks <strong>OpenStreetMap's public Overpass service</strong> instead. At the same time, your phone's built-in Android address lookup turns the coordinates into a street address, which may also involve Google's servers. These requests contain only the pin's coordinates, never your name, account, or other pins, and nothing is sent until you tap a New pin to resolve it. Google's and OpenStreetMap's own privacy policies govern those requests once they leave your device (<a href="https://policies.google.com/privacy">Google Privacy Policy</a>, <a href="https://osmfoundation.org/wiki/Privacy_Policy">OpenStreetMap Foundation Privacy Policy</a>). You can always skip the search and pick a location manually instead.</p>
 <h2>How We Use Your Information</h2>
 <p>We use the location and photo data you capture solely to provide MotoPin's core features: saving pins, showing them on a map, matching new pins to real places, and letting you export or share your ride history. That's it — there's no other use, because there's no other place for it to go.</p>
 <h2>Sharing Your Information</h2>
@@ -183,7 +183,7 @@
 <h2>Data Retention &amp; Your Control</h2>
 <p>Your pins stay on your device for as long as you keep them. You can delete an individual pin any time (swipe to delete, with Undo), or wipe everything at once from the app's Clear All Pins menu option. Uninstalling MotoPin removes all locally stored data.</p>
 <h2>Security</h2>
-<p>Your pin data is stored in MotoPin's private, sandboxed app storage on your device, protected by Android's own app-level security. As with any data transmission (such as the optional OpenStreetMap search above), no method of transmission over the internet is completely secure, though the data sent in that request contains no personal or identifying information.</p>
+<p>Your pin data is stored in MotoPin's private, sandboxed app storage on your device, protected by Android's own app-level security. As with any data transmission (such as the optional nearby-place search above), no method of transmission over the internet is completely secure, though the data sent in that request contains no personal or identifying information.</p>
 <h2>Links to Other Websites / Apps</h2>
 <p>MotoPin's Share and Save-to-Google-Maps features may open other apps or websites (like Google Maps) that you choose. We aren't responsible for the privacy practices of those third-party apps and encourage you to review their own policies.</p>
 <h2>Changes to This Privacy Policy</h2>
