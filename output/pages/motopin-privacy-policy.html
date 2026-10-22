@@ -157,24 +157,32 @@
     <h1 id="motopin-privacy-policy">MotoPin Privacy Policy</h1>
   </header>
   <div>
-<p>Last updated: 10/18/2026</p>
+<p>Last updated: 10/21/2026</p>
 <p>Welcome to MotoPin! MotoPin is a motorcycle GPS pin-dropping app built by The Unbound Nomad. This policy explains what information MotoPin collects, how it's used, and the choices you have. We've kept it short because, honestly, there isn't much to tell — MotoPin was built from the ground up to keep your data on your own phone.</p>
 <h2>Information We Collect</h2>
 <p><strong>Location data.</strong> MotoPin's entire purpose is capturing your GPS location when you tap the "PIN IT" button (from the home screen widget, Quick Settings tile, or floating button), so that we can save it as a pin for you to review later. This is precise location data (via Android's Fused Location Provider).</p>
 <p><strong>Photos (optional).</strong> If you choose to attach a photo to a pin, that photo is copied into MotoPin's private app storage on your device.</p>
-<p><strong>What we don't collect.</strong> MotoPin does not ask for your name, email address, or any account sign-up — there is no MotoPin account. We don't run analytics or advertising SDKs, and we don't collect device identifiers, usage statistics, or crash logs today.</p>
+<p><strong>What we don't collect.</strong> MotoPin does not ask for your name, email address, or any account sign-up — there is no MotoPin account. MotoPin has no ads and no analytics or advertising SDKs, and we (The Unbound Nomad) never receive your device identifiers, usage statistics, or crash logs. The Google map and place-search components built into the app do send some technical information to Google; see <strong>Google services MotoPin uses</strong> below.</p>
 <h2>Where Your Data Lives</h2>
-<p>This is the important part: <strong>your pins, notes, categories, and photos are stored entirely in a local database on your phone.</strong> MotoPin has no server, and your location data is never transmitted to us, sold, or shared with any third party. Uninstalling the app deletes this data.</p>
+<p>This is the important part: <strong>your pins, notes, categories, and photos are stored entirely in a local database on your phone.</strong> MotoPin has no server, and your location data is never transmitted to us or sold. Apart from the Google and OpenStreetMap requests described below, it isn't shared with anyone. Uninstalling the app deletes this data.</p>
 <p>The one exception is the nearby-place search MotoPin runs when you resolve a "New" pin. MotoPin sends that pin's coordinates to <strong>Google Maps (Google Places)</strong> to look up named places nearby; if Google can't be reached, it asks <strong>OpenStreetMap's public Overpass service</strong> instead. At the same time, your phone's built-in Android address lookup turns the coordinates into a street address, which may also involve Google's servers. These requests contain only the pin's coordinates, never your name, account, or other pins, and nothing is sent until you tap a New pin to resolve it. Google's and OpenStreetMap's own privacy policies govern those requests once they leave your device (<a href="https://policies.google.com/privacy">Google Privacy Policy</a>, <a href="https://osmfoundation.org/wiki/Privacy_Policy">OpenStreetMap Foundation Privacy Policy</a>). You can always skip the search and pick a location manually instead.</p>
+<h2>Google services MotoPin uses</h2>
+<p>MotoPin is built on a few Google components. They talk to Google directly, and Google's own <a href="https://policies.google.com/privacy">privacy policy</a> governs what they send. None of it includes your pins' names, notes, or photos, and MotoPin doesn't send Google your name or Google account.</p>
+<ul>
+<li><strong>Google Maps (the map screens).</strong> When you open a map, the map images for the area on screen are loaded from Google. Google's map component (Maps SDK for Android) also automatically sends Google technical information: device details such as Android version and phone model, crash reports, your IP address, and a pseudonymous identifier Google uses to count active users. (<a href="https://developers.google.com/maps/documentation/android-sdk/play-data-disclosure">Google's disclosure</a>)</li>
+<li><strong>Google Places (nearby-place search).</strong> When you tap a New pin, that pin's coordinates go to Google to find nearby places, along with the same kind of technical information (request details, crash reports, IP address, and a pseudonymous identifier). (<a href="https://developers.google.com/maps/documentation/places/android-sdk/play-data-disclosure">Google's disclosure</a>)</li>
+<li><strong>Google Play services location.</strong> Your phone's location service works out your GPS position when you tap Pin It.</li>
+<li><strong>Google Play (MotoPin Pro purchase).</strong> If you buy MotoPin Pro, Google Play handles the purchase and payment. MotoPin never sees your payment details; it only remembers on your phone that Pro is unlocked, and asks Google Play to confirm the purchase when the app starts.</li>
+</ul>
 <h2>How We Use Your Information</h2>
 <p>We use the location and photo data you capture solely to provide MotoPin's core features: saving pins, showing them on a map, matching new pins to real places, and letting you export or share your ride history. That's it — there's no other use, because there's no other place for it to go.</p>
 <h2>Sharing Your Information</h2>
-<p>We do not sell, trade, or otherwise transfer your information to third parties. When you choose to use MotoPin's Share or Export features, you are the one sending your data — to whatever app, contact, or file you pick from your phone's share sheet. That's your action, not something MotoPin does on your behalf.</p>
+<p>We do not sell, trade, or otherwise transfer your information to third parties. When you choose to use MotoPin's Share, Export, or Back Up Pins features, you are the one sending your data — to whatever app, contact, or file you pick from your phone's share sheet (for example, saving a backup to your own Google Drive). That's your action, not something MotoPin does on your behalf. Likewise, Import Pins and Restore Pins only read the file you pick.</p>
 <h2>App Permissions</h2>
 <p>MotoPin asks for a few Android permissions, each tied directly to a feature you choose to use:</p>
 <ul>
 <li><strong>Location (Fine/Coarse)</strong> — required to capture where you are when you tap "PIN IT."</li>
-<li><strong>Notifications</strong> — used only for the floating button's required "floating button is on" status notification (Android 13+).</li>
+<li><strong>Notifications</strong> (Android 13+) — used only for the floating button's "floating button is on" notification and the brief "Pinning your location…" notification shown while a pin is being saved.</li>
 <li><strong>Display over other apps</strong> — required only if you turn on the optional floating "Pin It" button, so it can appear on top of other apps.</li>
 </ul>
 <p>You can deny any of these, but the related feature won't work without it.</p>
