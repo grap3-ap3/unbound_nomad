@@ -26,4 +26,4 @@ DELETE_OUTPUT_DIRECTORY = True
 # Cloudflare Web Analytics (cookie-free). Paste the beacon token from
 # Cloudflare dashboard > Analytics & Logs > Web Analytics. Empty = analytics off.
 # Only set here (not pelicanconf.py) so local test builds don't count as visits.
-CLOUDFLARE_WEB_ANALYTICS_TOKEN = ""
+CLOUDFLARE_WEB_ANALYTICS_TOKEN = "01d2bbfe5da541028c506d8e74e9bd34"
