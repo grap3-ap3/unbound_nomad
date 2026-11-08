@@ -81,10 +81,9 @@ PAGES_ORDER_BY = 'date'
 
 # Social widget
 SOCIAL = (('facebook', 'https://www.facebook.com/theunboundnomad'),
-#          ('youtube', 'https://www.youtube.com/channel/UCvAAwLc11f4EUAAhSuLK5pw'),
-#          ('twitter (@unbound_nomad)', 'https://x.com/unbound_nomad/'),
-          ('instagram (@unbound_nomad)', 'https://www.instagram.com/unbound_nomad/'),)
-#          ('TikTok', 'https://www.tiktok.com/@unbound_nomad'),)
+          ('instagram', 'https://www.instagram.com/unbound_nomad/'),
+          ('tiktok', 'https://www.tiktok.com/@unbound_nomad'),
+          ('youtube', 'https://www.youtube.com/channel/UCSwqxCzCY1_h9rxFOdAtbBg'),)
 
 
 DEFAULT_PAGINATION = 5

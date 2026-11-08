@@ -164,4 +164,5 @@ If you’re ready to start planning your next ride - or just want to talk throug
 Prefer social?
 
 - **Instagram:** [@unbound_nomad](https://instagram.com/unbound_nomad)  
-- **TikTok:** @theunboundnomad  
+- **TikTok:** [@unbound_nomad](https://www.tiktok.com/@unbound_nomad)  
+- **YouTube:** [The Unbound Nomad](https://www.youtube.com/channel/UCSwqxCzCY1_h9rxFOdAtbBg)  
