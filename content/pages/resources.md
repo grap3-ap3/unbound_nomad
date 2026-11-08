@@ -4,6 +4,7 @@ Author: The Unbound Nomad
 Category: Resources
 Slug: resources
 Status: published
+Description: Rider resources and digital tools from The Unbound Nomad: route guides, the Rider Readiness System, and downloads built for riders who take the road seriously.
 
 <!-- ========================= -->
 <!--        HERO IMAGE         -->

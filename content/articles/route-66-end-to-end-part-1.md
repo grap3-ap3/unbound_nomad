@@ -5,6 +5,7 @@ Category: Rides
 Tags: Motorcycles, Route 66, Adventure, Tours, Road Trip
 Slug: route-66-end-to-end-part-1
 Status: published
+Description: 2,400 miles of American history, roadside kitsch, and long meditative roads. Here's what I found riding Route 66 end to end on two wheels.
 <!-- Summary: 2,400 miles of American history, roadside kitsch, and long meditative roads. Here's what I found riding Route 66 end to end on two wheels. -->
 
 <!-- ========================= -->

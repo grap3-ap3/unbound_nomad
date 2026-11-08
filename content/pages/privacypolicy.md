@@ -5,48 +5,56 @@ Category: Page
 Tags: Privacy
 Slug: privacy-policy
 Status: hidden
+Description: How The Unbound Nomad website handles your information: booking and newsletter forms, cookie-free analytics, and the third-party services the site uses.
 
-Last updated: 1/21/2024
+Last updated: 11/8/2026
 
-Welcome toThe Unbound Nomad! This Privacy Policy is designed to help you understand how we collect, use, and safeguard your personal information.
+This policy covers the website at unboundnomad.com, run by The Unbound Nomad (Phil Grimes). It explains what information the site collects, why, and who else handles it. The MotoPin app has its own [MotoPin Privacy Policy](/pages/motopin-privacy-policy.html).
 
-## Information We Collect
+## The short version
 
-### Personal Information
-- When you visit our website, we may collect personally identifiable information, such as your name, email address, and any other information you voluntarily provide.
+- You don't need an account to use this site, and browsing it doesn't require giving me your name or email.
+- I only get your personal details when you send them to me: through the booking form, the newsletter sign-up, a purchase, or an email.
+- I don't sell, rent, or trade your information.
 
-### Usage Data
-- We may also collect information about how you access and use our website. This may include your IP address, browser type, device information, and usage patterns.
+## Information you give me
 
-## How We Use Your Information
+- **Booking and trip-planning requests.** The [booking form](/pages/booking.html) asks for things like your name, contact details, and what kind of ride you want. I use this to reply to you and plan your ride. The form is run by Jotform, which stores your submission for me.
+- **Newsletter sign-up.** If you sign up, your email address (and name, if you give it) goes to MailerLite, which I use to send the newsletter. Every email has an unsubscribe link.
+- **Purchases.** Digital downloads are sold through Gumroad, and some payments go through Square. They handle your payment details; I never see your full card number. I receive what I need to fulfill the order, such as your name and email.
+- **Email.** If you email me, I'll have your address and whatever you write, and I use it only to reply.
 
-- Provide, operate, and maintain our website.
-- Improve, personalize, and expand our website's offerings.
-- Understand and analyze how you use our website.
-- Respond to your comments, inquiries, and requests.
+## Information collected automatically
 
-## Sharing Your Information
+- **Analytics.** The site uses Cloudflare Web Analytics to count visits and see which pages are read. It doesn't use cookies and doesn't track you across other websites. I only see totals, not who you are.
+- **Hosting.** The site is hosted on GitHub Pages. Like any web server, GitHub may log basic request details such as your IP address for security and operations.
+- **Fonts and site scripts.** Some text styles load from Google Fonts, and MailerLite's script loads on every page so its sign-up forms work. Both services receive your IP address and browser details when your browser contacts them, and MailerLite may set cookies for its forms.
 
-We do not sell, trade, or otherwise transfer your personal information to third parties. However, we may share aggregated, non-personal information for analytics and reporting purposes.
+## Third-party services
 
-## Cookies
+These companies handle parts of the site and follow their own privacy policies: Jotform (booking form), MailerLite (newsletter), Gumroad and Square (payments), Cloudflare (analytics), GitHub (hosting), and Google (fonts). Links to Instagram, Facebook, Linktree, and other sites take you off unboundnomad.com, and those sites have their own policies.
 
-We use cookies to enhance your experience on our website. You can control cookies through your browser settings. Please note that disabling cookies may affect the functionality of certain features on our site.
+## How I use your information
 
-## Security
+- To reply to you and plan, book, and run your ride
+- To send the newsletter, if you signed up
+- To deliver what you bought
+- To understand which pages are useful and improve the site
 
-We take reasonable measures to protect your personal information. However, no method of transmission over the internet or electronic storage is completely secure. Therefore, we cannot guarantee absolute security.
+## Your choices
 
-## Links to Other Websites
+- Unsubscribe from the newsletter at any time with the link in any email.
+- Ask me what information I have about you, or ask me to correct or delete it, by emailing the address below.
+- You can block or clear cookies in your browser settings. The site works without them, though the newsletter sign-up form may not.
 
-Our website may contain links to third-party websites. We have no control over the content or privacy practices of these sites and encourage you to review their privacy policies.
+## Children
 
-## Changes to This Privacy Policy
+This site is meant for adult riders and isn't directed at children under 13. I don't knowingly collect information from children.
 
-We may update our Privacy Policy from time to time. Any changes will be posted on this page with the updated date.
+## Changes to this policy
 
-## Contact Us
+If this policy changes, I'll post the new version here with an updated date.
 
-If you have any questions about this Privacy Policy, please contact us at unboundnomad@unboundnomad.com.
+## Contact
 
-By using our website, you consent to the terms outlined in this Privacy Policy.
+Questions about privacy? Email **unboundnomad@unboundnomad.com**.

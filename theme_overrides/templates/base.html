@@ -1,0 +1,300 @@
+{% if 'jinja2.ext.i18n' not in JINJA_ENVIRONMENT.extensions %}
+  {%- macro _(msg) -%}
+    {{ msg % kwargs }}
+  {%- endmacro -%}
+{% endif %}
+
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  {% if page in hidden_pages %}
+  <meta name="robots" content="noindex, nofollow" />
+  {% else %}
+  <meta name="robots" content="{{ ROBOTS }}" />
+  {% endif %}
+
+  {% if USE_GOOGLE_FONTS != False %}
+  <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,700;1,400&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+  {% endif %}
+
+  {% if USE_LESS %}
+    <link rel="stylesheet/less" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/stylesheet/style.less">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.5.1/less.min.js" type="text/javascript"></script>
+  {% else %}
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/stylesheet/style.min.css">
+  {% endif %}
+
+  {# DARK THEME STYLES #}
+  {% if THEME_COLOR == "dark" or THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE or THEME_COLOR_ENABLE_USER_OVERRIDE %}
+    <link id="dark-theme-style" rel="stylesheet" type="text/css"
+      {% if THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE %}
+        {% if THEME_COLOR|default("light") == "dark" %}
+          media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+        {% else %}
+          media="(prefers-color-scheme: dark)"
+        {% endif %}
+      {% elif THEME_COLOR_ENABLE_USER_OVERRIDE and THEME_COLOR|default("light") == "light" %}
+        disabled="disabled"
+      {% endif %}
+    href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/stylesheet/dark-theme.min.css">
+  {% endif %}
+
+  {# PYGMENTS STYLES #}
+  {% if THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE or THEME_COLOR_ENABLE_USER_OVERRIDE or THEME_COLOR == "dark" %}
+    <link id="pygments-dark-theme" rel="stylesheet" type="text/css"
+          {% if THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE %}
+            {% if THEME_COLOR|default("light") == "dark" %}
+              media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+            {% else %}
+              media="(prefers-color-scheme: dark)"
+            {% endif %}
+          {% elif THEME_COLOR_ENABLE_USER_OVERRIDE and THEME_COLOR|default("light") == "light" %}
+            disabled="disabled"
+          {% endif %}
+          href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/pygments/{{ PYGMENTS_STYLE_DARK or PYGMENTS_STYLE or 'monokai' }}.min.css">
+  {% endif %}
+  {% if THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE or not THEME_COLOR or THEME_COLOR == "light" %}
+    <link id="pygments-light-theme" rel="stylesheet" type="text/css"
+          {% if THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE %}
+            {% if THEME_COLOR|default("light") == "dark" %}
+              media="(prefers-color-scheme: light)"
+            {% else %}
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            {% endif %}
+          {% endif %}
+          href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/pygments/{{ PYGMENTS_STYLE|default('github') }}.min.css">
+  {% endif %}
+
+  {% if PLUGINS and ('tipue_search' in PLUGINS or 'pelican.plugins.tipue_search' in PLUGINS) %}
+      {% if USE_GOOGLE_FONTS != False %}
+      <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400|Open+Sans" rel="stylesheet">
+      {% endif %}
+    <link rel="stylesheet" 
+    href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/tipuesearch/tipuesearch.min.css" />
+  {% endif %}
+
+  {% if 'pelican.plugins.search' in PLUGINS %}
+  <link rel="stylesheet"
+        type="text/css"
+        href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/stork/stork.css" />
+  {% endif %}
+
+  <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/font-awesome/css/fontawesome.css">
+  <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/font-awesome/css/brands.css">
+  <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/font-awesome/css/solid.css">
+
+  {% if CUSTOM_CSS %}
+  <link rel="stylesheet" type="text/css" href="{% if main_siteurl is defined %}{{ main_site }}{% else %}{{ SITEURL }}{% endif %}/{{ CUSTOM_CSS }}">
+  {% endif %}
+
+  {# Favicon set (files live in content/extra/root) #}
+  <link rel="icon" href="{{ SITEURL }}/favicon.ico" sizes="48x48">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ SITEURL }}/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ SITEURL }}/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ SITEURL }}/apple-touch-icon.png">
+  <link rel="manifest" href="{{ SITEURL }}/site.webmanifest">
+  <meta name="theme-color" content="#1a0028">
+
+  {# Loading state for embedded forms (Jotform booking form, MailerLite) #}
+  <style>
+    .un-embed-loading { display:flex; align-items:center; gap:.75rem; padding:1.25rem; margin:1rem 0;
+      border:1px dashed #b9a3cf; border-radius:6px; color:#4a1878; font-weight:600; }
+    .un-embed-loading::before { content:""; width:1.25rem; height:1.25rem; flex:none; border-radius:50%;
+      border:3px solid #d9cce6; border-top-color:#4a1878; animation:un-spin .8s linear infinite; }
+    .un-embed-loading.is-done { display:none; }
+    @keyframes un-spin { to { transform:rotate(360deg); } }
+    @media (prefers-reduced-motion: reduce) { .un-embed-loading::before { animation:none; } }
+  </style>
+
+  {% include "partial/color.html" %}
+
+  {% include "partial/feed.html" %}
+
+  {% include "partial/ga.html" %}
+  {% include "partial/ggst.html" %}
+
+
+  {% include "partial/plausible.html" %}
+
+  {% if PGP_KEY %}
+    <link rel="pgpkey" type="application/pgp-keys" href="{{ SITEURL }}/{{ PGP_KEY }}">
+  {% endif %}
+
+  {% if WEBMENTION_URL %}
+    <link rel="webmention" href="{{ WEBMENTION_URL }}" />
+  {% endif %}
+
+  {% if PINGBACK_URL %}
+    <link rel="pingback" href="{{ PINGBACK_URL }}" />
+  {% endif %}
+
+  {% if not PLUGINS or 'seo' not in PLUGINS %}
+    {% if REL_CANONICAL %}
+      {% if page %}
+        <link rel="canonical" href="{{ SITEURL }}/{{ page.url }}">
+      {% elif article %}
+        <link rel="canonical" href="{{ SITEURL }}/{{ article.url }}">
+      {% elif page_name == 'index' and not articles_previous_page %}
+        <link rel="canonical" href="{{ SITEURL }}">
+      {% elif author or category or tag or page_name == 'index' %}
+        <link rel="canonical" href="{{ SITEURL }}/{{ articles_page.url }}">
+      {% else %}
+        <link rel="canonical" href="{{ SITEURL }}/{{ output_file }}">
+      {% endif %}
+    {% endif %}
+  {% endif %} 
+
+  {# --- Unbound Nomad SEO head: title, description, Open Graph, Twitter ---
+     Pages and articles can override with Meta_title:, Description: and Og_image: metadata. #}
+  {% if article is defined and article %}{% set seo = article %}
+  {% elif page is defined and page %}{% set seo = page %}
+  {% else %}{% set seo = None %}{% endif %}
+
+  {% if seo %}
+    {% set seo_title = seo.metadata.get('meta_title') or (seo.title|striptags ~ ' | ' ~ SITENAME) %}
+    {# auto description: summary minus everything up to the first heading when that heading comes
+       before any paragraph (posts open with a hero block that repeats the title) #}
+    {% set ns = namespace(sum=seo.summary) %}
+    {% for _h in ['</h1>', '</h2>'] %}
+      {% if _h in ns.sum and ('<p' not in ns.sum or ns.sum.index(_h) < ns.sum.index('<p')) %}
+        {% set ns.sum = ns.sum.split(_h, 1)[1] %}
+      {% endif %}
+    {% endfor %}
+    {% set ns.sum = ns.sum|striptags %}
+    {% if ns.sum.startswith('An unforgettable motorcycle experience. ') %}{% set ns.sum = ns.sum[40:] %}{% endif %}
+    {% set seo_desc = seo.metadata.get('description') or (ns.sum|truncate(158, False, '…', 5)) %}
+    {% set seo_url = SITEURL ~ '/' ~ seo.url %}
+    {% set seo_img = seo.metadata.get('og_image') or seo.metadata.get('cover') or seo.metadata.get('featured_image') %}
+    {% if not seo_img and '<img' in seo.content %}
+      {% set _tail = seo.content.split('<img', 1)[1].split('>', 1)[0] %}
+      {% if 'src="' in _tail %}{% set seo_img = _tail.split('src="', 1)[1].split('"', 1)[0] %}{% endif %}
+    {% endif %}
+  {% elif page_name == 'index' %}
+    {% set seo_title = SITE_META_TITLE if not articles_page or articles_page.number == 1
+                       else 'Rides & Stories – Page ' ~ articles_page.number ~ ' | ' ~ SITENAME %}
+    {% set seo_url = SITEURL ~ '/' ~ (articles_page.url if articles_page and articles_page.number > 1 else '') %}
+  {% elif tag is defined and tag %}
+    {% set seo_title = 'Tagged ' ~ tag.name ~ ' | ' ~ SITENAME %}
+  {% elif category is defined and category %}
+    {% set seo_title = category.name ~ ' | ' ~ SITENAME %}
+  {% elif author is defined and author %}
+    {% set seo_title = 'Posts by ' ~ author.name ~ ' | ' ~ SITENAME %}
+  {% endif %}
+  {% if seo_title and articles_page is defined and articles_page and articles_page.number > 1 and page_name != 'index' %}
+    {% set seo_title = seo_title.replace(' | ', ' – Page ' ~ articles_page.number ~ ' | ', 1) %}
+  {% endif %}
+  {% set seo_desc = seo_desc or SITEDESCRIPTION %}
+  {% set seo_url = seo_url or (SITEURL ~ '/' ~ output_file) %}
+  {% set seo_img = seo_img or OG_DEFAULT_IMAGE %}
+  {% if not seo_img.startswith('http') %}{% set seo_img = SITEURL ~ '/' ~ seo_img.lstrip('/') %}{% endif %}
+
+  <title>{% if seo_title %}{{ seo_title|escape }}{% else %}{{ SITENAME }}{% block title %}{% endblock %}{% endif %}</title>
+  <meta name="author" content="{{ AUTHOR }}" />
+  <meta name="description" content="{{ seo_desc|escape }}" />
+  <meta property="og:site_name" content="{{ SITENAME }}" />
+  <meta property="og:locale" content="{{ OG_LOCALE or 'en_US' }}" />
+  <meta property="og:type" content="{{ 'article' if article is defined and article else 'website' }}" />
+  <meta property="og:title" content="{{ (seo.title|striptags if seo else seo_title or SITENAME)|escape }}" />
+  <meta property="og:description" content="{{ seo_desc|escape }}" />
+  <meta property="og:url" content="{{ seo_url }}" />
+  <meta property="og:image" content="{{ seo_img }}" />
+  {% if seo_img.endswith(OG_DEFAULT_IMAGE) %}
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  {% endif %}
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ (seo.title|striptags if seo else seo_title or SITENAME)|escape }}" />
+  <meta name="twitter:description" content="{{ seo_desc|escape }}" />
+  <meta name="twitter:image" content="{{ seo_img }}" />
+  {% if article is defined and article %}
+  <meta property="article:published_time" content="{{ article.date.isoformat() }}" />
+  {% if article.modified %}<meta property="article:modified_time" content="{{ article.modified.isoformat() }}" />{% endif %}
+  {% endif %}
+  {% block meta %}{% endblock %}
+
+  {% if GOOGLE_ADSENSE and GOOGLE_ADSENSE.page_level_ads %}
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+      google_ad_client: "{{ GOOGLE_ADSENSE.ca_id }}",
+      enable_page_level_ads: true
+    });
+  </script>
+  {% endif %}
+
+  {% include "partial/gtm.html" %}
+  {% include "partial/clarity.html" %}
+
+  <!-- MailerLite Universal -->
+  <script>
+    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+    .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+    ml('account', '2361646');
+  </script>
+  <!-- End MailerLite Universal -->
+</head>
+<body {% if not THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE %}class="{{ THEME_COLOR|default('light') }}-theme"{% endif %}>
+  {% include "partial/gtm_noscript.html" %}
+
+  {% include "partial/sidebar.html" %}
+
+  <main>
+    {% if GOOGLE_ADSENSE and GOOGLE_ADSENSE.ads.main_menu %}
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <ins class="adsbygoogle ads-responsive"
+           data-ad-client="{{ GOOGLE_ADSENSE.ca_id }}"
+           data-ad-slot="{{ GOOGLE_ADSENSE.ads.main_menu }}"></ins>
+      <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    {% endif %}
+
+    {% include "partial/nav.html" %}
+
+    {% block content %}
+    {% endblock %}
+
+    {% include "partial/footer.html" %}
+  </main>
+
+  {% include "partial/jsonld.html" %}
+  {% include "partial/guages.html" %}
+  {% include "partial/addthis.html" %}
+  {% include "partial/matomo.html" %}
+  {% include 'partial/github.html' %}
+  {% include 'partial/stork.html' %}
+  {% include 'partial/cf_analytics.html' %}
+
+  {# Clears .un-embed-loading placeholders once the embed they watch (data-watch selector) has loaded.
+     After 15s with nothing, offers the data-fallback link instead of spinning forever. #}
+  <script>
+    document.querySelectorAll('.un-embed-loading[data-watch]').forEach(function (box) {
+      var done = function () { box.classList.add('is-done'); };
+      var check = function () {
+        var el = document.querySelector(box.dataset.watch);
+        if (!el) return false;
+        if (el.tagName === 'IFRAME') { el.addEventListener('load', done); } else { done(); }
+        return true;
+      };
+      if (!check()) {
+        var mo = new MutationObserver(function () { if (check()) mo.disconnect(); });
+        mo.observe(document.body, { childList: true, subtree: true });
+      }
+      setTimeout(function () {
+        if (box.classList.contains('is-done')) return;
+        // embed is there (its load event may have fired before we listened): just clear the spinner
+        if (document.querySelector(box.dataset.watch) || !box.dataset.fallback) return done();
+        box.innerHTML = 'Still loading? <a href="' + box.dataset.fallback + '" target="_blank" rel="noopener">Open the form in a new tab</a>.';
+      }, 15000);
+    });
+  </script>
+
+  {% block additional_js %}{% endblock %}
+</body>
+</html>

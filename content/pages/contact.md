@@ -4,6 +4,7 @@ Author: The Unbound Nomad
 Category: Page
 Slug: contact
 Status: published
+Description: Questions about guided rides, trip planning, or events? Reach The Unbound Nomad here, or use the booking form to plan your ride.
 
 For booking rides, trip planning, or events, please use the Booking Form.
 

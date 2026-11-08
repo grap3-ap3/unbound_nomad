@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+{# Rendered to sitemap.xml (DIRECT_TEMPLATES + SITEMAP_SAVE_AS in pelicanconf.py).
+   `pages` and `articles` already leave out hidden pages and drafts. #}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{{ SITEURL }}/</loc>
+{% if articles %}
+    <lastmod>{{ (articles[0].modified or articles[0].date).strftime('%Y-%m-%d') }}</lastmod>
+{% endif %}
+  </url>
+{% for p in pages %}
+  <url>
+    <loc>{{ SITEURL }}/{{ p.url }}</loc>
+{% if p.modified or p.date %}
+    <lastmod>{{ (p.modified or p.date).strftime('%Y-%m-%d') }}</lastmod>
+{% endif %}
+  </url>
+{% endfor %}
+{% for a in articles %}
+  <url>
+    <loc>{{ SITEURL }}/{{ a.url }}</loc>
+    <lastmod>{{ (a.modified or a.date).strftime('%Y-%m-%d') }}</lastmod>
+  </url>
+{% endfor %}
+</urlset>

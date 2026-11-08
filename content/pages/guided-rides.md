@@ -5,6 +5,7 @@ Category: Page
 Tags: Motorcycle rides, Guided rides, Micro-adventures
 Slug: guided-rides
 Status: published
+Description: Guided motorcycle rides with The Unbound Nomad: the best roads, no planning stress, and a day that feels bigger than the miles. You show up. I handle the rest.
 
 *Ride. Reset. Return different.*
 

@@ -5,6 +5,7 @@ Category: Page
 Tags: Motorcycle trips, Trip planning, Touring
 Slug: concierge-trip-planning
 Status: published
+Description: Concierge motorcycle trip planning: you bring the idea, I build a rideable, dialed-in plan with the best roads, fuel stops, and bike-friendly stays.
 
 *Your dream ride. My planning. Zero stress.*
 

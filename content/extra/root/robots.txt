@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /drafts/
+Disallow: /search.html
+
+Sitemap: https://unboundnomad.com/sitemap.xml

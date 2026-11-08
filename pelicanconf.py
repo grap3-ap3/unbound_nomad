@@ -7,8 +7,13 @@ STATIC_PATHS = ['images', 'extra']
 
 EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path': 'static/custom.css'},
-    'extra/favicon.png': {'path': 'favicon.png'},
 }
+# Everything in content/extra/root is copied to the site root as-is:
+# CNAME (keeps the custom domain on GitHub Pages), robots.txt, favicon set, web manifest.
+import os
+_ROOT_EXTRAS = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'content', 'extra', 'root')
+for _f in os.listdir(_ROOT_EXTRAS):
+    EXTRA_PATH_METADATA['extra/root/' + _f] = {'path': _f}
 
 # Flex supports loading a custom CSS file via CUSTOM_CSS
 CUSTOM_CSS = 'static/custom.css'  # :contentReference[oaicite:1]{index=1}
@@ -29,8 +34,21 @@ TIMEZONE = 'UTC'
 DEFAULT_LANG = 'en'
 #THEME = '..\\Flex'
 THEME = 'D:\\Dropbox\\projects\\code\\github\\pelican-themes\\Flex'
-SITELOGO = '/images/logo.png'
+SITELOGO = '/images/logo-web.jpg'
 FAVICON = 'favicon.png'
+
+# --- SEO / sharing ---
+# Pages and articles can override these with `Meta_title:`, `Description:` and `Og_image:` metadata.
+SITE_META_TITLE = 'The Unbound Nomad | Guided Motorcycle Rides & Trip Planning'
+SITEDESCRIPTION = ("Guided motorcycle rides, concierge trip planning, and rider resources from "
+                   "The Unbound Nomad. You show up. We handle the rest.")
+OG_DEFAULT_IMAGE = 'images/og-default.jpg'
+REL_CANONICAL = True
+ROBOTS = 'index, follow'
+
+# sitemap.xml is rendered from theme_overrides/templates/sitemap.html
+DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', 'sitemap']
+SITEMAP_SAVE_AS = 'sitemap.xml'
 # Feed generation is usually not desired when developing
 #FEED_ALL_ATOM = None
 #CATEGORY_FEED_ATOM = None

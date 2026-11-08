@@ -13,6 +13,7 @@ No spam, no daily noise. Just the good stuff, when there's something worth sendi
 
 Want in when it launches?
 
+<div class="un-embed-loading" data-watch=".ml-embedded form, .ml-embedded iframe">Loading the sign-up form…</div>
 <div class="ml-embedded" data-form="Mpv8Be"></div>
 
 ---

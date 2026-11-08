@@ -5,6 +5,7 @@ Category: Rides
 Tags: Motorcycles, Adventure, Tours, Road Trip, Southwest, Monument Valley
 Slug: route-66-high-desert-part-2
 Status: published
+Description: Navajo Bridge, Horseshoe Bend, Monument Valley, and Four Corners - the ride home through the American Southwest delivered some of the most breathtaking miles of the entire trip.
 <!-- Summary: Navajo Bridge, Horseshoe Bend, Monument Valley, and Four Corners - the ride home through the American Southwest delivered some of the most breathtaking miles of the entire trip. -->
 
 <!-- ========================= -->

@@ -5,6 +5,7 @@ Category: Rides
 Tags: Motorcycles, Adventure, Road Trip, Durango, Rally, Community
 Slug: route-66-durango-rendezvous-part-3
 Status: published
+Description: Eight nights at a casino on the Southern Ute Reservation, a bucket list road, a rider development course, and an honest look at what it feels like to be an outsider at a motorcycle rally.
 <!-- Summary: Eight nights at a casino on the Southern Ute Reservation, a bucket list road, a rider development course, and an honest look at what it feels like to be an outsider at a motorcycle rally. -->
 
 <!-- ========================= -->
