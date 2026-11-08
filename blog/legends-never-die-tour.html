@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="HandheldFriendly" content="True" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="robots" content="" />
+  <meta name="robots" content="index, follow" />
 
   <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,700;1,400&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
 
@@ -24,8 +24,22 @@
 
   <link rel="stylesheet" type="text/css" href="https://unboundnomad.com/static/custom.css">
 
-  <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
-  <link rel="icon" href="favicon.png" type="image/x-icon">
+  <link rel="icon" href="https://unboundnomad.com/favicon.ico" sizes="48x48">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://unboundnomad.com/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://unboundnomad.com/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://unboundnomad.com/apple-touch-icon.png">
+  <link rel="manifest" href="https://unboundnomad.com/site.webmanifest">
+  <meta name="theme-color" content="#1a0028">
+
+  <style>
+    .un-embed-loading { display:flex; align-items:center; gap:.75rem; padding:1.25rem; margin:1rem 0;
+      border:1px dashed #b9a3cf; border-radius:6px; color:#4a1878; font-weight:600; }
+    .un-embed-loading::before { content:""; width:1.25rem; height:1.25rem; flex:none; border-radius:50%;
+      border:3px solid #d9cce6; border-top-color:#4a1878; animation:un-spin .8s linear infinite; }
+    .un-embed-loading.is-done { display:none; }
+    @keyframes un-spin { to { transform:rotate(360deg); } }
+    @media (prefers-reduced-motion: reduce) { .un-embed-loading::before { animation:none; } }
+  </style>
 
 
   <link href="https://unboundnomad.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="The Unbound Nomad Atom">
@@ -37,31 +51,29 @@
 
 
 
+        <link rel="canonical" href="https://unboundnomad.com/blog/legends-never-die-tour.html">
  
 
-<meta name="author" content="The Unbound Nomad" />
-<meta name="description" content="Legends Never Die Tour A bucket list journey. Some rides are about distance. Some are about destinations. This one is about legacy. The Legends Never Die Tour is a cross-country ride along historic Route 66 - a road that helped define American freedom, motorcycle culture, and the idea that the journey …" />
+
+
+  <title>Legends Never Die Tour | The Unbound Nomad</title>
+  <meta name="author" content="The Unbound Nomad" />
+  <meta name="description" content="A once-in-a-generation ride across Route 66 honoring the machines, the road, and the riders who built American motorcycling." />
+  <meta property="og:site_name" content="The Unbound Nomad" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Legends Never Die Tour" />
+  <meta property="og:description" content="A once-in-a-generation ride across Route 66 honoring the machines, the road, and the riders who built American motorcycling." />
+  <meta property="og:url" content="https://unboundnomad.com/blog/legends-never-die-tour.html" />
+  <meta property="og:image" content="https://unboundnomad.com/images/legends-never-die/rt66.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Legends Never Die Tour" />
+  <meta name="twitter:description" content="A once-in-a-generation ride across Route 66 honoring the machines, the road, and the riders who built American motorcycling." />
+  <meta name="twitter:image" content="https://unboundnomad.com/images/legends-never-die/rt66.jpg" />
+  <meta property="article:published_time" content="2025-12-26T12:00:00+00:00" />
 <meta name="keywords" content="Motorcycles, Route 66, Indian Motorcycle, Tours, Adventure">
 
 
-  <meta property="og:site_name" content="The Unbound Nomad"/>
-  <meta property="og:title" content="Legends Never Die Tour"/>
-  <meta property="og:description" content="Legends Never Die Tour A bucket list journey. Some rides are about distance. Some are about destinations. This one is about legacy. The Legends Never Die Tour is a cross-country ride along historic Route 66 - a road that helped define American freedom, motorcycle culture, and the idea that the journey …"/>
-  <meta property="og:locale" content="en_US"/>
-  <meta property="og:url" content="https://unboundnomad.com/blog/legends-never-die-tour.html"/>
-  <meta property="og:type" content="article"/>
-  <meta property="article:published_time" content="2025-12-26 12:00:00+00:00"/>
-  <meta property="article:modified_time" content=""/>
-  <meta property="article:author" content="https://unboundnomad.com/author/the-unbound-nomad.html">
-  <meta property="article:section" content="Rides"/>
-  <meta property="article:tag" content="Motorcycles"/>
-  <meta property="article:tag" content="Route 66"/>
-  <meta property="article:tag" content="Indian Motorcycle"/>
-  <meta property="article:tag" content="Tours"/>
-  <meta property="article:tag" content="Adventure"/>
-  <meta property="og:image" content="/images/logo.png">
-
-  <title>The Unbound Nomad &ndash; Legends Never Die Tour</title>
 
 
 
@@ -80,7 +92,7 @@
 <aside>
   <div>
     <a href="https://unboundnomad.com/">
-      <img src="/images/logo.png" alt="" title="">
+      <img src="/images/logo-web.jpg" alt="The Unbound Nomad logo" title="The Unbound Nomad" width="160" height="160">
     </a>
 
     <h1>
@@ -189,7 +201,7 @@
 ">
 
   <!-- Background Image -->
-  <img src="https://unboundnomad.com/images/legends-never-die/rt66.jpg"
+  <img loading="lazy" decoding="async" src="https://unboundnomad.com/images/legends-never-die/rt66.jpg"
        alt="Legends Never Die Tour Hero"
        style="
          width:100%;
@@ -252,7 +264,7 @@ And it sure as hell isn’t a cookie-cutter tour.</p>
 <p>It’s a rolling tribute to the riders, machines, and stories that came before us - and a reminder that the road is still calling.</p>
 <hr>
 <h2>📍 The Ride at a Glance</h2>
-<p><img alt="Route 66 sign" src="https://unboundnomad.com/images/legends-never-die/sign.jpg"></p>
+<p><img loading="lazy" decoding="async" alt="Route 66 sign" src="https://unboundnomad.com/images/legends-never-die/sign.jpg"></p>
 <ul>
 <li><strong>Route:</strong> Historic Route 66  </li>
 <li><strong>Dates:</strong> <strong>May 25 – June 3, 2026</strong>  </li>
@@ -262,7 +274,7 @@ And it sure as hell isn’t a cookie-cutter tour.</p>
 <p>From the Midwest to the Pacific, this ride follows one of the most iconic highways in the world - through small towns, wide open stretches, and places that still remember when motorcycles meant something a little different than they do today.</p>
 <hr>
 <h2>Why This Ride Matters</h2>
-<p><img alt="Route 66 fuel station" src="https://unboundnomad.com/images/legends-never-die/fuel-station.jpg"></p>
+<p><img loading="lazy" decoding="async" alt="Route 66 fuel station" src="https://unboundnomad.com/images/legends-never-die/fuel-station.jpg"></p>
 <p>Route 66 isn’t just pavement - it’s a timeline.</p>
 <p>It carried soldiers home.<br>
 It carried dreamers west.<br>
@@ -273,7 +285,7 @@ No rush.<br>
 Just miles, stories, and machines doing what they were built to do.</p>
 <hr>
 <h2>Who This Ride Is For</h2>
-<p><img alt="Motorcycle touring riders on the road" src="https://unboundnomad.com/images/legends-never-die/who-for.jpg"></p>
+<p><img loading="lazy" decoding="async" alt="Motorcycle touring riders on the road" src="https://unboundnomad.com/images/legends-never-die/who-for.jpg"></p>
 <p>This ride is for you if:</p>
 <ul>
 <li>You believe motorcycles are more than weekend toys  </li>
@@ -297,7 +309,7 @@ You <em>do</em> need to show up with the right mindset.</p>
 they’re built by the ones who ride.</p>
 <hr>
 <h2>Final Word</h2>
-<p><img alt="Motorcycle ride community meetup" src="https://unboundnomad.com/images/legends-never-die/final-word.webp"></p>
+<p><img loading="lazy" decoding="async" alt="Motorcycle ride community meetup" src="https://unboundnomad.com/images/legends-never-die/final-word.webp"></p>
 <p>Trends fade.<br>
 Roads crack.<br>
 Motorcycles come and go.</p>
@@ -326,6 +338,7 @@ They ride on.</p>
 <footer>
 	<p class="footer-links">
 		<a href="https://linktr.ee/unboundnomad" target="_blank" rel="noopener">Find Me Everywhere - linktr.ee/unboundnomad</a>
+		&middot; <a href="https://unboundnomad.com/pages/privacy-policy.html">Privacy Policy</a>
 	</p>
 	<p class = "credit">Copyright &copy 2020 - <script type="text/javascript">
 		document.write(new Date().getFullYear()); </script>
@@ -338,9 +351,35 @@ They ride on.</p>
   "@type" : "Blog",
   "name": " The Unbound Nomad ",
   "url" : "https://unboundnomad.com",
-  "image": "/images/logo.png",
-  "description": ""
+  "image": "/images/logo-web.jpg",
+  "description": "Guided motorcycle rides, concierge trip planning, and rider resources from The Unbound Nomad. You show up. We handle the rest."
 }
+</script><script defer
+  src='https://static.cloudflareinsights.com/beacon.min.js'
+  data-cf-beacon='{"token": "01d2bbfe5da541028c506d8e74e9bd34"}'>
 </script>
+
+  <script>
+    document.querySelectorAll('.un-embed-loading[data-watch]').forEach(function (box) {
+      var done = function () { box.classList.add('is-done'); };
+      var check = function () {
+        var el = document.querySelector(box.dataset.watch);
+        if (!el) return false;
+        if (el.tagName === 'IFRAME') { el.addEventListener('load', done); } else { done(); }
+        return true;
+      };
+      if (!check()) {
+        var mo = new MutationObserver(function () { if (check()) mo.disconnect(); });
+        mo.observe(document.body, { childList: true, subtree: true });
+      }
+      setTimeout(function () {
+        if (box.classList.contains('is-done')) return;
+        // embed is there (its load event may have fired before we listened): just clear the spinner
+        if (document.querySelector(box.dataset.watch) || !box.dataset.fallback) return done();
+        box.innerHTML = 'Still loading? <a href="' + box.dataset.fallback + '" target="_blank" rel="noopener">Open the form in a new tab</a>.';
+      }, 15000);
+    });
+  </script>
+
 </body>
 </html>

@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="HandheldFriendly" content="True" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="robots" content="" />
+  <meta name="robots" content="index, follow" />
 
   <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,700;1,400&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
 
@@ -24,8 +24,22 @@
 
   <link rel="stylesheet" type="text/css" href="https://unboundnomad.com/static/custom.css">
 
-  <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
-  <link rel="icon" href="favicon.png" type="image/x-icon">
+  <link rel="icon" href="https://unboundnomad.com/favicon.ico" sizes="48x48">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://unboundnomad.com/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://unboundnomad.com/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://unboundnomad.com/apple-touch-icon.png">
+  <link rel="manifest" href="https://unboundnomad.com/site.webmanifest">
+  <meta name="theme-color" content="#1a0028">
+
+  <style>
+    .un-embed-loading { display:flex; align-items:center; gap:.75rem; padding:1.25rem; margin:1rem 0;
+      border:1px dashed #b9a3cf; border-radius:6px; color:#4a1878; font-weight:600; }
+    .un-embed-loading::before { content:""; width:1.25rem; height:1.25rem; flex:none; border-radius:50%;
+      border:3px solid #d9cce6; border-top-color:#4a1878; animation:un-spin .8s linear infinite; }
+    .un-embed-loading.is-done { display:none; }
+    @keyframes un-spin { to { transform:rotate(360deg); } }
+    @media (prefers-reduced-motion: reduce) { .un-embed-loading::before { animation:none; } }
+  </style>
 
 
   <link href="https://unboundnomad.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="The Unbound Nomad Atom">
@@ -37,19 +51,27 @@
 
 
 
+        <link rel="canonical" href="https://unboundnomad.com/tag/packing.html">
  
 
-    <meta name="author" content="The Unbound Nomad" />
-    <meta name="description" content="" />
-  <meta property="og:site_name" content="The Unbound Nomad"/>
-  <meta property="og:type" content="blog"/>
-  <meta property="og:title" content="The Unbound Nomad"/>
-  <meta property="og:description" content=""/>
-  <meta property="og:locale" content="en_US"/>
-  <meta property="og:url" content="https://unboundnomad.com"/>
-  <meta property="og:image" content="/images/logo.png">
 
-  <title>The Unbound Nomad &ndash; Tag Packing</title>
+
+  <title>Tagged Packing | The Unbound Nomad</title>
+  <meta name="author" content="The Unbound Nomad" />
+  <meta name="description" content="Guided motorcycle rides, concierge trip planning, and rider resources from The Unbound Nomad. You show up. We handle the rest." />
+  <meta property="og:site_name" content="The Unbound Nomad" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Tagged Packing | The Unbound Nomad" />
+  <meta property="og:description" content="Guided motorcycle rides, concierge trip planning, and rider resources from The Unbound Nomad. You show up. We handle the rest." />
+  <meta property="og:url" content="https://unboundnomad.com/tag/packing.html" />
+  <meta property="og:image" content="https://unboundnomad.com/images/og-default.jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Tagged Packing | The Unbound Nomad" />
+  <meta name="twitter:description" content="Guided motorcycle rides, concierge trip planning, and rider resources from The Unbound Nomad. You show up. We handle the rest." />
+  <meta name="twitter:image" content="https://unboundnomad.com/images/og-default.jpg" />
 
 
 
@@ -68,7 +90,7 @@
 <aside>
   <div>
     <a href="https://unboundnomad.com/">
-      <img src="/images/logo.png" alt="" title="">
+      <img src="/images/logo-web.jpg" alt="The Unbound Nomad logo" title="The Unbound Nomad" width="160" height="160">
     </a>
 
     <h1>
@@ -150,6 +172,15 @@
 
 
 
+<section class="un-hero">
+  <h1>Stop Searching. Start Riding.</h1>
+  <p>Custom routes, guided rides, and expert planning for riders who want more road and less stress.</p>
+  <p class="un-hero-actions">
+    <a class="un-btn" href="https://unboundnomad.com/pages/booking.html">Book a Ride</a>
+    <a class="un-btn un-btn-ghost" href="https://unboundnomad.com/pages/guided-rides.html">See Guided Rides</a>
+  </p>
+</section>
+
 
 <article>
   <header>
@@ -178,7 +209,7 @@
 ">
 
   <!-- Background Image -->
-  <img src="https://unboundnomad.com/images/rider-readiness/hero.png"
+  <img loading="lazy" decoding="async" src="https://unboundnomad.com/images/rider-readiness/hero.png"
        alt="Rider Readiness System Hero"
        style="
          width:100%;
@@ -251,6 +282,7 @@ Some rides are serious.</p>
 <footer>
 	<p class="footer-links">
 		<a href="https://linktr.ee/unboundnomad" target="_blank" rel="noopener">Find Me Everywhere - linktr.ee/unboundnomad</a>
+		&middot; <a href="https://unboundnomad.com/pages/privacy-policy.html">Privacy Policy</a>
 	</p>
 	<p class = "credit">Copyright &copy 2020 - <script type="text/javascript">
 		document.write(new Date().getFullYear()); </script>
@@ -263,9 +295,35 @@ Some rides are serious.</p>
   "@type" : "Blog",
   "name": " The Unbound Nomad ",
   "url" : "https://unboundnomad.com",
-  "image": "/images/logo.png",
-  "description": ""
+  "image": "/images/logo-web.jpg",
+  "description": "Guided motorcycle rides, concierge trip planning, and rider resources from The Unbound Nomad. You show up. We handle the rest."
 }
+</script><script defer
+  src='https://static.cloudflareinsights.com/beacon.min.js'
+  data-cf-beacon='{"token": "01d2bbfe5da541028c506d8e74e9bd34"}'>
 </script>
+
+  <script>
+    document.querySelectorAll('.un-embed-loading[data-watch]').forEach(function (box) {
+      var done = function () { box.classList.add('is-done'); };
+      var check = function () {
+        var el = document.querySelector(box.dataset.watch);
+        if (!el) return false;
+        if (el.tagName === 'IFRAME') { el.addEventListener('load', done); } else { done(); }
+        return true;
+      };
+      if (!check()) {
+        var mo = new MutationObserver(function () { if (check()) mo.disconnect(); });
+        mo.observe(document.body, { childList: true, subtree: true });
+      }
+      setTimeout(function () {
+        if (box.classList.contains('is-done')) return;
+        // embed is there (its load event may have fired before we listened): just clear the spinner
+        if (document.querySelector(box.dataset.watch) || !box.dataset.fallback) return done();
+        box.innerHTML = 'Still loading? <a href="' + box.dataset.fallback + '" target="_blank" rel="noopener">Open the form in a new tab</a>.';
+      }, 15000);
+    });
+  </script>
+
 </body>
 </html>
