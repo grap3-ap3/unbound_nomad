@@ -1,6 +1,6 @@
 Title: MotoPin User Guide
 Date: 2026-10-03
-Modified: 2026-10-18
+Modified: 2026-11-08
 Author: The Unbound Nomad
 Category: Page
 Tags: MotoPin
@@ -8,7 +8,7 @@ Slug: motopin-user-guide
 Status: hidden
 Summary: How to use MotoPin, the one-tap GPS pin-drop app for motorcycle rides: dropping pins, trips, import and export, backups, and MotoPin Pro.
 
-*This guide covers MotoPin 1.0.*
+*This guide covers MotoPin 1.1.*
 
 Drop the MotoPin widget on your home screen, add its Quick Settings tile, or turn on its floating button — any one of them grabs your GPS location and saves it as a pin with a single tap, no need to stop, unlock your phone, and dig through apps mid-ride. Review, categorize, and export your pins once you're off the bike.
 
@@ -42,7 +42,7 @@ Every pin you drop starts out as a **New** pin — MotoPin doesn't ask you to na
 2. Tap a result if one matches what you meant to mark, or tap **Search Wider** to double the search radius (up to 8 miles).
 3. No named place? The list also offers the pin's **street address** (📫, e.g. "Near 1290 US-33, Logan, OH"). Tap it to name the pin by its address, right where you dropped it.
 4. If nothing matches, tap **📍 Not listed — pick the exact spot on the map…** to drag or tap the exact location yourself, then give it a name.
-5. If you'd rather not search at all, tap **Keep This Pin** to leave it at its dropped location.
+5. If none of the places fit, pick **None of these — keep the pin where I dropped it** (the last item in the list).
 6. Either way, you'll then pick a category (Fuel Stop, Scenic View, Campsite, Food / Rest, or Hazard — General is the catch-all) to finish resolving the pin. When the place you picked is obviously one of them (a gas station, a campground), that category is listed first, marked **(suggested)**.
 
 If Google can't be reached, MotoPin searches OpenStreetMap instead, which can take up to half a minute. If the search fails entirely (no signal), MotoPin says so plainly and offers **Retry**, **Pick on Map**, or **Use Address** rather than showing a misleading "no results."
@@ -119,6 +119,8 @@ Only points become pins. Recorded tracks and planned routes (the line of your ri
 ## Back up and restore (Pro) {: #back-up-and-restore-pro }
 
 Menu (⋮) → **Back Up Pins** saves every pin, trip, and custom category to one file through your share sheet — save it to Google Drive, email it to yourself, anywhere. After a phone swap or reinstall, Menu (⋮) → **Restore Pins** and pick that file. Restoring adds to what's already on the phone; it never deletes or replaces anything. Photos attached to pins aren't included in the backup file.
+
+Separately, if your phone has Android's own backup turned on, Android quietly saves a copy of MotoPin's data to your Google account and puts it back when you reinstall MotoPin or set up a new phone. If that happens, MotoPin tells you your pins came back, and ends any trip that was still in progress in that copy.
 
 ## Clear all pins {: #clear-all-pins }
 
