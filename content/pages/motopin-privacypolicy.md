@@ -75,4 +75,4 @@ We may update this policy from time to time. Changes will be posted on this page
 
 Questions about this policy? Reach us at privacy@unboundnomad.com.
 
-By using MotoPin, you consent to the terms outlined in this Privacy Policy.
+By using MotoPin, you consent to the terms outlined in this Privacy Policy. Your use of the app is also governed by the [MotoPin Terms of Service]({filename}motopin-terms.md).

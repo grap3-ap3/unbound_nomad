@@ -126,4 +126,4 @@ Open the menu (⋮) and choose **Clear All Pins** to wipe the list and start fre
 
 ---
 
-MotoPin keeps your pins on your phone; read the [MotoPin privacy policy]({filename}motopin-privacypolicy.md) for the details.
+MotoPin keeps your pins on your phone; read the [MotoPin privacy policy]({filename}motopin-privacypolicy.md) for the details. Using MotoPin is covered by the [MotoPin Terms of Service]({filename}motopin-terms.md).
