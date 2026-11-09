@@ -1,24 +1,73 @@
-Website lives here: D:\Dropbox\UnboundNomad\DevSite\
+HOW TO MANAGE UNBOUNDNOMAD.COM
+(updated 11/9/2026)
 
-Make changes in /content
+WHERE THINGS LIVE
+	Repo:   D:\Dropbox\projects\code\github\unbound_nomad   (GitHub: grap3-ap3/unbound_nomad)
+	Theme:  D:\Dropbox\projects\code\github\pelican-themes\Flex   (separate repo; THEME in pelicanconf.py points here)
 
-To process changes and test: 
-	cd D:\Dropbox\UnboundNomad\DevSite
-	pelican content -o output -s publishconf.py
-	cd D:\Dropbox\UnboundNomad\DevSite\output
+	Two branches, no others:
+	  content = Pelican source (pelicanconf.py, publishconf.py, content\, theme_overrides\). Make all changes here.
+	  master  = the built site that GitHub Pages serves at https://unboundnomad.com
+
+	content\articles\        blog posts (.md)
+	content\pages\           pages (.md). Status: published = in the sidebar menu; Status: hidden = live but not in the menu
+	content\images\          images
+	content\extra\custom.css site colors and styles
+	content\extra\root\      copied to the site root on every build: CNAME (keeps the custom domain),
+	                         robots.txt, favicons, site.webmanifest
+	theme_overrides\templates\  our versions of theme templates (page head/SEO tags, homepage banner,
+	                         footer, sidebar, sitemap). Edit these, not the Flex theme repo.
+
+	Useful page/post metadata:
+	  Status: published | hidden | draft
+	    published = live (pages also appear in the sidebar menu)
+	    hidden    = live at its URL but not listed (pages only; a hidden blog post is still public)
+	    draft     = not built at all, so it can't be seen on the site
+	  Description:  search-result text (about 150 characters)
+	  Meta_title:   overrides the browser-tab title
+	  Og_image:     share image, e.g. images/something.jpg
+	  Dates in the future are skipped by publishconf.py until that date arrives.
+
+PREVIEW LOCALLY (content branch checked out)
+	cd D:\Dropbox\projects\code\github\unbound_nomad
+	python -m pelican content -o output -s pelicanconf.py
+	cd output
 	python -m http.server
-	
-	
-CNAME file is a copy of the same file from GitHub.This file lives in the master document root.
+	then open http://localhost:8000
+	(pelicanconf.py uses relative links, so the preview works offline.
+	 publishconf.py uses full https://unboundnomad.com links, so its pages point at the live site.)
 
-To change the color of the sidebar: 
-	aside{background-color:#6B00A1
-		Original: #333
-		Complimentary to purple: #bb9306
-		
-	Aside hover color: #eee
-	
-	
-Color wheel help: https://www.canva.com/colors/color-wheel/
-MY Purple: #750AA8
-Complimentary green: #3DA80A
+PUBLISH
+	1. On content: commit and push.
+	2. Build for production:
+	     python -m pelican content -o output -s publishconf.py
+	3. Switch to master, copy everything in output\ into the repo root, commit, push.
+	   (output\ is ignored on both branches, so it never gets committed by accident.)
+	4. GitHub Pages deploys in a minute or two.
+
+	Known hiccups:
+	  - Errno 22 copy warnings: Dropbox "online-only" files in the theme's static folder.
+	    Set those folders to "Always keep on this device".
+	  - PermissionError WinError 32 cleaning output\: close Explorer windows in output\ or pause Dropbox.
+	  - Building to another drive (e.g. C:) fails; keep the output folder on D:.
+
+WHAT'S ON THE SITE
+	Sitemap:   https://unboundnomad.com/sitemap.xml   (built automatically)
+	Robots:    https://unboundnomad.com/robots.txt
+	404 page:  content\pages\404.md
+	Analytics: Cloudflare Web Analytics (token in publishconf.py)
+	Legal:     /pages/privacy-policy.html, /pages/terms.html,
+	           /pages/motopin-privacy-policy.html, /pages/motopin-terms.html (the Google Play terms URL)
+
+COLORS
+	Sidebar background (now): #1a0028   (set in content\extra\custom.css)
+	Brand purple: #603090   Button purple: #4a1878   Brand green: #90a800
+	Older notes:
+		aside{background-color:#6B00A1
+			Original: #333
+			Complimentary to purple: #bb9306
+		Aside hover color: #eee
+		MY Purple: #750AA8
+		Complimentary green: #3DA80A
+
+	Color wheel help: https://www.canva.com/colors/color-wheel/

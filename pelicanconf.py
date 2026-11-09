@@ -67,6 +67,9 @@ PAGE_PATHS = ['pages']
 PAGE_URL = 'pages/{slug}.html'
 PAGE_SAVE_AS = 'pages/{slug}.html'
 PAGES_ORDER_BY = 'date'
+# Drafts (Status: draft) are not written to the site at all, so they can't be viewed by URL
+DRAFT_SAVE_AS = ''
+DRAFT_PAGE_SAVE_AS = ''
 #DIRECT_TEMPLATES = ['index']
 #PAGINATED_TEMPLATES = ['index']
 #TEMPLATE_PAGES = {'index': 'blog/index.html'}
