@@ -108,6 +108,22 @@ Use it before every ride. Refine your setup. Roll out confident.
 
 ---
 
+# MotoPin: One-Tap GPS Pins
+
+See something worth remembering mid-ride? One tap drops a GPS pin, and MotoPin sorts out what it was after the ride: nearby places, categories, trips, and GPX or KML export. Free for up to 5 pins; Pro is a one-time purchase. Android only for now.
+
+<p style="margin-top:1rem;">
+  <a href="https://play.google.com/store/apps/details?id=com.motopin.app" target="_blank" rel="noopener" class="un-btn">
+    Get MotoPin on Google Play &rarr;
+  </a>
+</p>
+
+<p style="margin-top:0.5rem;font-size:0.9rem;">
+  <a href="/pages/motopin.html">Learn more about MotoPin</a>
+</p>
+
+---
+
 # Ohio's Windy 9: Free Rider's Guide
 
 Nine routes. 830+ miles. Southeast Ohio's finest roads - profiled from personal saddle time on every mile.

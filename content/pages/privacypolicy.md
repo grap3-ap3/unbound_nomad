@@ -7,7 +7,7 @@ Slug: privacy-policy
 Status: hidden
 Description: How The Unbound Nomad website handles your information: booking and newsletter forms, cookie-free analytics, and the third-party services the site uses.
 
-Last updated: 11/8/2026
+Last updated: 11/9/2026
 
 This policy covers the website at unboundnomad.com, run by The Unbound Nomad (Phil Grimes). It explains what information the site collects, why, and who else handles it. The MotoPin app has its own [MotoPin Privacy Policy](/pages/motopin-privacy-policy.html). The rules for using the site, services, and MotoPin are in the [Terms of Service](/pages/terms.html).
 
@@ -29,10 +29,11 @@ This policy covers the website at unboundnomad.com, run by The Unbound Nomad (Ph
 - **Analytics.** The site uses Cloudflare Web Analytics to count visits and see which pages are read. It doesn't use cookies and doesn't track you across other websites. I only see totals, not who you are.
 - **Hosting.** The site is hosted on GitHub Pages. Like any web server, GitHub may log basic request details such as your IP address for security and operations.
 - **Fonts and site scripts.** Some text styles load from Google Fonts, and MailerLite's script loads on every page so its sign-up forms work. Both services receive your IP address and browser details when your browser contacts them, and MailerLite may set cookies for its forms.
+- **Embedded videos.** Some posts embed YouTube videos using YouTube's privacy-enhanced mode (youtube-nocookie.com). YouTube receives your IP address and browser details when the player loads, and may set cookies or similar storage once you press play.
 
 ## Third-party services
 
-These companies handle parts of the site and follow their own privacy policies: Jotform (booking form), MailerLite (newsletter), Gumroad and Square (payments), Cloudflare (analytics), GitHub (hosting), and Google (fonts). Links to Instagram, Facebook, Linktree, and other sites take you off unboundnomad.com, and those sites have their own policies.
+These companies handle parts of the site and follow their own privacy policies: Jotform (booking form), MailerLite (newsletter), Gumroad and Square (payments), Cloudflare (analytics), GitHub (hosting), and Google (fonts and embedded YouTube videos). Links to Instagram, Facebook, Linktree, and other sites take you off unboundnomad.com, and those sites have their own policies.
 
 ## How I use your information
 

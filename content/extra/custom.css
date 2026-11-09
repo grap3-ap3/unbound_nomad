@@ -280,3 +280,48 @@ main article img {
   .un-hero { padding: 1.5rem 1rem 1.25rem; }
   .un-hero h1 { font-size: 1.6rem; }
 }
+
+/* =========================================================
+   Screenshot / photo rows and video embeds (pages + posts)
+   ========================================================= */
+
+.un-shots {
+  display: flex;
+  gap: 0.75rem;
+  margin: 1.5rem 0;
+}
+.un-shots img {
+  flex: 1;
+  min-width: 0;
+  height: auto;
+  border-radius: 6px;
+}
+@media (max-width: 480px) {
+  .un-shots { gap: 0.4rem; }
+}
+
+.un-video {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  margin: 1.5rem 0;
+  background: #1a0028;
+  border-radius: 6px;
+  overflow: hidden;
+}
+.un-video iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* Homepage hero: small MotoPin line under the buttons */
+.un-hero-note {
+  font-size: 0.9rem;
+  margin-top: 1rem !important;
+}
+.un-hero-note a {
+  color: var(--unbound-secondary);
+  font-weight: 600;
+}
