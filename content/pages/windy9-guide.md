@@ -5,7 +5,7 @@ Summary: A free rider's guide to all nine of Ohio's Windy 9 motorcycle routes â€
 
 <!-- Hero CTA Band -->
 <div style="text-align:center;padding:2rem 1rem;background:linear-gradient(135deg,#1a0028 0%,#2d0050 100%);margin:0 -1rem 2.5rem;border-radius:6px;">
-  <p style="color:rgba(255,255,255,0.88);font-size:1.1rem;max-width:640px;margin:0 auto 1.75rem;line-height:1.6;">Nine routes. 830+ miles. Southeast Ohio's finest roads - profiled by a rider who's logged every mile of them.</p>
+  <p style="color:rgba(255,255,255,0.88);font-size:1.1rem;max-width:640px;margin:0 auto 1.75rem;line-height:1.6;">Nine routes. 830+ miles. Southeast Ohio's finest roads - profiled by a biker who's logged every mile of them.</p>
   <a href="https://unboundnomad.gumroad.com/l/qbooxq"
      class="un-btn"
      style="font-size:1.05rem;padding:0.85rem 2rem;">
@@ -29,7 +29,7 @@ Summary: A free rider's guide to all nine of Ohio's Windy 9 motorcycle routes â€
 <!-- About Phil -->
 <section style="max-width:700px;margin:0 auto 3rem;">
   <h2>Who Wrote This</h2>
-  <p>I'm Phil, the rider behind The Unbound Nomad. I've been on two wheels for over two decades - long hauls, short rips, and everything in between. The Windy 9 has given me some of my best riding days anywhere in the country. I wrote this guide because I wanted riders to have the intel I wish I'd had the first time I went out there.</p>
+  <p>I'm Phil, the biker behind The Unbound Nomad. I've been on two wheels for over two decades - long hauls, short rips, and everything in between. The Windy 9 has given me some of my best riding days anywhere in the country. I wrote this guide because I wanted riders to have the intel I wish I'd had the first time I went out there.</p>
 </section>
 
 ---

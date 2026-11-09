@@ -120,7 +120,7 @@ This is motorcycling the way it’s meant to feel.
    Riding style, timeline, preferences, and must-see areas  
 
 3. **I build your ride**  
-   Routes, pacing, stops, and details-planned by a rider who’s already done the miles  
+   Routes, pacing, stops, and details-planned by a biker who’s already done the miles  
 
 4. **You hit the road**  
    Ride with clarity and confidence, knowing the day is already dialed in  

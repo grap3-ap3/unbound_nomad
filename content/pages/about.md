@@ -4,7 +4,7 @@ Author: The Unbound Nomad
 Category: Page
 Slug: about
 Status: published
-Description: Meet Phil, the rider behind The Unbound Nomad. Two decades on two wheels, and a guide to better roads, intentional rides, and stories worth telling.
+Description: Meet Phil, the biker behind The Unbound Nomad. Two decades on two wheels, and a guide to better roads, intentional rides, and stories worth telling.
 
 <div style="max-width:1000px; margin:0 auto 2rem auto; display:flex; flex-wrap:wrap; gap:1.5rem; align-items:center;">
 
@@ -40,7 +40,7 @@ Description: Meet Phil, the rider behind The Unbound Nomad. Two decades on two w
   <div style="flex:1 1 auto;">
     <p style="margin:0; font-weight:600;">Hi, I’m Phil.</p>
     <p style="margin:0.2rem 0 0 0; font-size:0.95rem; line-height:1.4;">
-      I’m the rider behind The Unbound Nomad - your guide to better roads, intentional rides, and stories you’ll still be telling years from now.
+      I’m the biker behind The Unbound Nomad - your guide to better roads, intentional rides, and stories you’ll still be telling years from now.
     </p>
   </div>
 
