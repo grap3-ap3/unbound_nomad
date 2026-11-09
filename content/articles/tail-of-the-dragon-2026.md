@@ -1,11 +1,11 @@
 Title: Tail of the Dragon 2026: Three Days, Four States, One Dragon
-Date: 2026-11-09 08:00
+Date: 2026-11-08 12:00
 Author: The Unbound Nomad
 Category: Blog
 Tags: Tail of the Dragon, Cherohala Skyway, North Carolina, Tennessee, Road Trip
 Slug: tail-of-the-dragon-2026
-Status: draft
-Description: Columbus to Robbinsville, NC and back in late October: the Tail of the Dragon, the Cherohala Skyway, and peak fall color with two friends.
+Status: published
+Description: Columbus to Robbinsville, NC and back in late October: the Tail of the Dragon, the Cherohala Skyway, and peak fall color with Chance and Dave.
 
 <p style="margin:0 0 1.5rem;">
   <img src="{static}/images/dragon2026/hero.jpg"
@@ -15,7 +15,7 @@ Description: Columbus to Robbinsville, NC and back in late October: the Tail of 
 
 Three days, four states, one Dragon.
 
-At the end of October, two friends and I rode from Columbus, Ohio to Robbinsville, North Carolina and back. It was our first group trip on the channel, and the whole thing was built around one Sunday: the Tail of the Dragon in the morning and the Cherohala Skyway in the afternoon.
+At the end of October, my buddies Chance and Dave and I rode from Columbus, Ohio to Robbinsville, North Carolina and back. It was our first group trip on the channel, and the whole thing was built around one Sunday: the Tail of the Dragon in the morning and the Cherohala Skyway in the afternoon.
 
 ## Getting there
 
