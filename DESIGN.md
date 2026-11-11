@@ -34,6 +34,7 @@ Defined in `content/extra/custom.css`. Use these; don't introduce new brand colo
 | Brand purple | `#603090` | links, accent (`--unbound-primary`) |
 | Brand green | `#90a800` | button text, hover accent, logo (`--unbound-secondary`) |
 | White | `#ffffff` | text on dark purple, button hover text |
+| Footer grey | `#666666` | footer text (readable on white, about 5.7:1) |
 
 Rules:
 - Text on dark purple is white (or white at 85–90% opacity for body copy).

@@ -325,3 +325,8 @@ main article img {
   color: var(--unbound-secondary);
   font-weight: 600;
 }
+
+/* Footer text: darker grey for legibility (theme default #999 is about 2.85:1; #666 is about 5.7:1) */
+footer p {
+  color: #666666;
+}
