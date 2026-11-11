@@ -6,7 +6,7 @@ Slug: terms
 Status: hidden
 Description: Terms of service for The Unbound Nomad LLC: the website, guided rides and concierge trip planning, and digital downloads.
 
-Last updated: 11/8/2026
+Last updated: 11/10/2026
 
 These terms cover your use of unboundnomad.com, the guided rides and trip-planning services offered here, and the digital products sold through this site. The MotoPin app is covered by its own [MotoPin Terms of Service](/pages/motopin-terms.html). They're an agreement between you and **The Unbound Nomad LLC**, an Ohio limited liability company ("The Unbound Nomad," "I," "me," "we," or "us"). By using the site, booking a service, or buying a product, you agree to these terms. If you don't agree, please don't use them.
 
@@ -48,7 +48,7 @@ The text, photos, videos, logos, route guides, and designs on this site and in M
 
 ## 7. Links and other services
 
-This site links to and uses other services, including Jotform, MailerLite, Gumroad, Square, Google Play, Instagram, and Facebook. Those services are run by other companies under their own terms and privacy policies, and I'm not responsible for them.
+This site links to and uses other services, including Jotform, MailerLite, Gumroad, Square, Amazon, Google Play, Instagram, and Facebook. Those services are run by other companies under their own terms and privacy policies, and I'm not responsible for them. Some links to Amazon may be affiliate links (see the [Privacy Policy](/pages/privacy-policy.html)). Prices, availability, shipping and returns for anything you buy there are Amazon's, not mine.
 
 ## 8. Disclaimers
 

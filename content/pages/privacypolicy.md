@@ -7,7 +7,7 @@ Slug: privacy-policy
 Status: hidden
 Description: How The Unbound Nomad website handles your information: booking and newsletter forms, cookie-free analytics, and the third-party services the site uses.
 
-Last updated: 11/9/2026
+Last updated: 11/10/2026
 
 This policy covers the website at unboundnomad.com, run by The Unbound Nomad (Phil Grimes). It explains what information the site collects, why, and who else handles it. The MotoPin app has its own [MotoPin Privacy Policy](/pages/motopin-privacy-policy.html). The rules for using the site, services, and MotoPin are in the [Terms of Service](/pages/terms.html).
 
@@ -33,7 +33,11 @@ This policy covers the website at unboundnomad.com, run by The Unbound Nomad (Ph
 
 ## Third-party services
 
-These companies handle parts of the site and follow their own privacy policies: Jotform (booking form), MailerLite (newsletter), Gumroad and Square (payments), Cloudflare (analytics), GitHub (hosting), and Google (fonts and embedded YouTube videos). Links to Instagram, Facebook, Linktree, and other sites take you off unboundnomad.com, and those sites have their own policies.
+These companies handle parts of the site and follow their own privacy policies: Jotform (booking form), MailerLite (newsletter), Gumroad and Square (payments), Cloudflare (analytics), GitHub (hosting), Google (fonts and embedded YouTube videos), and Amazon (affiliate links). Links to Instagram, Facebook, Linktree, and other sites take you off unboundnomad.com, and those sites have their own policies.
+
+## Affiliate links
+
+Some links on this site may be Amazon affiliate links. If you click one and buy something, Amazon pays me a small commission at no extra cost to you. When you click, you leave unboundnomad.com and go to Amazon, which may set cookies or similar storage so it can credit the sale to me. This site doesn't add any affiliate cookies of its own, and I don't receive your name or any personal details from Amazon. What Amazon does with your information is covered by Amazon's own privacy notice.
 
 ## How I use your information
 
