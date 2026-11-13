@@ -21,6 +21,8 @@ This is delivery day for my new 2026 Indian Roadmaster Dark Horse. Zero miles, c
           allowfullscreen></iframe>
 </div>
 
+**Update:** she has a name now. Meet Tȟašína Máni, "Tasha" for short.
+
 ## What's next
 
 Every mod and every upgrade on this bike happens on the channel, starting with the first round of upgrades. If you want to ride along, subscribe on [YouTube](https://www.youtube.com/channel/UCSwqxCzCY1_h9rxFOdAtbBg) and follow on [Instagram](https://www.instagram.com/unbound_nomad/) and [TikTok](https://www.tiktok.com/@unbound_nomad).
