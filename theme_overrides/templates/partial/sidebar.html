@@ -2,15 +2,17 @@
   <div>
     <a href="{{ SITEURL }}/">
       {% if SITELOGO %}
-      <img src="{{ SITELOGO }}" alt="{{ SITETITLE or SITENAME }} logo" title="{{ SITETITLE or SITENAME }}" width="160" height="160">
+      <img src="{{ SITELOGO }}" alt="{{ SITETITLE or SITENAME }} logo" title="{{ SITETITLE or SITENAME }}" width="140" height="140">
       {% else %}
       <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/profile.png" alt="{{ SITETITLE or SITENAME }} logo" title="{{ SITETITLE or SITENAME }}">
       {% endif %}
     </a>
 
+    {% if SITETITLE %}
     <h1>
       <a href="{{ SITEURL }}/">{{ SITETITLE }}</a>
     </h1>
+    {% endif %}
 
     {% if SITESUBTITLE %}
     <p>{{ SITESUBTITLE }}</p>

@@ -44,7 +44,7 @@
   {% endif %}
 
   <div>
-    {{ article.content|replace('<img ', '<img loading="lazy" decoding="async" ') }}
+    {{ article.content|replace('<img ', '<img loading="lazy" decoding="async" ')|replace('<img loading="lazy" decoding="async" ', '<img ', 1) }}
   </div>
   <div class="tag-cloud">
     <p>

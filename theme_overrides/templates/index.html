@@ -51,7 +51,7 @@
       {% if  article.featured_image %}
         <img src="{{ article.featured_image }}" alt="{{ article.title|striptags|escape }}" loading="lazy" decoding="async">
       {% endif %}
-      <div>{{ article.summary|replace('<img ', '<img loading="lazy" decoding="async" ') }}</div>
+      <div>{% if loop.first %}{{ article.summary }}{% else %}{{ article.summary|replace('<img ', '<img loading="lazy" decoding="async" ') }}{% endif %}</div>
       {% if article.content != article.summary %}
         <br>
         <a class="btn"

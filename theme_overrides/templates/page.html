@@ -22,7 +22,7 @@
   </header>
   <div>
     {% block before_content %}{% endblock %}
-    {% block page_content %}{{ page.content|replace('<img ', '<img loading="lazy" decoding="async" ') }}{% endblock %}
+    {% block page_content %}{{ page.content|replace('<img ', '<img loading="lazy" decoding="async" ')|replace('<img loading="lazy" decoding="async" ', '<img ', 1) }}{% endblock %}
     {% block after_content %}{% endblock %}
   </div>
 </article>

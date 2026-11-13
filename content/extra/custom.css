@@ -159,8 +159,6 @@ p {
   text-transform: uppercase;
 }
 
-.un-foot
-
 /* =========================================================
    Typography polish
    ========================================================= */
@@ -326,7 +324,36 @@ main article img {
   font-weight: 600;
 }
 
-/* Footer text: darker grey for legibility (theme default #999 is about 2.85:1; #666 is about 5.7:1) */
-footer p {
+/* Footer text: darker grey for legibility (theme default #999 is about 2.85:1; #666 is about 5.7:1).
+   Needs "main footer p" to match the theme's own selector, or the theme rule wins. */
+main footer p {
   color: #666666;
+}
+
+/* =========================================================
+   Design review quick fixes (11/13)
+   ========================================================= */
+
+/* Footer links: bigger tap targets (they were about 14px tall) */
+footer p a {
+  display: inline-block;
+  padding: 0.5rem 0.25rem;
+}
+
+/* Keep the gap under the sidebar logo now that the empty title heading is gone */
+aside div > a {
+  display: block;
+  margin-bottom: 15px;
+}
+
+/* Phones: one menu link per line (the theme runs them together below 768px) */
+@media (max-width: 767px) {
+  aside nav ul li {
+    display: block;
+    line-height: 1.4em;
+  }
+  aside nav ul li a {
+    display: inline-block;
+    padding: 0.1rem 0;
+  }
 }
