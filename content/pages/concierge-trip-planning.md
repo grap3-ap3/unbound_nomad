@@ -26,6 +26,8 @@ That’s where I come in.
 You bring the idea:  
 > “I want to ride **here** around **this time**, with **this many days** and **this kind of vibe**.”
 
+Bring the route or destination you want, or just the vibe, and I'll build around it.
+
 I turn that into a rideable, realistic, dialed-in plan - so you can focus on the part that matters:
 
 **riding.**
