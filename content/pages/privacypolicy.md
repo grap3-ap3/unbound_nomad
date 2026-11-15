@@ -7,7 +7,7 @@ Slug: privacy-policy
 Status: hidden
 Description: How The Unbound Nomad website handles your information: booking and newsletter forms, cookie-free analytics, and the third-party services the site uses.
 
-Last updated: 11/10/2026
+Last updated: 11/14/2026
 
 This policy covers the website at unboundnomad.com, run by The Unbound Nomad (Phil Grimes). It explains what information the site collects, why, and who else handles it. The MotoPin app has its own [MotoPin Privacy Policy](/pages/motopin-privacy-policy.html). The rules for using the site, services, and MotoPin are in the [Terms of Service](/pages/terms.html).
 
@@ -21,7 +21,7 @@ This policy covers the website at unboundnomad.com, run by The Unbound Nomad (Ph
 
 - **Booking and trip-planning requests.** The [booking form](/pages/booking.html) asks for things like your name, contact details, and what kind of ride you want. I use this to reply to you and plan your ride. The form is run by Jotform, which stores your submission for me.
 - **Newsletter sign-up.** If you sign up, your email address (and name, if you give it) goes to MailerLite, which I use to send the newsletter. Every email has an unsubscribe link.
-- **Purchases.** Digital downloads are sold through Gumroad, and some payments go through Square. They handle your payment details; I never see your full card number. I receive what I need to fulfill the order, such as your name and email.
+- **Purchases.** Digital downloads are sold through Gumroad, and some payments go through Square. They handle your payment details; I never see your full card number. I receive what I need to fulfill the order, such as your name and email. Gift certificates are emailed to the buyer, so I use the buyer's email for that. If an item has to be shipped, such as a patch that comes with a gift certificate, Square's checkout asks for a shipping address, and I use it only to mail that item.
 - **Email.** If you email me, I'll have your address and whatever you write, and I use it only to reply.
 
 ## Information collected automatically
@@ -43,7 +43,7 @@ Some links on this site may be Amazon affiliate links. If you click one and buy 
 
 - To reply to you and plan, book, and run your ride
 - To send the newsletter, if you signed up
-- To deliver what you bought
+- To deliver what you bought, including emailing gift certificates and mailing items that ship
 - To understand which pages are useful and improve the site
 
 ## Your choices

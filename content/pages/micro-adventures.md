@@ -4,8 +4,8 @@ Author: The Unbound Nomad
 Category: Page
 Tags: Motorcycle rides, Guided rides, Micro-adventures
 Slug: micro-adventures
-Status: hidden
-
+Status: published
+Description: Guided half-day and full-day motorcycle Micro-Adventures from The Unbound Nomad. Scenic, curated roads, zero planning stress, and a day that feels bigger than the miles.
 
 *Ride. Reset. Return different.*
 
@@ -74,27 +74,9 @@ Even if it’s “only” half a day, a well-built Micro-Adventure feels like so
 
 ---
 
-## 2026 Micro-Adventure Options
+## Your Route, Your Day
 
-These are some of the core runs planned for 2026. Availability may shift with travel and weather, but this is the flavor you can expect.
-
-### Rim of the World
-
-A California mountain ridge run with cinematic vistas, sweepers, and views that feel straight out of a movie.
-
-### Zaleski Zipper
-
-SE Ohio forest twisties with elevation changes, tight curves, and quiet stretches that make you forget what day it is.
-
-### Hocking Hills Loop
-
-A legendary Midwest loop full of curves, cliffs, rock formations, and scenic pull-offs that reward stopping for a minute.
-
-### Windy 9 Sampler
-
-A curated taste of Ohio’s Windy 9 - carefully stitched together into one solid day of riding.
-
-More Micro-Adventures will be added throughout the 2026 season as scouting and travel continue.
+Every Micro-Adventure is built around you. Bring a route, a road or a destination you've been wanting to ride, or tell me what kind of riding you love and I'll suggest a run. Either way, I plan the details.
 
 ---
 
@@ -114,10 +96,12 @@ A full tank kind of day:
 
 - more miles  
 - more stops  
-- more chances for “holy shit, look at that” moments  
+- more chances for “wow, look at that” moments  
 
 > **Group riders welcome.**  
 > Pricing is for the **experience**, not per rider. If you’re bringing a small crew, just mention it when you reach out.
+
+**Give the gift of a ride.** Micro-Adventures are available as [gift certificates](gift-certificates.html).
 
 ---
 
@@ -132,7 +116,7 @@ Micro-Adventures are a great fit if:
 
 ---
 
-## 🏍️ Ready for a 2026 Micro-Adventure?
+## 🏍️ Ready for a Micro-Adventure?
 
 <p style="margin: 1rem 0 1.25rem 0;">
   <a href="booking.html" class="un-btn">
@@ -148,4 +132,4 @@ When you reach out, tell me:
 - how long you want to be out (½ day or full day)  
 - roughly when and where you’d like to ride  
 
-From there, I’ll build the perfect run for you.
+From there, I’ll build the run around you.
