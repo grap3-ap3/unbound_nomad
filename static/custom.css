@@ -357,3 +357,16 @@ aside div > a {
     padding: 0.1rem 0;
   }
 }
+
+/* Gift certificate banner on the home page (shown 11/27 to 12/22/2026; see index.html) */
+.un-banner {
+  background: #4a1878;
+  color: #ffffff;
+  text-align: center;
+  padding: 0.6rem 1rem;
+  margin: 0 0 1rem 0;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+.un-banner[hidden] { display: none; }
+.un-banner a { color: #ffffff; font-weight: 700; text-decoration: underline; }
