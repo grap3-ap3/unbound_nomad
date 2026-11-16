@@ -4,6 +4,21 @@
 
 {# Above-the-fold call to action, first page of the homepage only #}
 {% if not articles_page or articles_page.number == 1 %}
+{# Gift certificate banner. Hidden by default; the script below shows it only inside the window
+   (Fri 11/27/2026 00:00 ET to Wed 12/23/2026 00:00 ET), so it also removes itself on schedule.
+   Remove this whole block after 12/22/2026. #}
+<p class="un-banner" id="un-gift-banner" data-start="2026-11-27T05:00:00Z" data-end="2026-12-23T05:00:00Z" hidden>
+  Gift certificates for riders: trip plans and a day on the road. Free Broken Wings patch with $150+. Order by Dec 22.
+  <a href="{{ SITEURL }}/pages/gift-certificates.html">Gift a ride or a trip plan</a>
+</p>
+<script>
+(function () {
+  var b = document.getElementById("un-gift-banner");
+  if (!b) return;
+  var n = Date.now();
+  if (n >= Date.parse(b.getAttribute("data-start")) && n < Date.parse(b.getAttribute("data-end"))) b.hidden = false;
+})();
+</script>
 <section class="un-hero">
   <h1>Stop Searching. Start Riding.</h1>
   <p>Custom routes, guided rides, and expert planning for riders who want more road and less stress.</p>
