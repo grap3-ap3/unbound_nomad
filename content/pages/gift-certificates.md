@@ -3,7 +3,7 @@ Date: 2026-11-14 09:00
 Author: The Unbound Nomad
 Category: Page
 Slug: gift-certificates
-Status: hidden
+Status: published
 Description: Gift certificates for motorcycle trip plans and guided Micro-Adventures from The Unbound Nomad. Emailed the same day, no expiration, and a free Broken Wings patch with $150 or more.
 
 Riders are hard to shop for. A trip plan or a day on the road is easy to give, needs no shipping and is never the wrong size. Every certificate is emailed to you the same day.
@@ -20,19 +20,19 @@ I build the route, you ride it. Not sure which fits? See [Concierge Trip Plannin
 
 A refined route for the trip, with key roads and highlights.
 
-<p><a href="#" class="un-btn">Buy the Road Map - [SQUARE LINK: Road Map]</a></p>
+<p><a href="https://square.link/u/p5ve26Do" class="un-btn">Buy the Road Map - $75</a></p>
 
 ### The Journey Plan - **$150**
 
 Everything in the Road Map, plus lodging stops, food suggestions, arrival windows and bonus roads.
 
-<p><a href="#" class="un-btn">Buy the Journey Plan - [SQUARE LINK: Journey]</a></p>
+<p><a href="https://square.link/u/oCJVlmZv" class="un-btn">Buy the Journey Plan - $150</a></p>
 
 ### The Full-Throttle Plan - **$250**
 
 The "I want it all dialed in" option: a fully built day-by-day itinerary with primary and backup routes, weather and hazard notes, sunrise and sunset windows, and gear and packing notes for the route and season.
 
-<p><a href="#" class="un-btn">Buy the Full-Throttle Plan - [SQUARE LINK: Full-Throttle]</a></p>
+<p><a href="https://square.link/u/TIjAaUHN" class="un-btn">Buy the Full-Throttle Plan - $250</a></p>
 
 ---
 
@@ -42,11 +42,11 @@ Guided Micro-Adventures, ridden in the 2027 season. See [Micro-Adventures](micro
 
 ### Half-Day Micro-Adventure - **$150**
 
-<p><a href="#" class="un-btn">Buy the Half-Day - [SQUARE LINK: Half-Day]</a></p>
+<p><a href="https://square.link/u/H5DYgRVn" class="un-btn">Buy the Half-Day - $150</a></p>
 
 ### Full-Day Micro-Adventure - **$275**
 
-<p><a href="#" class="un-btn">Buy the Full-Day - [SQUARE LINK: Full-Day]</a></p>
+<p><a href="https://square.link/u/qjpwQnVQ" class="un-btn">Buy the Full-Day - $275</a></p>
 
 ---
 
