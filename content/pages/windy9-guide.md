@@ -1,7 +1,7 @@
 Title: Ohio's Windy 9: Free Rider's Guide
 Slug: windy9-guide
 Status: published
-Summary: A free rider's guide to all nine of Ohio's Windy 9 motorcycle routes — written by Phil, The Unbound Nomad, from personal saddle time on every mile.
+Summary: A free rider's guide to all nine of Ohio's Windy 9 motorcycle routes - written by Phil, The Unbound Nomad, from personal saddle time on every mile.
 
 <!-- Hero CTA Band -->
 <div style="text-align:center;padding:2rem 1rem;background:linear-gradient(135deg,#1a0028 0%,#2d0050 100%);margin:0 -1rem 2.5rem;border-radius:6px;">

@@ -6,9 +6,9 @@ Tags: Privacy, MotoPin
 Slug: motopin-privacy-policy
 Status: hidden
 
-Last updated: 11/8/2026
+Last updated: 11/19/2026
 
-Welcome to MotoPin! MotoPin is a motorcycle GPS pin-dropping app built by The Unbound Nomad. This policy explains what information MotoPin collects, how it's used, and the choices you have. We've kept it short because, honestly, there isn't much to tell — MotoPin was built from the ground up to keep your data on your own phone.
+Welcome to MotoPin! MotoPin is a motorcycle GPS pin-dropping app built by The Unbound Nomad. This policy explains what information MotoPin collects, how it's used, and the choices you have. We've kept it short because, honestly, there isn't much to tell - MotoPin was built from the ground up to keep your data on your own phone.
 
 ## Information We Collect
 
@@ -16,7 +16,7 @@ Welcome to MotoPin! MotoPin is a motorcycle GPS pin-dropping app built by The Un
 
 **Photos (optional).** If you choose to attach a photo to a pin, that photo is copied into MotoPin's private app storage on your device.
 
-**What we don't collect.** MotoPin does not ask for your name, email address, or any account sign-up — there is no MotoPin account. MotoPin has no ads and no analytics or advertising SDKs, and we (The Unbound Nomad) never receive your device identifiers, usage statistics, or crash logs. The Google map and place-search components built into the app do send some technical information to Google; see **Google services MotoPin uses** below.
+**What we don't collect.** MotoPin does not ask for your name, email address, or any account sign-up - there is no MotoPin account. MotoPin has no ads and no analytics or advertising SDKs, and we (The Unbound Nomad) never receive your device identifiers, usage statistics, or crash logs. The Google map and place-search components built into the app do send some technical information to Google; see **Google services MotoPin uses** below.
 
 ## Where Your Data Lives
 
@@ -38,19 +38,19 @@ MotoPin is built on a few Google components. They talk to Google directly, and G
 
 ## How We Use Your Information
 
-We use the location and photo data you capture solely to provide MotoPin's core features: saving pins, showing them on a map, matching new pins to real places, and letting you export or share your ride history. That's it — there's no other use, because there's no other place for it to go.
+We use the location and photo data you capture solely to provide MotoPin's core features: saving pins, showing them on a map, matching new pins to real places, and letting you export or share your ride history. That's it - there's no other use, because there's no other place for it to go.
 
 ## Sharing Your Information
 
-We do not sell, trade, or otherwise transfer your information to third parties. When you choose to use MotoPin's Share, Export, or Back Up Pins features, you are the one sending your data — to whatever app, contact, or file you pick from your phone's share sheet (for example, saving a backup to your own Google Drive). That's your action, not something MotoPin does on your behalf. Likewise, Import Pins and Restore Pins only read the file you pick.
+We do not sell, trade, or otherwise transfer your information to third parties. When you choose to use MotoPin's Share, Export, or Back Up Pins features, you are the one sending your data - to whatever app, contact, or file you pick from your phone's share sheet (for example, saving a backup to your own Google Drive). That's your action, not something MotoPin does on your behalf. Likewise, Import Pins and Restore Pins only read the file you pick.
 
 ## App Permissions
 
 MotoPin asks for a few Android permissions, each tied directly to a feature you choose to use:
 
-- **Location (Fine/Coarse)** — required to capture where you are when you tap "PIN IT."
-- **Notifications** (Android 13+) — used only for the floating button's "floating button is on" notification and the brief "Pinning your location…" notification shown while a pin is being saved.
-- **Display over other apps** — required only if you turn on the optional floating "Pin It" button, so it can appear on top of other apps.
+- **Location (Fine/Coarse)** - required to capture where you are when you tap "PIN IT."
+- **Notifications** (Android 13+) - used only for the floating button's "floating button is on" notification and the brief "Pinning your location…" notification shown while a pin is being saved.
+- **Display over other apps** - required only if you turn on the optional floating "Pin It" button, so it can appear on top of other apps.
 
 You can deny any of these, but the related feature won't work without it.
 

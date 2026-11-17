@@ -7,7 +7,7 @@ Slug: privacy-policy
 Status: hidden
 Description: How The Unbound Nomad website handles your information: booking and newsletter forms, cookie-free analytics, and the third-party services the site uses.
 
-Last updated: 11/16/2026
+Last updated: 11/19/2026
 
 This policy covers the website at unboundnomad.com, run by The Unbound Nomad (Phil Grimes). It explains what information the site collects, why, and who else handles it. The MotoPin app has its own [MotoPin Privacy Policy](/pages/motopin-privacy-policy.html). The rules for using the site, services, and MotoPin are in the [Terms of Service](/pages/terms.html).
 
