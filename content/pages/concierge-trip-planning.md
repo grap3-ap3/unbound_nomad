@@ -11,6 +11,22 @@ Description: Concierge motorcycle trip planning: you bring the idea, I build a r
 
 ---
 
+## Plan Your 2027 Season Now
+
+Ohio's riding season is on pause. Your next big trip doesn't have to be.
+
+Winter is when the best trips get decided - while there's still time to get the dates and the rooms you want. Tell me where you want to ride in 2027, and I'll build the plan this winter. When the season opens, all you have to do is ride.
+
+**Plans start at $75.** *Book by January 31 and get $25 off a 2027 Micro-Adventure.*
+
+<p style="margin: 1rem 0 1.25rem 0;">
+  <a href="booking.html" class="un-btn">
+    🗺️ Start My 2027 Trip Plan
+  </a>
+</p>
+
+---
+
 ## Why Riders Love This
 
 Planning a motorcycle trip is fun - until it isn’t.
@@ -98,6 +114,16 @@ You still ride your own ride - I just help you ride it smarter.
 
 ---
 
+## How It Works
+
+**1. Tell me about the trip.** Fill out the short form - where you're starting, rough dates, how many days, and the kind of roads you like. Takes about five minutes.
+
+**2. We talk it through.** I usually reply within 24 hours. We confirm which plan fits, and I send you a secure Square payment link.
+
+**3. You get your plan.** After payment, The Road Map arrives within 7 days. The Journey Plan and The Full-Throttle Plan arrive within 14 days. Custom trips and larger group plans may take longer, but never more than 30 days. And I don't disappear after that - questions are welcome from the very beginning until the very end of your trip.
+
+---
+
 ## Packages
 
 ### 1) The Road Map - **$75**
@@ -179,3 +205,5 @@ When you reach out, tell me:
 
 From there, I’ll put together a plan that feels like it was built specifically for you -  
 because it was.
+
+**Know a rider who'd love this?** Trip plans make a great gift. [Gift certificates](gift-certificates.html)
