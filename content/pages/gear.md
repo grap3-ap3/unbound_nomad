@@ -3,7 +3,7 @@ Date: 2026-11-16 09:00
 Author: The Unbound Nomad
 Category: Page
 Slug: gear
-Status: hidden
+Status: published
 Description: The gear that stays on my bike and the mods I've made to it, from a biker who plans routes and guides rides.
 
 *As an Amazon Associate I earn from qualifying purchases.*
@@ -66,11 +66,13 @@ Also in <a href="https://link.amazon/B06A0gsoZ" rel="sponsored nofollow">Kemi Mo
 - **What it does:** Pushes air up and over you, reducing wind buffeting.
 - **Why I chose it:** It makes for a comfortable ride and looks nicer than the stock windshield.
 - **Link:** [Klockwerks Kolor Flare windshield](https://getklocked.com/products/kolor-flare-windshields-for-indian-2025-chieftain-roadmaster-powerplus?variant=46372973707439)
+- **Video:** [3 Easy Mods for the Indian Roadmaster You Can Do in Your Driveway](https://www.youtube.com/watch?v=6k_YO4vh9Sk)
 
 ### HogWorkz highway pegs
 - **What it does:** Gives you extra leg room on longer trips.
 - **Why I chose it:** I like the look, and the adjustable clamps make positioning quick and easy.
 - **Link:** [HogWorkz short highway pegs](https://hogworkz.com/harley-black-short-footpegs.html)
+- **Video:** [3 Easy Mods for the Indian Roadmaster You Can Do in Your Driveway](https://www.youtube.com/watch?v=6k_YO4vh9Sk)
 
 ### KST Kustoms Apache Bagger mid-rise handlebars
 - **What it does:** Makes my arms and shoulders a little more comfortable on long rides, and it looks really cool.
@@ -86,5 +88,6 @@ Also in <a href="https://link.amazon/B06A0gsoZ" rel="sponsored nofollow">Kemi Mo
 - **What it does:** Looks much nicer than stock while still picking up a good signal.
 - **Why I chose it:** It looks much cleaner than the stock whip.
 - **Link:** <a href="https://link.amazon/B0bpxzdKx" rel="sponsored nofollow">Short Truck Antenna for 2015-2026 Chieftain/Roadmaster, on Amazon</a> (affiliate link)
+- **Video:** [3 Easy Mods for the Indian Roadmaster You Can Do in Your Driveway](https://www.youtube.com/watch?v=6k_YO4vh9Sk)
 
 ---
