@@ -3,19 +3,17 @@ Date: 2026-07-07
 Author: The Unbound Nomad
 Category: Page
 Slug: newsletter
-Status: hidden
+Status: published
 
-# Something's Coming
+# Get the Unbound Nomad emails
 
-I'm putting together a newsletter for riders who want route guides, gear notes, and the occasional story from the road - before any of it shows up on the blog or social.
+About once a month I send route guides, gear notes, trip dates and stories from the road, usually before they reach the blog or social media. No daily noise.
 
-No spam, no daily noise. Just the good stuff, when there's something worth sending.
-
-Want in when it launches?
+Sign up below. You'll get an email asking you to confirm, then you're on the list. Unsubscribe any time.
 
 <div class="un-embed-loading" data-watch=".ml-embedded form, .ml-embedded iframe">Loading the sign-up form…</div>
 <div class="ml-embedded" data-form="Mpv8Be"></div>
 
 ---
 
-In the meantime, if you're looking for something to read right now, check out the [Rider Resources and Downloads](/pages/resources.html) page or the [blog](/blog/index.html).
+Looking for something to read now? See the [Rider Resources and Downloads](/pages/resources.html) page or the [blog](/blog/index.html).
