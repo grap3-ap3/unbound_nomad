@@ -6,7 +6,7 @@ Slug: gift-certificates
 Status: published
 Description: Gift certificates for motorcycle trip plans and guided Micro-Adventures from The Unbound Nomad. Emailed the same day, no expiration, and a free Broken Wings patch with $150 or more.
 
-Riders are hard to shop for. A trip plan or a day on the road is easy to give, needs no shipping and is never the wrong size. Every certificate is emailed to you the same day.
+Riders are hard to shop for. A trip plan or a day on the road is easy to give and is never the wrong size. Every certificate is emailed to you the same day.
 
 *All sales are final: no returns or refunds, with a few exceptions listed in the [Terms of Service](/pages/terms.html).*
 
