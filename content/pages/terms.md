@@ -36,7 +36,7 @@ The Unbound Nomad LLC is based in Ohio, USA. You can reach me at **unboundnomad@
 
 - **What they are.** A gift certificate is bought through Square checkout and covers a trip plan or a guided Micro-Adventure at the listed price. I email it to the buyer with the recipient's name and a code.
 - **Redeeming.** The recipient books through the [booking form](/pages/booking.html) and puts the code in "Anything else I should know?" Booking, confirmation, scheduling, and safety work as described in the section on guided rides and concierge trip planning above, including the Participant Agreement every rider signs.
-- **No expiration, no cash value.** A gift certificate doesn't expire and can't be redeemed for cash. Refunds are covered in the section on refunds and returns below.
+- **No expiration, no fees, no cash value.** A gift certificate doesn't expire, carries no fees, and can't be redeemed for cash. Refunds are covered in the section on refunds and returns below.
 - **Transferable.** The recipient can give it to anyone else.
 - **Dates and weather.** Micro-Adventure dates are set together and depend on the weather. I'll reschedule rather than ride in unsafe conditions.
 - **Free patch offers.** When a certificate comes with a free patch, the offer terms are on the gift certificate page. The patch is mailed to the address you give at checkout, while supplies last.

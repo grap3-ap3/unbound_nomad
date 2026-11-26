@@ -68,7 +68,7 @@ Any certificate of **$150 or more** comes with a free Broken Wings patch, mailed
 
 ## Terms
 
-- No expiration.
+- No expiration and no fees.
 - Not redeemable for cash.
 - All sales are final. No returns or refunds, except if I cancel a ride, a shipped item arrives damaged or wrong, or you're charged in error. Details are in the [Terms of Service](/pages/terms.html).
 - Transferable: give it to any rider you like.
