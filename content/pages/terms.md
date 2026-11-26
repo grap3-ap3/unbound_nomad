@@ -6,7 +6,7 @@ Slug: terms
 Status: hidden
 Description: Terms of service for The Unbound Nomad LLC: the website, guided rides and concierge trip planning, gift certificates, and digital downloads.
 
-Last updated: 11/19/2026
+Last updated: 11/26/2026
 
 These terms cover your use of unboundnomad.com, the guided rides and trip-planning services offered here, gift certificates, and the digital products sold through this site. The MotoPin app is covered by its own [MotoPin Terms of Service](/pages/motopin-terms.html). They're an agreement between you and **The Unbound Nomad LLC**, an Ohio limited liability company ("The Unbound Nomad," "I," "me," "we," or "us"). By using the site, booking a service, or buying a product, you agree to these terms. If you don't agree, please don't use them.
 
@@ -35,7 +35,7 @@ The Unbound Nomad LLC is based in Ohio, USA. You can reach me at **unboundnomad@
 ## 4. Gift certificates
 
 - **What they are.** A gift certificate is bought through Square checkout and covers a trip plan or a guided Micro-Adventure at the listed price. I email it to the buyer with the recipient's name and a code.
-- **Redeeming.** The recipient books through the [booking form](/pages/booking.html) and enters the code. Booking, confirmation, scheduling, and safety work as described in the section on guided rides and concierge trip planning above, including the Participant Agreement every rider signs.
+- **Redeeming.** The recipient books through the [booking form](/pages/booking.html) and puts the code in "Anything else I should know?" Booking, confirmation, scheduling, and safety work as described in the section on guided rides and concierge trip planning above, including the Participant Agreement every rider signs.
 - **No expiration, no cash value.** A gift certificate doesn't expire and can't be redeemed for cash. Refunds are covered in the section on refunds and returns below.
 - **Transferable.** The recipient can give it to anyone else.
 - **Dates and weather.** Micro-Adventure dates are set together and depend on the weather. I'll reschedule rather than ride in unsafe conditions.

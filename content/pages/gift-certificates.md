@@ -60,7 +60,7 @@ Any certificate of **$150 or more** comes with a free Broken Wings patch, mailed
 
 1. Buy the certificate here (Square checkout).
 2. I email you a printable certificate the same day, with the recipient's name and a code like UN-GIFT-001.
-3. They book through the [booking form](booking.html) and enter the code.
+3. They book through the [booking form](booking.html) and put the code in "Anything else I should know?"
 
 **Order by Tuesday 12/22** to have it by Christmas Eve.
 
