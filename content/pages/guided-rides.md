@@ -91,7 +91,7 @@ These are some of the core runs available for 2026. Availability may shift with 
 
 ### Rim of the World
 
-A California mountain ridge run with cinematic vistas, sweepers, and views that feel straight out of a movie.
+A southeast Ohio ridge run on State Route 78 with cinematic vistas, sweepers, and views that feel straight out of a movie.
 
 ### Zaleski Zipper
 
