@@ -4,7 +4,7 @@ Author: The Unbound Nomad
 Category: Blog
 Tags: Indian Motorcycle, Gear, YouTube
 Slug: 3-easy-mods-indian-roadmaster
-Status: draft
+Status: published
 Description: First mods on my 2026 Indian Roadmaster Dark Horse: a short antenna, a purple Klockwerks windshield, and HogWorkz highway pegs, all done in one morning with basic tools.
 Og_image: https://i.ytimg.com/vi/6k_YO4vh9Sk/maxresdefault.jpg
 
