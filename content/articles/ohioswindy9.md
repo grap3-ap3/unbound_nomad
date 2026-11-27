@@ -6,14 +6,14 @@ Tags: Motorcycles, Lifestyle
 Slug: ohios-windy-9-tour
 Status: published
 
-9 Thrilling Routes, 1 Great Destination. Ohio’s Windy 9 is a motorcycling destination comprised of 9 routes that begin and end in Athens, Ohio. The abundance of curves and elevation change along these roads make this a popular destination for motorcyclists. This route can be customized to fit the time you have available so come for 1, ride all 9, or let The Unbound Nomad create a customized package just for you!
+9 Thrilling Routes, 1 Great Destination. Ohio’s Windy 9 is a motorcycling destination comprised of 9 routes. Eight begin and end in Athens, Ohio, and the ninth, the Triple Nickel, runs one way from Athens. The abundance of curves and elevation change along these roads make this a popular destination for motorcyclists. This route can be customized to fit the time you have available so come for 1, ride all 9, or let The Unbound Nomad create a customized package just for you!
 <br>
 # The Windy 9
 |Ride Name|Distance|:|Ride Time|
 |:-------- | :------: |:|:------------- |
 Rim of the World|80 miles|:|2 hours|
 Southern Dip|94 miles|:|2.5 hours|
-Hocking Hills Nipper|93 miles|:|2.25 hours|
+Hocking Hills Nipper|92.3 miles|:|2.25 hours|
 Lazy Rivers|98 miles|:|2.25 hours|
 Zaleski Zipper|50 miles|:|1 hour|
 Pioneer Pass|104 miles|:|2.5 hours|

@@ -126,7 +126,7 @@ See something worth remembering mid-ride? One tap drops a GPS pin, and MotoPin s
 
 # Ohio's Windy 9: Free Rider's Guide
 
-Nine routes. 830+ miles. Southeast Ohio's finest roads - profiled from personal saddle time on every mile.
+Nine routes. About 800 miles. Southeast Ohio's finest roads - profiled from personal saddle time on every mile.
 
 Not a tourism brochure. Honest riding intel: full route profiles, difficulty ratings, local food stops riders actually eat at, and tips for building a multi-day Athens base camp trip.
 
